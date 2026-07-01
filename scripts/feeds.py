@@ -1,25 +1,34 @@
-"""Which shows to follow, and where their transcripts come from.
+"""Which shows to follow, where to discover episodes, and how to get transcripts.
 
-Add a show by appending a dict here. `youtube_rss` is a keyless RSS feed
-(https://www.youtube.com/feeds/videos.xml?channel_id=UC...). `transcript_sources`
-is tried in order until one yields text:
-  - "lex_site" : scrape the official transcript page on lexfridman.com (free, cloud-safe)
-  - "youtube"  : YouTube captions via youtube-transcript-api (needs a residential
-                 IP or proxy — see README; blocked from datacenter IPs)
+Each feed has:
+  - kind: "youtube" (a YouTube channel RSS) or "audio" (a podcast RSS with MP3s)
+  - feed_url: the RSS URL
+  - transcript_sources: tried in order until one yields text
+      "lex_site" : scrape the official transcript page on lexfridman.com (free, cloud-safe)
+      "youtube"  : YouTube captions (blocked from datacenter IPs — see README)
+      "whisper"  : download the episode's MP3 and transcribe it locally with
+                   faster-whisper (works from any IP, incl. GitHub Actions)
+  - max_per_run: optional cap on new episodes summarized per run (defaults to
+      MAX_NEW_PER_FEED). Whisper transcription is slow, so All-In is capped low
+      and backfills over several daily runs.
 """
 
 FEEDS = [
     {
         "name": "All-In",
         "slug": "all-in",
-        # The main "All-In Podcast" channel (not the clips channel).
-        "youtube_rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCESLZhusAkFfsNsApnjF_Cg",
-        "transcript_sources": ["youtube"],
+        "kind": "audio",
+        # The official audio feed (Libsyn). Full episodes only — no clips — and
+        # the MP3s download fine from any IP, so this works in the cloud.
+        "feed_url": "https://allinchamathjason.libsyn.com/rss",
+        "transcript_sources": ["whisper"],
+        "max_per_run": 1,  # ~30-60 min to transcribe an episode; backfills daily
     },
     {
         "name": "Lex Fridman",
         "slug": "lex-fridman",
-        "youtube_rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSHZKyawb77ixDdsGog4iWA",
+        "kind": "youtube",
+        "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSHZKyawb77ixDdsGog4iWA",
         # Prefer his official transcript page; fall back to captions if it's not
         # published yet (there's a lag) or the link isn't in the feed.
         "transcript_sources": ["lex_site", "youtube"],

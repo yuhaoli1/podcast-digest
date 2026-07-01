@@ -15,6 +15,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 180 # audio transcription of a full episode can take a while
     steps:
       - uses: actions/checkout@v4
 
@@ -24,6 +25,13 @@ jobs:
           cache: pip
 
       - run: pip install -r requirements.txt
+
+      # Cache the faster-whisper model so it isn't re-downloaded every run.
+      - name: Cache Whisper model
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: whisper-${{ env.WHISPER_MODEL || 'base.en' }}
 
       - name: Fetch and summarize new episodes
         env:

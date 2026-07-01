@@ -14,7 +14,7 @@ was covered and decide whether it's worth a full listen.
 ```
 scripts/main.py          orchestrates a run
 scripts/feeds.py         which shows to follow
-scripts/transcripts.py   per-show transcript fetching (Lex site scrape + YouTube captions)
+scripts/transcripts.py   per-show transcript fetching (Lex site scrape, YouTube captions, Whisper audio)
 scripts/summarize.py     Claude summarization -> structured JSON
 docs/index.html          the web page (static, committed once)
 docs/episodes.json       the data the page renders (updated by the job)
@@ -42,41 +42,35 @@ docs/episodes.json       the data the page renders (updated by the job)
 After that it runs itself once a day (14:00 UTC — edit the `cron` line in
 `.github/workflows/update.yml` to change the time).
 
-## The one caveat: All-In transcripts in the cloud
+## How each show gets its transcript
 
-The two shows get their transcripts differently:
+The two shows get their text differently — both work fully in the cloud:
 
-- **Lex Fridman** publishes official transcripts on his site. These are fetched
-  directly and work perfectly from GitHub's servers. ✅
-- **All-In** has no official transcript, so the only text source is YouTube's
-  auto-captions — and **YouTube blocks datacenter IPs**, which is what GitHub
-  Actions runs on. So All-In summaries won't appear from the cloud job by default.
+- **Lex Fridman** publishes official transcripts on his site. These are scraped
+  directly (fast, and they include speaker labels). ✅
+- **All-In** has no official transcript, so the job downloads the episode's MP3
+  from its podcast feed and transcribes it with **faster-whisper** on the runner.
+  This works from any IP (no proxy needed), but it's **slow** — transcribing a
+  full ~2-hour episode takes roughly 30–60 minutes of runner time. So All-In is
+  capped at **one episode per run** (`max_per_run` in `feeds.py`) and backfills
+  over several daily runs before keeping up in real time. Whisper transcripts
+  have no speaker labels, so All-In summaries won't attribute a take to a specific
+  host as precisely as Lex's do.
 
-If an episode's transcript can't be fetched, it's simply **skipped and retried on
-the next run** — nothing breaks. To actually get All-In working, pick one:
+If a transcript can't be produced (e.g. a brand-new episode), it's simply
+**skipped and retried on the next run** — nothing breaks.
 
-**Option A — run the fetch on your Mac (free).**
-Your home IP isn't blocked, so this just works. From the project folder:
+**Tuning transcription:**
+- `WHISPER_MODEL` (default `base.en`) — set to `small.en` for better accuracy on
+  names/companies at ~2× the time, or `tiny.en` for speed.
+- All-In runtime is free on GitHub Actions (public repos get unlimited minutes);
+  the daily job carries a 180-minute timeout.
 
-```bash
-python3 -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-export ANTHROPIC_API_KEY=sk-ant-...
-python scripts/main.py
-git add docs/episodes.json && git commit -m "digest" && git push
-```
-
-You can do this whenever you want to backfill; the site (on Pages) stays live
-regardless. To automate it, schedule that command with `cron`/`launchd`.
-
-**Option B — add a residential proxy (a few $/month, stays fully cloud).**
-Sign up for a **Webshare "Residential"** (rotating) proxy, then add two repo
-secrets: `WEBSHARE_PROXY_USERNAME` and `WEBSHARE_PROXY_PASSWORD`. The job picks
-them up automatically and All-In starts working from the cloud. (A generic proxy
-also works via `YT_PROXY_HTTP` / `YT_PROXY_HTTPS`.)
-
-Lex works either way, so if you don't set this up you'll still get a working
-Lex Fridman digest in the cloud from day one.
+**Faster alternative for YouTube-caption shows:** for any show configured with the
+`youtube` transcript source (not All-In, which uses audio), captions are blocked
+from datacenter IPs. Add a **Webshare Residential** proxy via the
+`WEBSHARE_PROXY_USERNAME` / `WEBSHARE_PROXY_PASSWORD` repo secrets (or a generic
+one via `YT_PROXY_HTTP` / `YT_PROXY_HTTPS`) and they'll work from the cloud too.
 
 ## Customizing
 

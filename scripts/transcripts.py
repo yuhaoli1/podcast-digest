@@ -1,14 +1,20 @@
 """Get an episode's transcript text, trying each show's configured sources in order.
 
-Returns a plain text transcript (speaker labels kept when available — they help
-the summary flag disagreements) or None if no source produced usable text, in
-which case the caller skips the episode and retries on the next run.
+Sources:
+  - lex_site : scrape lexfridman.com/<slug>-transcript (has speaker labels)
+  - youtube  : YouTube auto-captions (blocked from datacenter IPs)
+  - whisper  : download the episode MP3 and transcribe with faster-whisper
+               (works from any IP; no speaker labels)
+
+Returns plain text, or None if no source produced usable text, in which case the
+caller skips the episode and retries on the next run.
 """
 
 from __future__ import annotations
 
 import os
 import re
+import tempfile
 
 import requests
 from bs4 import BeautifulSoup
@@ -25,6 +31,8 @@ def get_transcript(entry, feed) -> str | None:
                 text = _from_youtube(entry.get("yt_videoid") or entry.get("id"))
             elif source == "lex_site":
                 text = _from_lex_site(entry)
+            elif source == "whisper":
+                text = _from_whisper(entry)
             else:
                 print(f"  unknown transcript source: {source}")
                 text = None
@@ -127,3 +135,69 @@ def _parse_lex_html(html: str) -> str | None:
         if len(text) >= _MIN_CHARS:
             return text
     return None
+
+
+# --- Whisper transcription of the episode audio -------------------------------
+
+_whisper_models: dict = {}
+
+
+def _from_whisper(entry) -> str | None:
+    audio_url = _enclosure_url(entry)
+    if not audio_url:
+        print("  no audio enclosure in feed entry")
+        return None
+
+    path = _download_audio(audio_url)
+    try:
+        return _transcribe(path)
+    finally:
+        try:
+            os.remove(path)
+        except OSError:
+            pass
+
+
+def _enclosure_url(entry) -> str | None:
+    for enc in entry.get("enclosures", []) or []:
+        if str(enc.get("type", "")).startswith("audio"):
+            return enc.get("href") or enc.get("url")
+    for link in entry.get("links", []) or []:
+        if link.get("rel") == "enclosure" and str(link.get("type", "")).startswith("audio"):
+            return link.get("href")
+    return None
+
+
+def _download_audio(url: str) -> str:
+    cap_bytes = int(os.environ.get("MAX_AUDIO_MB", "500")) * 1024 * 1024
+    resp = requests.get(url, headers=_UA, stream=True, timeout=120, allow_redirects=True)
+    resp.raise_for_status()
+    fd, path = tempfile.mkstemp(suffix=".mp3")
+    total = 0
+    with os.fdopen(fd, "wb") as f:
+        for chunk in resp.iter_content(chunk_size=1 << 16):
+            if not chunk:
+                continue
+            f.write(chunk)
+            total += len(chunk)
+            if total > cap_bytes:  # guard against absurdly large files
+                print(f"  audio exceeded {cap_bytes // (1024*1024)}MB cap — truncating")
+                break
+    print(f"  downloaded audio ({total // (1024*1024)}MB)")
+    return path
+
+
+def _get_whisper_model(model_name: str):
+    if model_name not in _whisper_models:
+        from faster_whisper import WhisperModel
+
+        # int8 on CPU is the fastest usable setting on a GitHub runner.
+        _whisper_models[model_name] = WhisperModel(model_name, device="cpu", compute_type="int8")
+    return _whisper_models[model_name]
+
+
+def _transcribe(path: str) -> str:
+    model_name = os.environ.get("WHISPER_MODEL", "base.en")
+    model = _get_whisper_model(model_name)
+    segments, _info = model.transcribe(path, language="en", vad_filter=True)
+    return " ".join(seg.text.strip() for seg in segments).strip()
