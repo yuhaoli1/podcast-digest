@@ -1,1 +1,154 @@
-[]
+[
+  {
+    "id": "pv1TUJSEM2k",
+    "show": "Lex Fridman",
+    "slug": "lex-fridman",
+    "title": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
+    "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
+    "published": "2026-06-30T21:16:13+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/pv1TUJSEM2k/hqdefault.jpg",
+    "summary": {
+      "tldr": "Historian Anthony Kaldellis argues that the 'Byzantine Empire' is a modern invention: the Eastern Roman state was simply the Roman Empire continuing unbroken from 753 BC to 1453 AD. The central thesis is that this society survived over a thousand years not through military dictatorship or luck but through a 'monarchical republic' structure where emperors were held accountable by a constant threat of violent overthrow, and were genuinely incentivized to serve their subjects. Kaldellis repeatedly emphasizes taxation as the engine holding the empire together, and argues the empire fell only to external invasions, never internal decay.",
+      "topics": [
+        {
+          "title": "Byzantium was just Rome, continuously",
+          "detail": "Kaldellis argues the burden of proof is on those calling it something other than Roman; its subjects called themselves Romans through 1453 and beyond. The full Roman state spanned roughly 2,200 years, and the East-West 'split' of 395 was a conventional date for a gradual process, not a rupture."
+        },
+        {
+          "title": "The monarchical republic and violent accountability",
+          "detail": "About 46% of Constantinople's emperors were overthrown by violence; roughly 120 civil wars occurred over the thousand years he studies. Kaldellis argues there was no right to the throne, so emperors ran a 'perpetual referendum'—gauging support via crowds in the Hippodrome (capacity ~30,000 to 100,000)—and served subjects well to avoid being deposed, blinded, or killed."
+        },
+        {
+          "title": "Taxation as the core engine",
+          "detail": "Kaldellis names taxation as the single most important factor in the empire's cohesion and longevity. Diocletian (r. 284-305) created universal census-based taxation, ending Italy's tax exemption; there were no 'isolated' peasant communities because every arable plot was censused and taxed multiple times a year."
+        },
+        {
+          "title": "The Edict of Caracalla (212 AD)",
+          "detail": "Extended Roman citizenship to all free inhabitants (up from maybe a third), and crucially they 'meant it'—within a generation emperors and top officials were all provincials. Kaldellis contrasts this with the unthinkability of Britain granting citizenship and the throne to colonial subjects."
+        },
+        {
+          "title": "Constantine and Christianity",
+          "detail": "Kaldellis ranks Constantine his #1 emperor for consequential decisions (founding Constantinople, Christian conversion) despite him murdering his son Crispus and wife. Christianity was maybe 10% of the population under Constantine and took until the 6th century to dominate; Kaldellis argues Rome co-opted Christianity rather than Christianity conquering Rome."
+        },
+        {
+          "title": "Justinian's mixed legacy",
+          "detail": "A peasant-descended emperor (r. 527-565) who codified Roman law (the Corpus Juris Civilis, still foundational today), rebuilt Hagia Sophia, and reconquered western provinces. But Kaldellis criticizes the overextension: he stripped eastern armies, letting Persia sack Antioch, and ordered the massacre of ~30,000 in the Nika riots."
+        },
+        {
+          "title": "Crises were external, resilience internal",
+          "detail": "Kaldellis identifies discrete swift catastrophes—Arab conquests (630s), Seljuk conquest of Asia Minor (1070s), Fourth Crusade (1204)—as external shocks, arguing the empire had no internal decay, no separatist movements (except Bulgaria), and always recovered. He dates the point of no return to the 1340s. Also debunks the maximalist 50% mortality claim for the Plague of Justinian and downplays iconoclasm as a concern of only a few hundred elites."
+        },
+        {
+          "title": "Lessons for the modern 'American empire'",
+          "detail": "Kaldellis argues institutions that visibly serve the majority (with credible rhetoric matching action) benefit rulers long-term. He criticizes the large gap between US foreign-policy rhetoric and action (citing the 'feminist war' framing of Afghanistan), noting Rome's army largely did what emperors claimed it did—protect subjects."
+        }
+      ],
+      "quotes": [
+        "We're talking about a society that was right in the middle of one of the main corridors of empire building and new religions in the world. This is the most dangerous neighborhood that you can possibly live in.",
+        "Something like 46% of the emperors of Constantinople are overthrown through violence... which means that every emperor is vulnerable and insecure, and they know it.",
+        "New Rome is literally stealing food from the mouth of Old Rome.",
+        "The best way to persuade your subjects that you're legitimate benevolent kings is to be that."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "A lucid, genuinely revisionist deep-dive on why a complex state stayed stable for a millennium—rich in transferable lessons on institutions, incentives, and the rhetoric-versus-action gap—though its relevance to tech and markets is indirect and it runs long."
+    },
+    "added_at": "2026-07-01T19:58:52.459467+00:00"
+  },
+  {
+    "id": "1M3Vdl6DRkU",
+    "show": "Lex Fridman",
+    "slug": "lex-fridman",
+    "title": "Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497",
+    "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
+    "published": "2026-05-29T16:18:31+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/1M3Vdl6DRkU/hqdefault.jpg",
+    "summary": {
+      "tldr": "Fermilab particle physicist Don Lincoln walks through the history of physics as a series of unifications (Newton, Maxwell, Einstein, the electroweak theory and Higgs mechanism) and then surveys the field's biggest open mysteries: the theory of everything, antimatter asymmetry, dark energy, and dark matter. The core message is that Lincoln, an experimentalist, is deeply skeptical of untested grand theories like string theory and believes real progress comes from measurements — but the deepest answers are likely 50-200+ years away.",
+      "topics": [
+        {
+          "title": "History of physics as unification",
+          "detail": "Lincoln frames physics as a sequence of unifications: Newton merged celestial and terrestrial gravity (~1650), Maxwell unified electricity and magnetism (1860s), Einstein/Minkowski unified space and time (1905/1908), and Glashow, Salam, and Weinberg unified electromagnetism with the weak force into the electroweak force (1967, not 1964 as often stated)."
+        },
+        {
+          "title": "Higgs mechanism and its 2012 discovery",
+          "detail": "The Higgs field (proposed 1964 by six people in three groups) gives mass to particles that interact with it while photons remain massless. Fermilab's Tevatron was racing CERN but lacked data; CERN's LHC (7x energy, 10x collision rate) announced the discovery July 4, 2012. Lincoln stresses they initially found only 'a particle consistent with' the Higgs and ruled out alternatives (like supersymmetry's five Higgs bosons) only over the following ~14 years."
+        },
+        {
+          "title": "Skepticism of a near-term theory of everything",
+          "detail": "Lincoln predicts a true theory of everything is 50-200+ years off, arguing the unification scale (~10^15 times higher energy than current accelerators, a quadrillion) makes extrapolation arrogant. He uses an Australopithecus analogy: a creature that predicts fine 100 feet away but could never anticipate oceans, whales, or the Alps 500 miles off. He calls string theory a fascinating but untested 'wild-ass guess' with only 'approximate solutions to approximate equations' after 50 years."
+        },
+        {
+          "title": "Antimatter production, energy, and asymmetry",
+          "detail": "Fermilab was the top antiproton producer until 2011, making ~1 nanogram/year (100,000 protons smashed per antiproton). One gram of antimatter annihilating with matter equals the combined Hiroshima and Nagasaki blasts; NASA estimates ~$62-63 trillion per gram. The bigger mystery is baryogenesis: after the Big Bang there was roughly one extra matter particle per billion antimatter particles, and that leftover is us. Fermilab is testing 'leptogenesis' via neutrino vs antineutrino oscillation rates, racing a Japanese group."
+        },
+        {
+          "title": "Dark energy and the 'worst prediction in physics'",
+          "detail": "Dark energy (discovered 1998 via accelerating expansion) behaves like Einstein's discarded cosmological constant. Quantum field theory's prediction for vacuum energy is off from measurement by a factor of 10^120 (or 10^60 even with new physics at accessible energies). Lincoln speculates, while insisting nobody believe it, that constant-density dark energy could mean space is quantized and new 'bubbles' of space with fixed energy appear as the universe expands."
+        },
+        {
+          "title": "Dark matter: real but unidentified",
+          "detail": "Dark matter is five times more prevalent than ordinary matter. Lincoln shifted from favoring modified gravity/inertia to believing dark matter is real, citing the Bullet Cluster and the Dragonfly galaxies DF2/DF4 (which lack dark matter and rotate per Newton's laws). WIMP searches over 30 years — direct underground detectors, annihilation gamma rays, and collider production — have found nothing across a candidate mass range from asteroids to lighter than an electron."
+        }
+      ],
+      "quotes": [
+        "You should absolutely never believe what you think.",
+        "It is the absolute pinnacle of arrogance to think that... we can predict it out a quadrillion times higher than we can see now.",
+        "If you're not confused, you're not doing your job.",
+        "Every billion, billion antimatter particles... there were a billion and one matter particles... that extra one that's left over is us.",
+        "We know a lot of what it isn't, but we don't know what it is."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "An unusually clear, grounded tour of physics' biggest open questions from a working experimentalist, with genuinely useful skepticism about hype (string theory, theory-of-everything timelines) — but it's pure science with little direct relevance to tech, startups, or markets beyond broad energy/propulsion speculation."
+    },
+    "added_at": "2026-07-01T19:59:15.985174+00:00"
+  },
+  {
+    "id": "nepKKz-MzFM",
+    "show": "Lex Fridman",
+    "slug": "lex-fridman",
+    "title": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
+    "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
+    "published": "2026-05-06T22:03:16+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/nepKKz-MzFM/hqdefault.jpg",
+    "summary": {
+      "tldr": "A deep, mostly non-adversarial conversation with VLC/VideoLAN president Jean-Baptiste Kempf and codec engineer Kieran Kunhya about the invisible infrastructure behind internet video: FFmpeg, VLC, video codecs, and the handful of volunteers who maintain software billions rely on. The core takeaway: critical open-source multimedia infrastructure runs on tiny volunteer teams, undervalued and under-resourced by the trillion-dollar companies that depend on it, and hand-written assembly still crushes compilers by orders of magnitude in domains where every CPU cycle scales across billions of devices.",
+      "topics": [
+        {
+          "title": "How video decoding and codecs actually work",
+          "detail": "They walk through the pipeline (URL → byte stream → demuxing container → codec decode → display). Codecs compress video ~100-200x (vs ~10x for MP3 audio) by exploiting spatial/temporal redundancy and human perception (working in YUV not RGB, downscaling color resolution). Each codec generation delivers ~30% better compression for the same quality but at an order of magnitude (or two) more encode compute."
+        },
+        {
+          "title": "The economics and burnout of open-source maintenance",
+          "detail": "FFmpeg's core team is ~10-15 people, VLC's ~5-8; thousands have contributed but ~1% stay. Kunhya details the Google AI-generated CVE debacle (90-day deadlines, high-severity flags on an obscure 1990s game codec) and the Microsoft Teams incident where a manager offered 'a few thousand dollars' for maintenance. Spicy tweets measurably increased donations, though still not enough for one full-time dev."
+        },
+        {
+          "title": "Hand-written assembly vs compilers",
+          "detail": "The dav1d AV1 decoder has 30,000 lines of C but 240,000 lines of hand-written assembly (FFmpeg has ~100,000 for all codecs). SIMD assembly delivers 10-50x speedups (one function cited at 62x). dav1d even bypasses OS calling conventions for speed. Kempf argues we've hit the end of Moore's law, so low-level optimization is where value lies—including future AI inference."
+        },
+        {
+          "title": "JB's refusal of buyout offers and VLC's origin",
+          "detail": "Kempf repeatedly turned down tens of millions to keep VLC ad-free, citing ethics ('I need to go to bed at night and be happy'). VLC descends from a 1995 École Centrale Paris student satellite-streaming project (Network 2000), open-sourced in 2001. Re-licensing the core from GPL to LGPL required tracking down 350+ contributors, some deceased."
+        },
+        {
+          "title": "Kyber and the future of multimedia",
+          "detail": "Kempf's new open-source (dual AGPL/commercial) startup Kyber targets ~4ms glass-to-glass latency for teleoperating robots, drones, and cars over QUIC/UDP, currently achieving ~7ms. They predict FFmpeg/VLC will expand to point clouds, volumetric video, haptics, smell, and eventually brain-computer interface codecs—pushing industries toward standardization."
+        },
+        {
+          "title": "Patents, archiving, and codec politics",
+          "detail": "HEVC licensing became unmanageable (potentially hundreds of millions/year, uncapped), driving Google/Netflix/Amazon to form the royalty-free Alliance for Open Media (AV1, AV2). France's rejection of software patents is why VideoLAN is based there. The archiving community (Dave Rice, et al.) funded the lossless FFV1 codec and treats FFmpeg as a Rosetta Stone for playing media 1,000 years from now."
+        }
+      ],
+      "quotes": [
+        "Every sentence is someone's lifetime's work. There are books about every sentence.",
+        "The intelligence agencies tried to say, 'Can you put a backdoor in VLC?' ... If we had to compromise our software, we would shut it down.",
+        "Teenagers have written more assembly in FFmpeg than Google engineers.",
+        "It is an order of magnitude easier to write code than read code.",
+        "Regrets are a tax on your mind. Learn from your mistakes, but don't regret.",
+        "FFmpeg runs on Mars, so we are a multi-planetary open source library."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "A rich, concrete look at the underfunded open-source infrastructure powering all internet video, with genuinely useful insights on maintainer economics, big-tech free-riding, and why low-level optimization still matters—though it's long, meandering, and light on hard market/startup numbers."
+    },
+    "added_at": "2026-07-01T19:59:40.716121+00:00"
+  }
+]
