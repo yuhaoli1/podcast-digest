@@ -1,0 +1,6 @@
+anthropic>=0.69.0
+feedparser>=6.0.11
+youtube-transcript-api==1.2.4
+requests>=2.32.0
+beautifulsoup4>=4.12.0
+pydantic>=2.7.0

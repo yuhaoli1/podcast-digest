@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Podcast Digest</title>
+<style>
+  :root {
+    --bg: #faf9f6;
+    --card: #ffffff;
+    --ink: #1c1b19;
+    --muted: #6b675f;
+    --line: #e6e2d9;
+    --accent: #b4451f;
+    --accent-soft: #f4e4dc;
+    --shadow: 0 1px 2px rgba(28,27,25,.05), 0 8px 24px rgba(28,27,25,.06);
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  header {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 48px 24px 8px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 34px;
+    letter-spacing: -.01em;
+    margin: 0 0 6px;
+  }
+  .tagline { color: var(--muted); margin: 0; }
+  .filters {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 20px 24px 4px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    position: sticky;
+    top: 0;
+    background: linear-gradient(var(--bg) 70%, transparent);
+    z-index: 5;
+  }
+  .chip {
+    border: 1px solid var(--line);
+    background: var(--card);
+    color: var(--ink);
+    padding: 6px 14px;
+    border-radius: 999px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: .15s;
+  }
+  .chip:hover { border-color: var(--accent); }
+  .chip.active { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+  main { max-width: 860px; margin: 0 auto; padding: 8px 24px 80px; }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    box-shadow: var(--shadow);
+    padding: 22px 24px;
+    margin: 18px 0;
+  }
+  .card-head { display: flex; gap: 16px; align-items: flex-start; }
+  .thumb {
+    width: 132px; min-width: 132px; height: 74px;
+    object-fit: cover; border-radius: 8px; background: var(--line);
+  }
+  .meta { flex: 1; min-width: 0; }
+  .show {
+    font-size: 12px; font-weight: 600; text-transform: uppercase;
+    letter-spacing: .06em; color: var(--accent);
+  }
+  .title {
+    font-family: Georgia, serif; font-size: 20px; line-height: 1.3;
+    margin: 3px 0 4px;
+  }
+  .title a { color: inherit; text-decoration: none; }
+  .title a:hover { text-decoration: underline; }
+  .date { color: var(--muted); font-size: 13px; }
+  .verdict {
+    display: inline-block; margin-top: 8px;
+    font-size: 12px; font-weight: 600; padding: 3px 10px; border-radius: 999px;
+    border: 1px solid var(--line);
+  }
+  .v-must   { background: #1c1b19; color: #fff; border-color: #1c1b19; }
+  .v-worth  { background: var(--accent-soft); color: var(--accent); border-color: var(--accent-soft); }
+  .v-skim   { background: #eef1ee; color: #4a6250; border-color: #eef1ee; }
+  .v-skip   { background: #f1efe9; color: var(--muted); border-color: #f1efe9; }
+  .tldr { margin: 16px 0 4px; font-size: 16.5px; }
+  .section-label {
+    font-size: 11px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
+    color: var(--muted); margin: 18px 0 6px;
+  }
+  .topics { margin: 0; padding: 0; list-style: none; }
+  .topics li { padding: 7px 0; border-top: 1px solid var(--line); }
+  .topics b { font-weight: 600; }
+  .quotes { margin: 6px 0 0; padding: 0; list-style: none; }
+  .quotes li {
+    border-left: 3px solid var(--accent-soft); padding: 2px 0 2px 12px;
+    margin: 8px 0; color: #34322d; font-style: italic;
+  }
+  .empty, .loading { text-align: center; color: var(--muted); padding: 64px 0; }
+  footer { max-width: 860px; margin: 0 auto; padding: 0 24px 60px; color: var(--muted); font-size: 13px; }
+  @media (max-width: 560px) {
+    .thumb { display: none; }
+    h1 { font-size: 28px; }
+  }
+</style>
+</head>
+<body>
+  <header>
+    <h1>Podcast Digest</h1>
+    <p class="tagline">Skim what the shows covered. Decide what's worth your ears.</p>
+  </header>
+  <div class="filters" id="filters"></div>
+  <main id="feed"><p class="loading">Loading…</p></main>
+  <footer id="footer"></footer>
+
+<script>
+const VERDICT_CLASS = {
+  "Must-listen": "v-must",
+  "Worth listening": "v-worth",
+  "Skim-worthy": "v-skim",
+  "Skip": "v-skip",
+};
+
+let ALL = [];
+let activeShow = "All";
+
+function fmtDate(iso) {
+  if (!iso) return "";
+  const d = new Date(iso);
+  if (isNaN(d)) return "";
+  return d.toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" });
+}
+
+function el(tag, cls, text) {
+  const n = document.createElement(tag);
+  if (cls) n.className = cls;
+  if (text != null) n.textContent = text;
+  return n;
+}
+
+function card(ep) {
+  const s = ep.summary || {};
+  const c = el("article", "card");
+
+  const head = el("div", "card-head");
+  if (ep.thumbnail) {
+    const img = el("img", "thumb");
+    img.src = ep.thumbnail;
+    img.loading = "lazy";
+    img.alt = "";
+    head.appendChild(img);
+  }
+  const meta = el("div", "meta");
+  meta.appendChild(el("div", "show", ep.show));
+  const title = el("div", "title");
+  const a = el("a", null, ep.title);
+  a.href = ep.url; a.target = "_blank"; a.rel = "noopener";
+  title.appendChild(a);
+  meta.appendChild(title);
+  meta.appendChild(el("div", "date", fmtDate(ep.published)));
+  if (s.verdict) {
+    const v = el("span", "verdict " + (VERDICT_CLASS[s.verdict] || ""), s.verdict);
+    v.title = s.verdict_reason || "";
+    meta.appendChild(v);
+  }
+  head.appendChild(meta);
+  c.appendChild(head);
+
+  if (s.tldr) c.appendChild(el("p", "tldr", s.tldr));
+
+  if (s.topics && s.topics.length) {
+    c.appendChild(el("div", "section-label", "What it covered"));
+    const ul = el("ul", "topics");
+    s.topics.forEach(t => {
+      const li = el("li");
+      const b = el("b", null, t.title + ": ");
+      li.appendChild(b);
+      li.appendChild(document.createTextNode(t.detail));
+      ul.appendChild(li);
+    });
+    c.appendChild(ul);
+  }
+
+  if (s.quotes && s.quotes.length) {
+    c.appendChild(el("div", "section-label", "Notable"));
+    const ul = el("ul", "quotes");
+    s.quotes.forEach(q => ul.appendChild(el("li", null, "“" + q + "”")));
+    c.appendChild(ul);
+  }
+  return c;
+}
+
+function render() {
+  const feed = document.getElementById("feed");
+  feed.innerHTML = "";
+  const list = ALL.filter(e => activeShow === "All" || e.show === activeShow);
+  if (!list.length) {
+    feed.appendChild(el("p", "empty", "No episodes yet. The digest fills in as new episodes are summarized."));
+    return;
+  }
+  list.forEach(ep => feed.appendChild(card(ep)));
+}
+
+function renderFilters() {
+  const bar = document.getElementById("filters");
+  const shows = ["All", ...Array.from(new Set(ALL.map(e => e.show)))];
+  shows.forEach(name => {
+    const chip = el("button", "chip" + (name === activeShow ? " active" : ""), name);
+    chip.onclick = () => {
+      activeShow = name;
+      document.querySelectorAll(".chip").forEach(c => c.classList.toggle("active", c.textContent === name));
+      render();
+    };
+    bar.appendChild(chip);
+  });
+}
+
+fetch("./episodes.json", { cache: "no-store" })
+  .then(r => r.ok ? r.json() : [])
+  .then(data => {
+    ALL = Array.isArray(data) ? data : [];
+    renderFilters();
+    render();
+    const n = ALL.length;
+    document.getElementById("footer").textContent =
+      n ? `${n} episode${n === 1 ? "" : "s"} summarized · updated automatically` : "";
+  })
+  .catch(() => {
+    document.getElementById("feed").innerHTML =
+      '<p class="empty">Could not load episodes.json.</p>';
+  });
+</script>
+</body>
+</html>
