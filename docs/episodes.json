@@ -55,6 +55,57 @@
     "added_at": "2026-07-01T19:58:52.459467+00:00"
   },
   {
+    "id": "a76ab591-7664-4c68-9059-580b160956b0",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
+    "url": "https://allinchamathjason.libsyn.com/nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028",
+    "published": "2026-06-29T15:47:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/c/1/7/b/c17b9c46b1ed81c216c3140a3186d450/silver_image_lybson.png",
+    "summary": {
+      "tldr": "Nate Silver joins All-In for a wide-ranging conversation on the 2026 midterms and 2028 presidential race. His core thesis: partisanship is 'the gravity' that dictates U.S. elections, Democrats are heavy favorites to retake the House, and the party's 2028 field is shifting toward younger, anti-establishment candidates. Silver argues Gavin Newsom is fading while AOC and John Ossoff are rising, and defends California's election integrity while criticizing its slow, overly complex counting system.",
+      "topics": [
+        {
+          "title": "California elections and fraud claims",
+          "detail": "Silver says there's 'no evidence of fraud' in LA/California elections; late Democratic surges reflect systematic differences in when partisans vote (Democrats vote by mail and later), not rigging. He calls California's multi-week count 'completely unacceptable' and 'a sign of atrophy,' noting India, France, UK and Japan count within hours, and says he's not against voter ID."
+        },
+        {
+          "title": "Midterm predictions",
+          "detail": "Prediction markets put Democrats at 80-85% to take the House and 40-45% for the Senate; Silver thinks the House is closer to 85-90%. His model is due in a few weeks. Trump's approval is around 38%; anxiety over gas prices and Iran are key variables that could shift races."
+        },
+        {
+          "title": "Senate math",
+          "detail": "Democrats must win red-state seats. In Maine, Graham Plattner leads Susan Collins by only 2 points in a D+8/D+10 environment, which Silver calls an 'unnecessary risk.' In Texas, Talarico is in a toss-up against a weak GOP nominee (Paxton). Senate and House odds are 'almost perfectly correlated.'"
+        },
+        {
+          "title": "The three Democratic factions",
+          "detail": "Silver splits Democrats into the left (Mamdani, AOC, Bernie), the 'abundance libs' (Ezra Klein, pro-market centrists critical of California governance), and 'resistance libs' (partisan Biden defenders). He argues Newsom is courting the resistance-lib faction by embracing the Bidens."
+        },
+        {
+          "title": "2028 outlook: Newsom fading, AOC and Ossoff rising",
+          "detail": "Newsom has dropped from ~25% to 15% in primary polls and from ~33% to 22% on Polymarket. Silver names John Ossoff as possibly the most electable Democrat (young, progressive record, won a purple state) and says AOC—now 36 and eligible—is his best bet for the burn-it-down/anti-establishment lane."
+        },
+        {
+          "title": "Socialism, capitalism, and generational divides",
+          "detail": "Silver pegs the attitudinal cut point at roughly age 40 (those who came of age around 9/11). Democratic losses are concentrated among entrepreneurial Hispanic and Asian-American voters. He cites ~45 million college grads in the last decade burdened by student debt as a driver of disillusionment."
+        },
+        {
+          "title": "Social media and algorithms",
+          "detail": "Silver criticizes X's shift from follower-based to algorithmic feeds (a trend that predates Elon), saying following someone should guarantee seeing their posts. He argues Twitter squishes complex issues onto one left-right axis and notes AI models (Claude, ChatGPT) tend toward consensus and are less polarizing than X or Bluesky."
+        }
+      ],
+      "quotes": [
+        "Partisanship is the gravity that dictates every election in the US. 43 of the 50 states we could probably predict right now with 97% confidence who they vote for in 2028. And it's not because of rigging, it's because polarization and partisanship are very powerful forces.",
+        "I think California's system is completely unacceptable... the fact that the United States, the technological leader of the world, can't [count fast] is a sign of atrophy of the efficacy of the system.",
+        "It's not a good time to be a defender of the status quo.",
+        "I think it's insane that we had a candidate who was trying to be president until he was 86. And the alternative is someone who's trying to be president until he's 82."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Silver delivers concrete, numbers-backed election analysis and 2028 predictions relevant to anyone tracking political markets, though much of the first third is NBA/Knicks small talk that scanners can skip."
+    },
+    "added_at": "2026-07-01T20:27:54.318920+00:00"
+  },
+  {
     "id": "1M3Vdl6DRkU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
@@ -150,5 +201,150 @@
       "verdict_reason": "A rich, concrete look at the underfunded open-source infrastructure powering all internet video, with genuinely useful insights on maintainer economics, big-tech free-riding, and why low-level optimization still matters—though it's long, meandering, and light on hard market/startup numbers."
     },
     "added_at": "2026-07-01T19:59:40.716121+00:00"
+  },
+  {
+    "id": "iKx3gAODybU",
+    "show": "Lex Fridman",
+    "slug": "lex-fridman",
+    "title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
+    "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
+    "published": "2026-04-09T17:35:20+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/iKx3gAODybU/hqdefault.jpg",
+    "summary": {
+      "tldr": "Historian Lars Brownworth walks through the Viking Age (793–1066), explaining Norse raiding, seafaring technology, religion, and how Vikings rapidly transformed from raiders into state-builders (Normans, Kievan Rus, the Varangian Guard). The recurring thesis is 'creative destruction': Vikings destroyed old orders and cleared the ground for stronger states, and their pragmatism is what let them integrate everywhere they went. A secondary thread ties this to the Byzantine Empire as a 1,000-year model of societal durability and to lessons on human nature and power.",
+      "topics": [
+        {
+          "title": "Viking military advantage: speed and terror",
+          "detail": "Longships could average 70–120 miles/day versus 10–15 for English foot armies and ~20 for cavalry, letting Vikings raid and vanish before armies arrived. They deliberately weaponized terror, attacking on high holy days (Easter, Christmas) for richer targets and conducting reconnaissance as traders before returning as raiders. Ethelred the Unready reportedly paid 7.5 million silver pennies (48,000 lbs of silver) in one year and ~20 tons of gold/silver over his reign—which only invited more attacks."
+        },
+        {
+          "title": "Ships, exploration, and reaching America",
+          "detail": "Clinker-built, undecked longships could cross the Atlantic yet had a draft under two feet to navigate rivers, and 20 men could portage them—navigating without a compass. Leif Ericson reached North America (Vinland/L'Anse aux Meadows) around 1000, five centuries before Columbus, but the colony failed due to refusal to abandon husbandry, 2,000+ mile distance from Norway, and relentless native (Algonquin/'Skraelings') resistance."
+        },
+        {
+          "title": "Rapid transition from raiders to state-builders",
+          "detail": "Brownworth's core claim: Vikings pragmatically shifted from raiding to governance within a generation. Rollo signed the Treaty of Saint-Clair-sur-Epte in 911, founding Normandy; his descendants (the Normans) conquered England and Sicily and led the First Crusade. Swedish Vikings founded Kievan Rus and eventually formed the Byzantine Varangian Guard after failing to sack Constantinople (repelled by Greek Fire in 941/944)."
+        },
+        {
+          "title": "Norse religion and the warrior mindset",
+          "detail": "Norse cosmology framed existence as an eternal, losing struggle of order against chaos culminating in Ragnarok. Valhalla was a place to fight, die, and be reborn daily—preparing for a battle you'd ultimately lose—which fueled fearlessness. Rituals like enforced hospitality (Odin traveling incognito) functioned as survival technology in a harsh northern climate. Berserkers were considered Odin's chosen warriors."
+        },
+        {
+          "title": "Byzantium as a durability case study",
+          "detail": "Brownworth argues Byzantium preserved knowledge and buffered Europe from eastern invasions, and later jumpstarted the Renaissance as scholars fled to Italy (Greek had died out in the West by the 14th century). He dates decline to after Basil II's death (1025), when a bureaucracy chose weak rulers, leading to the disastrous 1071 Battle of Manzikert and loss of the Anatolian heartland. Only Byzantium and Venice lasted ~1,000 years."
+        },
+        {
+          "title": "Great man theory and human nature",
+          "detail": "Brownworth endorses the great-man/woman theory, arguing you can't swap out Luther, Augustus, or Genghis Khan and get the same outcomes, while conceding 'the moment needs the man and the man needs the moment.' He invokes Lord Acton on absolute power corrupting absolutely and warns that as technology grows more powerful, absolute power becomes more destructive—framing societal durability as the central challenge of the nuclear age."
+        }
+      ],
+      "quotes": [
+        "We have no king. We are all kings.",
+        "When the boar bleats, the piglets come.",
+        "On land, I'm a Christian. When I'm on the sea, I worship Thor.",
+        "The greatest real estate scam in history... It's the most misnamed place in the world."
+      ],
+      "verdict": "Skim-worthy",
+      "verdict_reason": "It's an entertaining, well-told history episode with a genuinely useful throughline on pragmatism and 'creative destruction,' but the payoff for a tech/startup/markets reader is limited to loose analogies about meritocracy, durable institutions, and dangers of absolute power."
+    },
+    "added_at": "2026-07-01T20:28:16.816348+00:00"
+  },
+  {
+    "id": "vif8NQcjVf0",
+    "show": "Lex Fridman",
+    "slug": "lex-fridman",
+    "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
+    "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
+    "published": "2026-03-23T16:24:14+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/vif8NQcjVf0/hqdefault.jpg",
+    "summary": {
+      "tldr": "NVIDIA CEO Jensen Huang explains the shift from designing single GPUs to 'extreme co-design' of entire AI data-center 'factories,' walks through the near-existential CUDA-on-GeForce bet, and lays out why he sees NVIDIA's growth as inevitable. The central takeaway: computing has shifted from a retrieval/storage model to a generative 'token factory' model, and Huang argues intelligence is becoming a commodity while humanity (character, compassion, grit) is the thing to value.",
+      "topics": [
+        {
+          "title": "Extreme co-design and AI factories",
+          "detail": "Huang argues problems no longer fit in one GPU, so NVIDIA must co-optimize across chips, CPUs, networking, switching, power, cooling and software—citing Amdahl's law and slowed Dennard scaling. He says NVIDIA scaled computing ~1,000,000x in 10 years vs. Moore's Law's ~100x, and now thinks in units of gigawatt-scale factories, not chips. The Vera Rubin pod has 7 chip types, 40 racks, 1.2 quadrillion transistors, ~20,000 dies, 60 exaflops; each NVL72 rack is ~1.3M components, and NVIDIA expects to produce ~200 pods/week."
+        },
+        {
+          "title": "The near-existential CUDA-on-GeForce bet",
+          "detail": "Putting CUDA on GeForce raised GPU cost ~50% for a 35%-margin company; market cap fell from ~$6-8B to ~$1.5B. Huang bet on install base as the defining moat (comparing x86 beating elegant RISC), and it took ~a decade to pay off. He calls install base plus execution velocity NVIDIA's #1 advantage, followed by its broad ecosystem across every cloud, industry, cars, robots and space."
+        },
+        {
+          "title": "Four scaling laws and anticipating hardware needs",
+          "detail": "Huang outlines pre-training, post-training, test-time, and agentic scaling, arguing data is now limited by compute (mostly synthetic) and that inference/'thinking' is harder and more compute-intensive than pre-training—contradicting predictions that inference would be cheap and commoditized. Model architectures change ~every 6 months while hardware changes ~every 3 years, so NVIDIA anticipates (e.g. NVLink-72 for mixture-of-experts) via internal research and listening to every AI lab."
+        },
+        {
+          "title": "Power as the key blocker, not supply chain",
+          "detail": "Huang says power is a top concern (addressed via tokens/sec/watt gains, ~10x token-cost drop per year) but proposes tapping the grid's idle excess—grids run near ~60% of peak most of the time—via contracts and data centers that 'gracefully degrade.' He downplays supply-chain fears (ASML, TSMC CoWoS, SK Hynix HBM) because he's already convinced ~200 suppliers to invest billions, including persuading DRAM CEOs to build HBM and adapt phone LPDDR for data centers."
+        },
+        {
+          "title": "Jobs, AGI, and the value of humanity",
+          "detail": "Huang claims 'we've achieved AGI' and that an agent could build a briefly billion-dollar viral app. He uses radiology (superhuman CV since ~2019-2020, yet more radiologists and a shortage) to argue jobs' purposes differ from their tasks, predicting coders grow from ~30M to ~1B as specification becomes coding. He frames intelligence as a commodity and urges elevating humanity—character, compassion, grit—instead."
+        },
+        {
+          "title": "China, TSMC, and leadership philosophy",
+          "detail": "Huang says ~50% of AI researchers are Chinese, describes China as a fast-innovating 'builder nation' with intense internal competition and open-source sharing. He praises TSMC's manufacturing orchestration and trust (three decades, hundreds of billions in business, no contract), and reveals Morris Chang offered him the TSMC CEO role in 2013, which he declined. He details managing 60+ direct reports with no one-on-ones, 'reasoning' publicly, and 'speed of light' first-principles thinking over continuous improvement."
+        }
+      ],
+      "quotes": [
+        "NVIDIA is the house that GeForce built, because it was GeForce that took CUDA out to everybody.",
+        "You manifest a future and that future is so convincing, there's no way it won't happen.",
+        "Inference is thinking, and I think thinking is hard. Thinking is way harder than reading.",
+        "There's no question OpenClaw is the iPhone of tokens.",
+        "Warehouses don't make much money. Factories directly correlate with the company's revenues.",
+        "I think we've achieved AGI.",
+        "Intelligence is a commodity... The word we should really elevate is humanity."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Huang offers genuinely substantive first-principles framing on AI-factory economics, scaling laws, the CUDA bet, and power grids—valuable for tech/VC readers—though it's long, occasionally repetitive, and lightly challenged by the interviewer."
+    },
+    "added_at": "2026-07-01T20:28:42.621598+00:00"
+  },
+  {
+    "id": "H9rF1CSSh-w",
+    "show": "Lex Fridman",
+    "slug": "lex-fridman",
+    "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
+    "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
+    "published": "2026-03-11T20:21:39+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/H9rF1CSSh-w/hqdefault.jpg",
+    "summary": {
+      "tldr": "Legendary game designer Jeff Kaplan (World of Warcraft, Overwatch) traces his path from failed writer and EverQuest addict to Blizzard, through the triumphs of WoW's quest-driven design and Overwatch's rapid success, the failures of Titan and Overwatch 2, and his painful exit from Blizzard. The core takeaway: creative teams, not financial executives, build great games, and Kaplan is now running a tiny 34-person studio to reclaim that craft with a new game, The Legend of California.",
+      "topics": [
+        {
+          "title": "The path to Blizzard via EverQuest",
+          "detail": "Kaplan logged ~272 played days (~6,000+ hours) in EverQuest over three years, became an Uber Guild leader (Legacy of Steel, Tigole), and met his wife in-game. His edgy but constructive forum feedback led Blizzard designers (Rob Pardo, aka 'Ariel') to recruit him; he was hired in May 2002 as an associate quest designer for $35K/year, with a job listing seemingly tailored to his creative-writing degree."
+        },
+        {
+          "title": "WoW's quest-driven design revolution",
+          "detail": "Kaplan and Pat Nagle designed WoW's quest system around 'path of least resistance'—overloading XP into quests to move players through the world rather than grinding mobs in place (as in EverQuest). This directed-but-optional gameplay let single players thrive in an MMO and helped WoW scale from EverQuest's hundreds of thousands to tens of millions of players. He also candidly calls his Green Hills of Stranglethorn quest one of the worst in the game."
+        },
+        {
+          "title": "Titan's $83M failure",
+          "detail": "Titan ran seven years (2007–2013), a future-Earth secret-agent MMO with one-world architecture, driving, and Sims-style day jobs. It failed on art cohesion, engineering, and design due to over-hiring (e.g., 70 environmental artists in a year with no roadmap) and vision-less scope. Kaplan says a technical artist logged only 20 usable hours in a 40-hour week because the tools were unworkable."
+        },
+        {
+          "title": "Overwatch's origins and rapid success",
+          "detail": "Born in a six-week pitch process (StarCraft Frontiers, CrossWorlds, and Overwatch) after Titan's cancellation, with constraints to ship in two years and hit WoW-like revenue. Tracer came from Titan's 'Jumper' class; McCree's concept art originated as a StarCraft prospector. The design flipped from few classes/many abilities to many simple heroes—executed on the salvaged Titan engine (TED/Tank)."
+        },
+        {
+          "title": "Overwatch 2, Overwatch League, and Kaplan's exit",
+          "detail": "Kaplan calls Overwatch League and the promised PvE Overwatch 2 his biggest regrets—both starting from good intentions but derailed by financial pressure (a Twitch media deal, team-owner expectations of 'more popular than the NFL'). The breaking point was a CFO who told him that missing a revenue target would mean laying off 1,000 people 'on you.' He left in 2021."
+        },
+        {
+          "title": "New studio and views on the industry/AI",
+          "detail": "Kaplan co-founded Kintsugiyama (34 people) with programmer Tim Ford, optimizing for control over money. Their game, The Legend of California, is an open-world survival/action game set on a mythical island California during the Gold Rush, with a resetting world inspired by Rust. He argues small studios are gaming's future, dismisses current AI as mostly a 'hot mess' good only for tedious tasks, and urges developers to 'keep your eggs' from 'corporate jackals.'"
+        }
+      ],
+      "quotes": [
+        "My whole career and my family are thanks to EverQuest, so I think I won the game.",
+        "There's three types of fun, fun for the player, fun for the designer, and fun for the computer.",
+        "You are the golden goose. Keep your eggs.",
+        "And he said, 'If it doesn't do dollars, we're gonna lay off a thousand people, and that's gonna be on you.' And that was just the biggest fuck you moment I had in my career.",
+        "You don't need a CFO to make World of Warcraft. You need artists, engineers, designers, producers, and an audio team."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "A candid, insider account of how blockbuster games get built and killed—valuable for anyone interested in creative-vs-financial tension in product companies—though it's long, gaming-specific, and light on hard business numbers."
+    },
+    "added_at": "2026-07-01T20:29:09.547982+00:00"
   }
 ]
