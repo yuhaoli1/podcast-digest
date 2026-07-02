@@ -106,6 +106,54 @@
     "added_at": "2026-07-01T20:27:54.318920+00:00"
   },
   {
+    "id": "786c45b1-79c0-4c09-9b9e-923c9f056e99",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
+    "url": "https://allinchamathjason.libsyn.com/socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter",
+    "published": "2026-06-26T23:53:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/c/b/e/9/cbe9070445114b7416c3140a3186d450/1_Pod_E278.png",
+    "summary": {
+      "tldr": "With Freeberg out, guests Travis Kalanick and Gavin Baker join the crew to dissect the DSA's sweep of NYC Democratic primaries and its implications for the party, plus a deep dive into AI infrastructure economics. The strongest through-line: Chinese open-source models (GLM 5.2) have effectively caught up to US frontier models, memory (DRAM/HBM) is the binding bottleneck of the AI buildout, and orbital compute may become economically compelling as terrestrial data centers get more expensive.",
+      "topics": [
+        {
+          "title": "DSA sweeps NYC Democratic primaries",
+          "detail": "Mamdani went 3-for-3 on endorsements; Brad Lander unseated Dan Goldman in NY-10, Chevalier beat a five-term Jeffries-backed incumbent in NY-13, and Claire Valdez won NY-7. Polymarket had the Mamdani sweep at just 26% before election day. Baker argues the DSA's base is downwardly-mobile wealthy white liberals, not the working class, while Sacks lays out their platform (abolish ICE, the Senate, police/prisons, electoral college)."
+        },
+        {
+          "title": "Why socialism is gaining traction",
+          "detail": "Chamath frames AI as the 'greatest economic leveler' but says Silicon Valley has been terrible brand ambassadors, ceding the narrative to doomerism. Baker calls Mamdani 'one of the most talented politicians I've ever seen,' arguing the DSA is ascendant because of his charisma, not its ideas. Chamath praises Australia/UK/Canada's under-16 social media bans as a possible antidote to youth radicalization; Sacks counters that such bans are really a Trojan horse for de-anonymization and censorship."
+        },
+        {
+          "title": "Chinese open-source models catch US frontier",
+          "detail": "Z.ai's GLM 5.2 (744B params, 1M token context, MIT license) scored 51 on the artificial analysis intelligence index — highest open-weight ever — trailing Opus 4.8 by under 1 point on SWE coding while being ~85% cheaper. Baker confirms heavy 'distillation' from US model APIs. Z.ai's founder claims the family was trained on Huawei Ascend 910B chips and that fable-level capability will arrive before Q1 2027."
+        },
+        {
+          "title": "Anthropic's regulatory capture and the AI race",
+          "detail": "Sacks argues Dario Amodei essentially got what he wanted — a government approval process (his proposed 'FAA for AI') — after a jailbreak report led to Anthropic's Fable being rolled back and GPT-5.6 stuck in approval hoops. Sacks warns the US is 6 months ahead on models and 24 months ahead on silicon yet only 'a few months' ahead overall, calling self-imposed restrictions a losing game."
+        },
+        {
+          "title": "Micron blowout and the DRAM bottleneck",
+          "detail": "Micron revenue up 4x YoY (guidance $50B vs $43B expected), stock up ~14x. Baker calls DRAM/HBM the single most important AI bottleneck and notes new supply-chain agreements have price floors above prior-cycle peak gross margins. Memory may be 30-40% of hyperscaler capex next year; consumer fallout includes Apple, Xbox and console price hikes ('AI-flation')."
+        },
+        {
+          "title": "Orbital compute economics and IPO dynamics",
+          "detail": "Baker breaks down a 1GW data center: ~$35B silicon + $25B power/cooling; if Starship launch drops below $25B (targeting ~$5B/GW when reusable), orbital 'racks in space linked with lasers' become compelling. On IPOs, Baker pegs Anthropic at ~$3T public value, explains Cerebras breaking deal price triggers forced price-insensitive selling by certain PMs, and notes SpaceX may lack a liquidity wall since holders sold every 6 months for a decade."
+        }
+      ],
+      "quotes": [
+        "I think AI is the greatest economic leveler we'll ever find in our lifetime.",
+        "We're using the Democratic Party as a ballot access vehicle. Not because we share its goals.",
+        "This guy, Mamdani... he's got that Obama Trump charisma. And he is going to destroy your party from the inside out.",
+        "Making memory is... as close to magic as science can get.",
+        "Just picture Pentagon-sized data centers. No, it's racks in space, linked with lasers."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "The AI infrastructure segments — Chinese open-source parity, the DRAM bottleneck, and orbital compute math — are genuinely substantive and numbers-rich, though the long political opening leans heavily editorial."
+    },
+    "added_at": "2026-07-02T16:15:36.108843+00:00"
+  },
+  {
     "id": "1M3Vdl6DRkU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
@@ -346,5 +394,154 @@
       "verdict_reason": "A candid, insider account of how blockbuster games get built and killed—valuable for anyone interested in creative-vs-financial tension in product companies—though it's long, gaming-specific, and light on hard business numbers."
     },
     "added_at": "2026-07-01T20:29:09.547982+00:00"
+  },
+  {
+    "id": "1SJiTwbSI58",
+    "show": "Lex Fridman",
+    "slug": "lex-fridman",
+    "title": "Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492",
+    "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
+    "published": "2026-03-01T03:37:44+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/1SJiTwbSI58/hqdefault.jpg",
+    "summary": {
+      "tldr": "Music educator and YouTuber Rick Beato talks with Lex Fridman about great guitarists, the mechanics of playing and hearing music, the history of jazz and rock, and the impact of AI and streaming on the industry. The most substantive thread is Beato's argument that AI music is 'boring' and that authenticity and mastery of craft — not fame-chasing or AI tools — are what endure.",
+      "topics": [
+        {
+          "title": "Perfect pitch and 'native music fluency'",
+          "detail": "Beato argues all babies are born with perfect pitch and lose it around 9 months as they become 'culturally bound listeners.' He claims he gave his son Dylan perfect pitch by playing high-information music (Bach, Keith Jarrett, jazz) on his wife's stomach starting at 15 weeks and for an hour daily post-birth. The viral 8-year-old Dylan ear-training video (identifying polychords) hit ~80M views on Facebook with ~250,000 comments."
+        },
+        {
+          "title": "Great guitarists and 'the one-note test'",
+          "detail": "Beato ranks Comfortably Numb (first solo) as his top rock solo, followed by Stairway to Heaven, Hey Joe, and Kid Charlemagne (Larry Carlton). He claims you can identify players like B.B. King from a single vibrato note; Fridman is skeptical and says you'd need several notes. Beato says he'll make the video 'the day after tomorrow.'"
+        },
+        {
+          "title": "Miles Davis, bebop and improvisation",
+          "detail": "Beato calls Miles Davis the greatest jazz innovator, spanning bebop through fusion (Bitches Brew). Ron Carter told Beato that Miles's 1960s quintet never rehearsed, and that they often didn't know live records were being recorded until royalties came due. Vinnie Colaiuta's line 'thought is the enemy of flow' captures Miles's philosophy."
+        },
+        {
+          "title": "Songwriting process and youth",
+          "detail": "Beato recounts watching Elton John write Tiny Dancer's melody in ~15 minutes from Bernie Taupin's lyrics. He theorizes peak musical creativity comes before age 30 (fluid vs. crystallized intelligence), noting composers like Beethoven wrote late-life masterpieces from accumulated experience while improvisers peak young. He credits the Beatles' late-60s output partly to bad PA systems pushing them into the studio, producing three 14-song records in 365 days."
+        },
+        {
+          "title": "AI music, streaming and authenticity",
+          "detail": "Beato says AI tools (Suno, Udio) benefit skilled songwriters who can filter output — he made ~130 song ideas for '3 good ones.' His kids instantly detect AI as 'boring,' originally via reverb artifacts from low-bitrate MP3 training data. He predicts AI stays boring for original output but is useful for editing/denoising (iZotope RX). On Spotify he praises discovery but criticizes artist payouts and pigeonholing algorithms."
+        },
+        {
+          "title": "YouTube copyright battles and career advice",
+          "detail": "Beato hired a lawyer who fought 4,000 Content ID claims across his 2,100 videos and won every one, arguing his usage is fair use. He started his channel in his mid-50s, has ~100 real guitar amps, uses Pro Tools/Logic and amp sims (Neural DSP), and urges pursuing craft mastery over chasing fame."
+        }
+      ],
+      "quotes": [
+        "Thought is the enemy of flow.",
+        "I want music to be… to depress me. Dissonance equals emotion.",
+        "Why are you listening to AI?",
+        "Somebody's gotta be successful, so why can't it be you?",
+        "Without music, life would be a mistake."
+      ],
+      "verdict": "Skip",
+      "verdict_reason": "It's a rich conversation for music lovers but offers almost nothing actionable for a tech, startup, or markets audience beyond general AI-slop and streaming-economics observations."
+    },
+    "added_at": "2026-07-02T16:16:01.632337+00:00"
+  },
+  {
+    "id": "YFjfBk8HI5o",
+    "show": "Lex Fridman",
+    "slug": "lex-fridman",
+    "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
+    "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
+    "published": "2026-02-12T03:07:03+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/YFjfBk8HI5o/hqdefault.jpg",
+    "summary": {
+      "tldr": "Peter Steinberger, creator of the viral open-source AI agent OpenClaw (formerly named Claude-with-a-W/MoltBot), walks through how he built it in a matter of months and why it exploded to 180,000+ GitHub stars. The core takeaway: powerful agentic AI is now accessible enough to let non-programmers build real tools, but it carries serious security responsibilities, and Steinberger is on the verge of joining Meta or OpenAI while keeping the project open source.",
+      "topics": [
+        {
+          "title": "The one-hour prototype and viral growth",
+          "detail": "Steinberger built the first version in one hour by hooking WhatsApp to Claude Code via CLI, later adding image support. It became the fastest-growing GitHub repo in history (175K+ stars). A key 'aha' moment: he sent an audio message it wasn't built to handle, and the agent autonomously used ffmpeg, found his OpenAI key, and used Curl to transcribe it."
+        },
+        {
+          "title": "Self-modifying software and 'agentic engineering'",
+          "detail": "OpenClaw is written in TypeScript and aware of its own source code, so it can modify itself. Steinberger calls 'vibe coding' a slur and prefers 'agentic engineering.' He runs 4-10 agents in parallel, did ~6,600 commits in January, and codes primarily by voice (he once lost his voice from overuse)."
+        },
+        {
+          "title": "The name-change disaster",
+          "detail": "Anthropic asked him to rename the project (Claude spelled with a W conflicted with their model). Crypto sniper bots exploited the ~5-30 second windows during renames to steal his GitHub, NPM, and Twitter handles and serve malware. He paid $10K for a Twitter business account, spent 10+ hours planning a secret 'war room' rename to OpenClaw, and even called Sam Altman to clear 'OpenClaw.'"
+        },
+        {
+          "title": "MoltBook and AI psychosis",
+          "detail": "MoltBook, a Reddit-style social network of AI agents, went viral with screenshots of bots 'scheming against humans.' Steinberger calls it 'the finest slop' and art, arguing most dramatic content was human-prompted for virality. He warns that 'AI psychosis is a thing' — people are too gullible and lack critical thinking about AI's limits."
+        },
+        {
+          "title": "Codex vs. Opus and dev workflow",
+          "detail": "He prefers Codex ('the reliable weirdo in the corner,' compared to European engineers) over Opus ('the silly but funny coworker,' 'too American'). He never reverts, commits straight to main, and advises treating agents like human engineers — empathize with their empty context, don't force your naming/worldview, and always ask 'what can we refactor?' after a feature."
+        },
+        {
+          "title": "MCPs are dead, apps are next",
+          "detail": "Steinberger argues MCPs are inferior to CLIs because CLIs are composable and don't pollute context. He predicts agents will kill ~80% of apps (MyFitnessPal, Sonos app, etc.) since the agent already has context. Every app becomes a slow API via browser automation whether companies like it or not."
+        },
+        {
+          "title": "The career decision and money",
+          "detail": "He's losing $10-20K/month on the project and is choosing between Meta and OpenAI, insisting the project stay open source (possibly a Chrome/Chromium model). Mark Zuckerberg personally tested it and had a 10-minute argument with him about Claude Code vs Codex; OpenAI lured him with Cerebras-speed tokens. He says he doesn't do it for money and previously burned out running PSPDFKit for 13 years."
+        }
+      ],
+      "quotes": [
+        "I actually think vibe coding is a slur... I do agentic engineering, and then maybe after 3:00 AM I switch to vibe coding, and then I have regrets on the next day.",
+        "People talk about self-modifying software, I just built it and didn't even plan it so much. It just happened.",
+        "It's hard to compete against someone who's just there to have fun.",
+        "I don't remember writing it. It's okay. The words are still mine.",
+        "I much rather read your broken English than your AI slob... I think we're reaching a point where I value typos again.",
+        "I watch my agent happily click the 'I'm not a robot' button."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "A rare firsthand account of building a viral AI agent with concrete workflow advice, a strong MCP-vs-CLI take, and genuine news value around his imminent Meta/OpenAI decision, though it runs long and drifts into philosophical tangents."
+    },
+    "added_at": "2026-07-02T16:16:32.050396+00:00"
+  },
+  {
+    "id": "EV7WhVT270Q",
+    "show": "Lex Fridman",
+    "slug": "lex-fridman",
+    "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
+    "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
+    "published": "2026-01-31T22:33:33+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/EV7WhVT270Q/hqdefault.jpg",
+    "summary": {
+      "tldr": "Lex Fridman talks with ML researchers Sebastian Raschka and Nathan Lambert about the state of AI heading into 2026, covering the US-China open-weight model race, transformer architecture continuity, the three axes of scaling (pre-training, RLVR, inference-time), and practical realities of coding agents and compute economics. The central takeaway: architectures have barely changed since GPT-2, and the real gains now come from data quality, post-training (especially RLVR), and systems/infrastructure — while a clear 'winner-takes-all' or near-term AGI singularity is unlikely.",
+      "topics": [
+        {
+          "title": "US vs China open-weight model race",
+          "detail": "DeepSeek's January 2025 R1 release kicked off a wave of Chinese open-weight models (Kimi K2 Thinking, MiniMax, Z.ai/GLM, Qwen), with DeepSeek 'losing its crown.' Lambert argues US closed models (GPT-5.2, Gemini 3, Claude Opus 4.5) are currently better and worth paying for, but Chinese labs release open weights partly because US firms won't buy Chinese APIs over security concerns. MiniMax and Z.ai have filed IPO paperwork."
+        },
+        {
+          "title": "Architecture continuity from GPT-2",
+          "detail": "Raschka argues today's models are 'not fundamentally different' from GPT-2 — you can convert one to another by adding tweaks like Mixture of Experts, multi-head latent attention, group query attention, sliding window attention, RMSNorm, and FP8/FP4 optimizations. The autoregressive transformer remains state-of-the-art; text diffusion and Mamba/state-space models exist as cheaper but lower-quality alternatives."
+        },
+        {
+          "title": "Scaling laws and the shift to RLVR",
+          "detail": "Lambert says all three scaling axes still work but the low-hanging fruit has moved to RL with Verifiable Rewards (RLVR) and inference-time scaling. DeepSeek pre-training cost ~$5M at cloud rates; OLMo 3 cost ~$2M to rent the cluster. Grok 4 reportedly used similar compute for pre- and post-training. RLVR follows an o1-style log-compute/linear-performance scaling law that RLHF does not. They note Qwen math benchmark contamination controversies."
+        },
+        {
+          "title": "Coding agents and near-term economic impact",
+          "detail": "Claude Opus 4.5 and Claude Code drew huge hype; a survey of ~791 developers showed both junior and senior devs ship AI-generated code (often 50%+), with seniors more likely to ship majority-AI code and ~80% finding work more enjoyable. Cursor's Composer is a fine-tune of a Chinese MoE model with weights updated every ~90 minutes from user feedback. They debate whether tool use / computer use can be solved reliably enough for real GDP impact."
+        },
+        {
+          "title": "AGI/ASI timelines and skepticism",
+          "detail": "Both are skeptical of near-term singularity. Lambert calls models 'jagged' — superhuman at some code (front-end, ML systems) but bad at distributed ML training — and predicts big tech will spend $100B faster than achieving an automated AI researcher. AI 2027 report pushed its mean prediction from 2027-28 to 2031; the guests think longer, especially for research. Lambert doubts in-home consumer robots but is bullish on self-driving and warehouse automation."
+        },
+        {
+          "title": "Open-model policy and the ATOM/Adam Project",
+          "detail": "Lambert launched the American Truly Open Models project (originally 'American DeepSeek Project') arguing the US should build the best open models since researchers start with open weights. AI2 received a $100M NSF grant (largest CS grant ever); NVIDIA's Nemotron and Reflection AI's $2B raise signal a turning tide. He notes Anthropic lost a court case owing ~$1.5B to authors for torrenting books, and Meta's Llama 'imploded' under internal politics and benchmark-chasing."
+        }
+      ],
+      "quotes": [
+        "I don't think nowadays, in 2026, that there will be any company having access to a technology that no other company has access to.",
+        "It doesn't lie. It's math, basically... with code, what's nice is you can verify it.",
+        "It's held for 13 orders of magnitude of compute; why would it ever end?",
+        "I feel like my friends who are professors seem on average happier than my friends who work at a frontier lab.",
+        "The slop is only starting... I'm hoping that society drowns in slop enough to snap out of it."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "A substantive, technically grounded survey of the AI landscape from two credible researchers with concrete claims on scaling economics, the US-China open-model race, and coding agents — though its three-hour length and meandering philosophical tangents make it more of a deep browse than an essential listen."
+    },
+    "added_at": "2026-07-02T16:16:59.495566+00:00"
   }
 ]
