@@ -154,6 +154,54 @@
     "added_at": "2026-07-02T16:15:36.108843+00:00"
   },
   {
+    "id": "1d6e6319-449a-458d-b740-174eb6bb17d6",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "GameStop CEO Ryan Cohen's $56B Plan to Take Over eBay",
+    "url": "https://allinchamathjason.libsyn.com/gamestop-ceo-ryan-cohens-56b-plan-to-take-over-ebay",
+    "published": "2026-06-23T20:52:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/9/3/1/3/93138d0f7fcef9b816c3140a3186d450/1_Pod_Cohen.png",
+    "summary": {
+      "tldr": "GameStop CEO Ryan Cohen sits for a long interview walking through his career from Chewy to GameStop and lays out his rationale for a $56B bid to acquire and run eBay. The core takeaway: Cohen wants to cut $2B in costs from eBay, build out live commerce and a marketplace for in-game digital items, and he's frustrated that eBay's board and CEO won't engage while the media dismisses GameStop as a meme stock.",
+      "topics": [
+        {
+          "title": "The Chewy playbook",
+          "detail": "Cohen switched from a planned online jewelry business to pet food because it was recurring/consumable revenue. He obsessed over supply-chain economics ('a game of pennies'), ran AdWords campaigns himself until 4-5am, and hired for 'will over skill.' He sold Chewy in 2017 for $3.35B and doesn't regret it despite it later IPOing at a far higher valuation."
+        },
+        {
+          "title": "GameStop turnaround and numbers",
+          "detail": "Cohen started as a passive investor on a console-cycle thesis around 2020, then became CEO. His initial mistake was applying the Chewy e-commerce playbook; he pivoted to cost-cutting and collectibles (TCG, sports cards, PSA-graded trade-ins). Cited metrics: collectibles now 42% of revenue, Q1 revenue $835M up 14% YoY, SG&A cut from $228M to $202M, $9.7B cash, $333M free cash flow."
+        },
+        {
+          "title": "The eBay bid and thesis",
+          "detail": "Cohen is offering 50% cash / 50% GameStop stock at a premium (total ~$56B). He argues eBay has stagnated post-Donahoe: GMV down, active users down ~30M, opex over half of revenue with $2.4B on marketing for no user growth. He'd cut $2B in costs and treat sellers (the real customers) far better."
+        },
+        {
+          "title": "Growth vectors: live commerce and digital collectibles",
+          "detail": "Cohen wants eBay to dominate live commerce (a ~$400B TAM currently being 'crushed' by a large competitor), using 1,600 GameStop stores as creator studios and fulfillment nodes. His unannounced idea: build a liquidity marketplace for in-game digital items (skins, weapons), which he says has real utility unlike NFTs and could dwarf eBay's physical marketplace."
+        },
+        {
+          "title": "Board resistance and next steps",
+          "detail": "eBay's board rejected the offer citing financing uncertainty; the CEO and board won't take meetings, and a vote to lower the special-meeting threshold from 20% to 10% failed narrowly. Cohen notes the CEO has a ~$100M golden parachute, says he's putting $500M of his own money in, and vows he 'won't go away' — signaling a possible hostile route or tender."
+        },
+        {
+          "title": "Grievance with the media and short sellers",
+          "detail": "Cohen repeatedly argues everyone 'wants GameStop to fail,' contrasting his own capital at risk with an overpaid management team and board that 'don't buy stock with their own money.' Host Chamath theorizes the media can't credit Cohen without admitting they were wrong to call GameStop a meme stock."
+        }
+      ],
+      "quotes": [
+        "I was on the toilet",
+        "If our suppliers are sending us gifts in the mail, that's a really bad sign — it means we're overpaying.",
+        "I look for will over skill... basically be as psychotic as me, and psychopaths attract psychopaths.",
+        "There's nothing more American than basically risking your own capital. So why does everyone want us to fail?",
+        "The market is a voting machine in the short term but a weighing machine in the long term."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "A rare, candid CEO interview with concrete operating lessons and a detailed strategic case for a live $56B takeover battle, though it's one-sided and light on hard financing details."
+    },
+    "added_at": "2026-07-03T15:57:41.449178+00:00"
+  },
+  {
     "id": "1M3Vdl6DRkU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
@@ -543,5 +591,147 @@
       "verdict_reason": "A substantive, technically grounded survey of the AI landscape from two credible researchers with concrete claims on scaling economics, the US-China open-model race, and coding agents — though its three-hour length and meandering philosophical tangents make it more of a deep browse than an essential listen."
     },
     "added_at": "2026-07-02T16:16:59.495566+00:00"
+  },
+  {
+    "id": "Z-FRe5AKmCU",
+    "show": "Lex Fridman",
+    "slug": "lex-fridman",
+    "title": "Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | Lex Fridman Podcast #489",
+    "url": "https://www.youtube.com/watch?v=Z-FRe5AKmCU",
+    "published": "2026-01-13T20:06:59+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/Z-FRe5AKmCU/hqdefault.jpg",
+    "summary": {
+      "tldr": "Naturalist Paul Rosolie recounts an unprecedented October 2024 encounter with an uncontacted Amazon tribe (the Mashco Piro, who call themselves \"Nomole\"), captured on film for the first time. The episode blends this dramatic story with the escalating danger facing his conservation nonprofit Jungle Keepers, which has protected 130,000 acres and is racing to secure 200,000 more amid a violent narco-trafficking drug war in the Peruvian jungle.",
+      "topics": [
+        {
+          "title": "First filmed contact with an uncontacted tribe",
+          "detail": "In October 2024, Rosolie's team documented a face-to-face encounter with roughly 50 Mashco Piro warriors carrying seven-foot bamboo bows. They exchanged canoe-loads of plantains for peace; the tribe asked \"Why are you cutting down the trees?\" and identify themselves as \"Nomole\" (brothers). It was reportedly the first documented footage with audible voices of the tribe."
+        },
+        {
+          "title": "The violence surrounding contact",
+          "detail": "Two loggers were killed by the tribe in August 2024. The day after the peaceful exchange, the tribe ambushed a boat with ~200 members, and a man named George took a seven-foot arrow through his torso and had to be medevacked. Rosolie's ranger Ignacio was shot in the head by an arrow in 2019 and survived."
+        },
+        {
+          "title": "Narco drug war on the river",
+          "detail": "Rosolie describes a shift from dealing with friendly local loggers to armed cocaine cartels building airstrips hidden under the canopy. A police officer he'd just shaken hands with was killed in a drive-by shooting hours later; narcos have put a hit out on Rosolie and his partner JJ, intercepted via a WhatsApp message offering a reward to kill them."
+        },
+        {
+          "title": "Jungle Keepers funding model",
+          "detail": "The nonprofit converts loggers and miners into paid rangers, funded by several thousand monthly donors giving $5–$1,000. Rosolie says he needs $20 million to save the remaining corridor and has 18 months to secure 200,000 more acres before roads and cartels cut through. A single Instagram post raised $150,000 in 48 hours to buy one concession."
+        },
+        {
+          "title": "Wildlife encounters and jungle lore",
+          "detail": "Rosolie describes handling a 19-foot blue-eyed anaconda (\"Millie\"), rescuing a drowning spider monkey by 'speaking' its language, close calls with a charging elephant in India and a passing jaguar, and the \"Mist River\" of moisture flowing above the canopy seen from atop a 160-foot ironwood tree."
+        },
+        {
+          "title": "Jane Goodall, hope, and legacy",
+          "detail": "Rosolie credits Jane Goodall (who died October 1) with launching his career by endorsing his unpublished manuscript, which led HarperCollins to publish 'Mother of God.' He and Lex discuss apathy as the greatest threat, and Rosolie's plan to eventually transition from field work to teaching conservation and having a family."
+        }
+      ],
+      "quotes": [
+        "They see us as the destroyers of worlds.",
+        "It was two tribes looking at each other with a thousand years of civilization between them.",
+        "Right now, we're begging on the side of the road for enough change to buy bullets so that we can stay alive.",
+        "There's that quote that someone less qualified than you is living your dream life and has your dream job right now, and I am the poster child for that."
+      ],
+      "verdict": "Skim-worthy",
+      "verdict_reason": "A gripping adventure story with a genuinely novel news hook (first-filmed uncontacted tribe contact) and a concrete $20M fundraising angle, but it offers little of direct relevance to a tech, startup, or markets-focused listener beyond a scrappy nonprofit's operations."
+    },
+    "added_at": "2026-07-03T15:58:09.565880+00:00"
+  },
+  {
+    "id": "14OPT6CcsH4",
+    "show": "Lex Fridman",
+    "slug": "lex-fridman",
+    "title": "Infinity, Paradoxes, Gödel Incompleteness & the Mathematical Multiverse | Lex Fridman Podcast #488",
+    "url": "https://www.youtube.com/watch?v=14OPT6CcsH4",
+    "published": "2025-12-31T21:26:17+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/14OPT6CcsH4/hqdefault.jpg",
+    "summary": {
+      "tldr": "Set theorist and philosopher Joel David Hamkins walks through the foundations of modern mathematics: Cantor's infinities, Hilbert's Hotel, Gödel's incompleteness theorems, the halting problem, and the continuum hypothesis. The core takeaway is his 'multiverse' view of mathematics—that there is no single true set theory but rather many alternative set-theoretic universes reachable via forcing. It's a deep, technical but accessible tour of why some questions are provably unanswerable within any axiomatic system.",
+      "topics": [
+        {
+          "title": "Multiple infinities and countability",
+          "detail": "Hamkins explains via Hilbert's Hotel and Cantor's diagonal argument that some infinities are strictly larger than others: the reals are uncountable while rationals and integers are countable. He shows countably many countable sets union to a countable set (using prime factorization 3^C x 5^S to fit an infinite train into the hotel)."
+        },
+        {
+          "title": "Russell's paradox and Cantor's power set theorem",
+          "detail": "The power set of any set is strictly larger, proved via diagonalization. Hamkins gives anthropomorphized versions (committees, fruit salads) and recounts how Russell's one-line letter destroyed Frege's logicist project just as it went to press—Frege wrote it was the most unwelcome thing that can befall a scientific writer."
+        },
+        {
+          "title": "Gödel incompleteness and Hilbert's program",
+          "detail": "Hilbert wanted a complete, consistent, finitary-provable foundation (Peano arithmetic, ZFC). Gödel's theorems killed both goals: no computable axiomatization can be both complete and consistent, and no such theory can prove its own consistency. Hamkins shows Gödel's theorem follows directly from the halting problem's undecidability."
+        },
+        {
+          "title": "The continuum hypothesis and the multiverse view",
+          "detail": "CH (no infinity between naturals and reals) was Hilbert's problem #1. Gödel (1938) showed it's consistent via the constructible universe L; Cohen (1963) invented forcing to show its negation is consistent. CH remains independent of all known large cardinal axioms. Hamkins argues this supports a pluralist 'set-theoretic multiverse' rather than one true mathematics—a controversial position vs. his advisor Hugh Woodin's universe view."
+        },
+        {
+          "title": "Halting problem black holes and P vs NP",
+          "detail": "Hamkins proved the halting problem has a 'black hole': a computable procedure decides almost every instance (asymptotic density 1), because random Turing machines' heads fall off the tape before repeating a state (via Polya's recurrence theorem). He notes P vs NP is asymptotic so less practically dramatic than hyped, and SAT solvers already work well in practice."
+        },
+        {
+          "title": "Infinite chess and AI skepticism",
+          "detail": "On an infinite board, positions exist where White wins in infinitely many moves but no fixed N—Black controls the length (game value omega). Every countable ordinal arises as a game value. Hamkins is skeptical of current LLMs for math: they produce arguments that 'look like' proofs rather than proofs, a dangerous source of error, though he finds them useful for programming."
+        }
+      ],
+      "quotes": [
+        "Suppose there was an uninteresting number, then there would have to be a smallest uninteresting number. But that's a contradiction, because the smallest uninteresting number is a super interesting property to have.",
+        "White is going to win, but black controls how long it takes.",
+        "The AI is trying to give me an argument that sounds like a proof rather than an argument that is a proof.",
+        "When you ask a question that turns out to be independent, then you asked exactly the right question... it's carving nature at its joints.",
+        "I live entirely in the platonic realm, and I don't really understand the physical universe at all."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "A rich, well-explained tour of mathematical foundations with genuine intellectual payoff and sharp AI commentary, though it's largely tangential to tech/startup/market concerns and demands sustained attention."
+    },
+    "added_at": "2026-07-03T15:58:33.044569+00:00"
+  },
+  {
+    "id": "_bBRVNkAfkQ",
+    "show": "Lex Fridman",
+    "slug": "lex-fridman",
+    "title": "Deciphering Secrets of Ancient Civilizations, Noah's Ark, and Flood Myths | Lex Fridman Podcast #487",
+    "url": "https://www.youtube.com/watch?v=_bBRVNkAfkQ",
+    "published": "2025-12-12T20:01:08+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/_bBRVNkAfkQ/hqdefault.jpg",
+    "summary": {
+      "tldr": "British Museum cuneiform curator Irving Finkel discusses the origins of writing in Mesopotamia around 3500 BC, how cuneiform was deciphered, and his decoding of a 1700 BC Babylonian 'Ark Tablet' that predates the biblical Noah flood story by over a thousand years. The core takeaway: what survives from antiquity is a tiny 'raindrop' from which we infer the 'waterfall' of a lost civilization, and Finkel repeatedly challenges scholarly consensus about writing's origins, ancient libraries, and translation. It's a humanities-heavy conversation with no tech, startup, or market content.",
+      "topics": [
+        {
+          "title": "Origins and mechanics of writing",
+          "detail": "Finkel dates the oldest writing evidence to ~3500 BC in Mesopotamia, argues writing's genius was encoding sound (not pictures), and that Sumerians also invented lexicography to standardize signs—which kept cuneiform stable for 3,000+ years. Cuneiform ('wedge-shaped') was syllabic, with multiple values per sign, no spaces between words."
+        },
+        {
+          "title": "Contrarian claims against Assyriology consensus",
+          "detail": "Finkel argues (controversially) that phonetic writing likely predated pictographs, that a green seal stone at Göbekli Tepe (~9000 BC) implies writing millennia earlier than accepted, and that the burned Nineveh library of Ashurbanipal is mostly duplicates/discards because conquerors would have carted off the valuable tablets. He also disputes Henry Rawlinson's credit as 'Father of Assyriology,' favoring Edward Hincks."
+        },
+        {
+          "title": "Decipherment and translation",
+          "detail": "The trilingual Bisutun inscription of Darius (Old Persian/Elamite/Babylonian) was the 'Rosetta Stone' of cuneiform; recognizing Babylonian as Semitic (e.g., the word for 'river') unlocked it. Finkel praises the Chicago Assyrian Dictionary and argues modal verbs (could/might/should) must have existed despite not appearing grammatically—citing omen texts that can't literally mean 'the queen will die.'"
+        },
+        {
+          "title": "The Ark Tablet and flood myths",
+          "detail": "Finkel identified a ~1700 BC tablet describing a round coracle-shaped ark with build instructions, predating Genesis by 1,000+ years and establishing Mesopotamian primacy. He argues the flood stories are 'literary dependence' (proven by the three-birds detail shared across Gilgamesh and Genesis), rooted in a real local flood but not global—dismissing Graham Hancock's Younger Dryas asteroid theory as 'negligible.'"
+        },
+        {
+          "title": "Ancient board games",
+          "detail": "The Royal Game of Ur, found by Woolley in ~2600 BC royal graves, spread across the Middle East, Egypt (Tutankhamun's tomb), and beyond over 3,000 years. Finkel reconstructed its rules from a 2nd-century BC tablet, and it's now played again worldwide, including Iraqi cafes; he sees it as a balance of chance and strategy like backgammon."
+        },
+        {
+          "title": "The British Museum and views on modernity",
+          "detail": "Finkel frames the museum (holding ~130,000 cuneiform tablets) as a 'lighthouse' documenting all human achievement for future generations, unlike art-focused institutions like the Louvre or Met. He criticizes monotheism as bringing dogmatic 'evil,' and warns that the 'electronic universe' and short-form video are addictive and degrade language and thought."
+        }
+      ],
+      "quotes": [
+        "It is theoretically possible to infer the Niagara Falls from a raindrop... that seal from Gobekli Tepe is a raindrop from which I infer writing.",
+        "There's only one rival to it for cultural importance, which is the electric guitar... the two of them, I think, are your countrymen's greatest achievement.",
+        "So it starts off with Utnapishtim, and then it goes on to Noah, and then it goes on to Hollywood.",
+        "I think the big mistake for mankind was the creation of monotheistic religions, because they brought evil into the world."
+      ],
+      "verdict": "Skip",
+      "verdict_reason": "It's a charming, erudite deep-dive into ancient languages and archaeology with zero relevance to tech, startups, or markets."
+    },
+    "added_at": "2026-07-03T15:58:56.311810+00:00"
   }
 ]
