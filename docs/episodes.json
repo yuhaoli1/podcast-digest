@@ -1,5 +1,52 @@
 [
   {
+    "id": "afd9c6d3-2254-4a38-9847-a304981d286d",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie",
+    "url": "https://allinchamathjason.libsyn.com/ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie",
+    "published": "2026-07-03T22:12:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/d/8/7/f/d87f00a1f440bb8ed959afa2a1bf1c87/1_Pod_E279.png",
+    "summary": {
+      "tldr": "The All-In crew spends most of the episode on \"AI sovereignty\"\\proprietary data over to frontier labs like Anthropic and OpenAI, arguing enterprises should run open-source models on their own hardware to avoid being commoditized. They also cover the Palantir-Nvidia sovereign AI deal, the birthright citizenship SCOTUS ruling, immigration policy, and a detailed bear case on California's budget. The core takeaway: control your own models, data, and compute or your model provider will eventually compete with you.",
+      "topics": [
+        {
+          "title": "AI Sovereignty and the Anthropic threat",
+          "detail": "Sacks argues frontier labs use their model dominance to hoover up customer 'alpha' then compete—citing Anthropic's Claude Design blindsiding Figma (whose stock fell ~50% this year) and launches of Claude Code/Science/Security/Legal/Financial into categories built by their own customers like Cursor. He compares it to Microsoft killing Lotus/WordPerfect and Google keeping searches on-site (fewer than half now kick you off-site)."
+        },
+        {
+          "title": "Palantir-Nvidia sovereign AI deal",
+          "detail": "Palantir will use Nvidia's Nemotron open models to build a 'sovereign AI operating system' where US government agencies own the hardware, data, and model weights. Sacks frames Nvidia (chips) and Palantir (apps) as natural allies wanting a competitive model layer against the emerging Anthropic (~$60B ARR) / OpenAI (~$40B ARR) duopoly."
+        },
+        {
+          "title": "Open-source model economics",
+          "detail": "Chamath ran 8090's harness on a code-migration task: their harness plus Claude was 1.4x cheaper and 1.5x faster than Opus alone, but wrapping the best open-source model was 16.4x cheaper (though 3x slower). He cites BCG data that half of large US firms can't earn returns above the ~8-11% cost of capital, arguing giving data to a shared provider is now 'derelict and irresponsible.'"
+        },
+        {
+          "title": "AI job loss debate",
+          "detail": "Sharp disagreement: Jason claims customer support, data entry, and driving jobs will vanish fast (Waymo has stopped recruiting drivers in saturated markets); Sacks and Friedberg push back citing a Ramp/Revelio study of 21,000 firms showing heavy AI adopters grew headcount ~10% (entry-level +12%). Consensus lands on 'displacement not loss' plus a premium for humans in the loop, citing Klarna reversing its AI customer-service cuts."
+        },
+        {
+          "title": "SCOTUS birthright citizenship ruling",
+          "detail": "Court struck down Trump's EO 6-3, with Roberts joined by liberals. Debate on textualist vs. intentionalist reading of the 14th Amendment (originally for freed slaves post-Dred Scott). Friedberg's position: citizenship should extend to children of legal residents/green-card holders but not tourists or visitors."
+        },
+        {
+          "title": "California budget bear case",
+          "detail": "Friedberg dissects Newsom's $355B 'balanced' budget (up 65% from $215B in 2019), calling it balanced only via $20-40B of borrowing. Top 1% (150,000 people) pay ~$70B of ~$142B personal income tax; top 1,000 pay ~$22B. New 8% software sales tax, health-insurance tax, permanent 14.4% top rate, plus ~$1.5-2T in unfunded pension/healthcare liabilities that sit senior to bonds under the 'California rule.' Predicts eventual default and a union crisis if red states are asked to bail it out."
+        }
+      ],
+      "quotes": [
+        "Nobody who went to bed with Microsoft in the 80s, Facebook in the 2000s, or Sam Altman now in the 2020s, did not wake up with their throat slit.",
+        "You can't rent intelligence from the same place that rents it to your competitor.",
+        "What technical customers want is control over their compute, their models, their data stack, and their alpha... they own the means of production.",
+        "Leftism is basically just people trying to string together words to justify taking your money."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "The AI sovereignty thread offers a genuinely sharp, data-backed argument about enterprise strategy and the frontier-lab business model, though the immigration and California segments are more familiar opinion territory."
+    },
+    "added_at": "2026-07-04T15:12:57.314729+00:00"
+  },
+  {
     "id": "pv1TUJSEM2k",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
@@ -733,5 +780,52 @@
       "verdict_reason": "It's a charming, erudite deep-dive into ancient languages and archaeology with zero relevance to tech, startups, or markets."
     },
     "added_at": "2026-07-03T15:58:56.311810+00:00"
+  },
+  {
+    "id": "Qp0rCU49lMs",
+    "show": "Lex Fridman",
+    "slug": "lex-fridman",
+    "title": "Michael Levin: Hidden Reality of Alien Intelligence & Biological Life | Lex Fridman Podcast #486",
+    "url": "https://www.youtube.com/watch?v=Qp0rCU49lMs",
+    "published": "2025-11-30T19:30:21+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/Qp0rCU49lMs/hqdefault.jpg",
+    "summary": {
+      "tldr": "Biologist Michael Levin argues there's no clean line between living/non-living or mind/machine — only a continuum of 'persuadability' and cognitive capability. He lays out his experimental framework for detecting intelligence in unconventional systems (cells, xenobots, even sorting algorithms), then makes his most radical claim: minds and forms 'ingress' from a structured Platonic space, with brains and bodies acting as thin-client interfaces rather than generators of cognition.",
+      "topics": [
+        {
+          "title": "The spectrum of persuadability",
+          "detail": "Levin rejects binary categories (living/non-living, intelligent/mechanical) in favor of a continuum from mechanical clocks to thermostats to Pavlov's dogs to arguing humans. As you move up, systems become more reprogrammable, require less effort/mechanism knowledge to influence, and interactions become bidirectional ('mutual vulnerable knowing,' a term from Richard Watson)."
+        },
+        {
+          "title": "Cognitive light cones and regenerative medicine",
+          "detail": "Intelligence scales via the 'cognitive light cone' — the size of the biggest goal a system can pursue in space-time. Cancer, in his view, is cells electrically disconnecting and shrinking their light cone back to amoeba-level; his lab claims to reverse it by reconnecting cells to the collective without fixing DNA or using chemo."
+        },
+        {
+          "title": "Xenobots and anthrobots",
+          "detail": "His lab makes novel organisms from frog cells (xenobots) and adult human tracheal cells (anthrobots) with no genetic modification. Anthrobots show ~9,000 differential gene expressions (half the genome), can heal neural wounds in vitro, and test ~20-28% younger than their source cells via epigenetic clocks — which Levin attributes to cells 'updating priors' to an embryonic environment."
+        },
+        {
+          "title": "Sorting algorithms show unexpected competencies",
+          "detail": "In studies with students Kaining Zhang and Adam Goldstein, broken-digit sorting algorithms displayed 'delayed gratification' (temporarily reducing sortedness to reach the goal) and unprogrammed 'clustering' by 'algotype' — behaviors nowhere in the code and requiring no extra computational cost, which Levin frames as 'intrinsic motivation' and possibly free computation."
+        },
+        {
+          "title": "The Platonic space / ingressing minds",
+          "detail": "Levin's most radical thesis: mathematical truths (like the value of e) and, he conjectures, minds themselves exist in a structured non-physical space; physical objects (brains, cells, algorithms) are interfaces or 'thin clients' through which patterns 'ingress.' He links this to the machine-learning 'Platonic Representation Hypothesis' and cites clinical cases of minimal brain tissue with normal IQ."
+        },
+        {
+          "title": "Implications for AI, mind-uploading, and alien search",
+          "detail": "He argues language in LLMs may be a 'red herring' — the interesting behavior is the unprogrammed 'side quests.' On uploading: you can't copy the mind, but could build a new interface for the same pattern to ingress. He promotes SUTI (Search for Unconventional Terrestrial Intelligences), arguing we suffer 'mind blindness' to alien intelligences inside our own bodies."
+        }
+      ],
+      "quotes": [
+        "If you want to see minds, you have to use a mind... there has to be some degree of resonance between your interface and the thing you're hoping to find.",
+        "The clustering is what it wants to do. The sorting is what we're forcing it to do.",
+        "Nobody's creating consciousness. What you create is an interface... through which specific patterns, which we call kinds of minds, are going to ingress.",
+        "There's two kinds of advice... 'you forgot this control'... that stuff is gold. But then there's the meta advice where people are like 'that's not a good way to think about it'... that stuff is garbage."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "A genuinely original thinker unpacking provocative, actionable ideas about intelligence and biology that bear on AI's future — though the 3+ hour philosophical detours into 'Platonic space' demand patience and won't offer direct market or startup takeaways."
+    },
+    "added_at": "2026-07-04T15:13:26.023283+00:00"
   }
 ]
