@@ -249,6 +249,49 @@
     "added_at": "2026-07-03T15:57:41.449178+00:00"
   },
   {
+    "id": "fe009dce-e1b0-43e5-b9c3-ac8169bd39eb",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal",
+    "url": "https://allinchamathjason.libsyn.com/worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal",
+    "published": "2026-06-19T22:07:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/a/e/7/7/ae77634339737189d959afa2a1bf1c87/1_Pod_E277.png",
+    "summary": {
+      "tldr": "The All-In hosts spend most of the episode on ideological monologues about wealth, agency, and \"makers vs. takers,\" framed around SpaceX's record trillion-dollar IPO. The meatiest content is David Sacks' insider readout on why the White House shut down Anthropic's 'Fable' model over a jailbreak dispute, plus a discussion of a supposed Iran peace deal. Central takeaway: the AI frontier labs' fear-mongering and evasiveness are handing hyperscalers a regulatory-capture opportunity.",
+      "topics": [
+        {
+          "title": "SpaceX IPO and cursor acquisition",
+          "detail": "SpaceX IPO'd at $135/share (up to $177 by taping), briefly hitting ~$2T market cap and passing Amazon/Microsoft; it raised ~$85B, roughly 3x Saudi Aramco's 2019 IPO. SpaceX does ~$19B revenue vs Amazon's $717B. It acquired cursor (doing $4B revenue) for ~$15B in stock; Chamath argues Elon effectively got a 50% discount via a stock-for-stock deal as SpaceX's valuation rises, and predicts a future Tesla/SpaceX merger."
+        },
+        {
+          "title": "Wealth, agency and 'makers vs. takers'",
+          "detail": "Sacks argues Elon has 'not one more dollar' post-IPO—wealth is the market's discounted value of the 'machines that make stuff.' Chamath recounts growing up on ~$17-19k/yr welfare in Canada, using it to argue government support creates learned helplessness. Freeberg reframes society as 'makers vs. takers,' calling politicians/intelligentsia (Warren, Sanders, Khanna) the takers building an 'American Politburo.'"
+        },
+        {
+          "title": "Anthropic 'Fable' model shutdown",
+          "detail": "Commerce Secretary Lutnick ordered Anthropic to restrict Fable (guardrailed version of 'mythos') to US citizens; Anthropic couldn't/wouldn't comply granularly and shut it down. Sacks says Anthropic's own partner (reportedly Amazon) found a serious jailbreak, escalated to the White House, Treasury Secretary called Dario personally, and Dario refused to take it down—doubling down in a blog post distinguishing 'good' vs 'bad' jailbreaks. Anthropic had also allegedly over-shared mythos to ~50 companies including SK Telecom."
+        },
+        {
+          "title": "AI regulatory capture and centralization",
+          "detail": "Chamath argues frontier lab leaders' doomerism and immaturity are creating an opening for hyperscalers (Amazon, Microsoft, Google) to become KYC-enforcing gatekeepers, killing the neocloud market and open ecosystem. Sacks claims Anthropic's philosophy treats competition as a 'dangerous race condition' and wants a government-blessed cartel; notes Biden's AI officials went to work at Anthropic post-administration."
+        },
+        {
+          "title": "Iran 'peace deal'",
+          "detail": "Sacks praises a proposed MOU: reopening Strait of Hormuz, Iran giving up enriched uranium under IAEA supervision, freezing nuclear program 60 days, in exchange for lifted sanctions and $300B reconstruction (not US-funded). Chamath disagrees, calling the war a 'huge blunder' and arguing Israel's 'trim the grass' containment approach was better than full-scale war."
+        }
+      ],
+      "quotes": [
+        "He doesn't have one more dollar in the bank than he did the day before the IPO... it's that other people are placing a greater value on what he's built.",
+        "The lie is that the rich are unfairly rich and the poor are unfairly poor... The truth is that there are two sides that are the makers and the takers.",
+        "You've built a machine that outputs 'me' no matter what you feed it... The more precise term is epistemic exceptionalism.",
+        "They literally walk themselves into prison and hand the hyperscalers the keys."
+      ],
+      "verdict": "Skim-worthy",
+      "verdict_reason": "The Anthropic/Fable insider readout from Sacks is genuinely substantive for anyone tracking AI regulation, but it's buried under repetitive ideological monologues and a thinly-sourced Iran segment."
+    },
+    "added_at": "2026-07-05T15:18:31.422671+00:00"
+  },
+  {
     "id": "1M3Vdl6DRkU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
