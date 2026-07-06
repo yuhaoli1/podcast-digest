@@ -292,6 +292,58 @@
     "added_at": "2026-07-05T15:18:31.422671+00:00"
   },
   {
+    "id": "aed8a034-f95c-4fd8-a457-c964d779dee6",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
+    "url": "https://allinchamathjason.libsyn.com/anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections",
+    "published": "2026-06-13T04:51:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/6/7/e/c/67ec7acb0cac9bead959afa2a1bf1c87/1_Pod_E276.png",
+    "summary": {
+      "tldr": "The besties dissect Anthropic's new 'Fable 5' model release, which introduced mandatory 30-day prompt retention and silently downgraded users doing frontier AI research or asking sensitive science questions—sparking a developer backlash and accusations of regulatory capture. They debate whether the fear-mongering is genuine safety concern or an anti-competitive push to ban open-source models (which are increasingly Chinese), then cover Bernie Sanders' proposal to seize 50% of AI companies, a hot inflation print, and alleged election irregularities in the LA mayoral primary. The through-line: AI's guardrails may push US companies toward Chinese open-source models and consolidate power in one or two labs.",
+      "topics": [
+        {
+          "title": "Anthropic's Fable 5 backlash",
+          "detail": "The model tops benchmarks but costs ~2x Opus 4.8 per token. It retains all prompts/context for 30 days with no exceptions (even zero-retention enterprise contracts), and silently downgraded users doing AI/ML/chip-design research or asking benign science questions—Ben Thompson got kicked out asking about cancer and GLP-1s. Anthropic walked back only the non-disclosure of downgrades. Jason live-tested it and got downgraded twice on-air, once for a fertilizer-regulation question."
+        },
+        {
+          "title": "Regulatory capture and the open-source flight to China",
+          "detail": "Sacks claims Anthropic is running a fear-mongering regulatory-capture campaign, and Dario's new blog calls for an FAA/FDA-style agency to approve all models—which Sacks argues is a preemptive strike to ban open-source. Freeberg says restrictions are forcing his genomics company (Ohalo) to run local open-source models, and 'the best open source models today are Chinese.' He cites using the Arc Institute's genome language model funded by the Collisons."
+        },
+        {
+          "title": "Chamath's data-center bet",
+          "detail": "Chamath says a gigawatt data center now costs ~$100B (up ~20x from $4-5B when he started), and he's considering building 2-3 gigawatts on Arizona land specifically to enable liquid access to open-source models, rather than flipping to Blackstone/Google."
+        },
+        {
+          "title": "Bernie Sanders wants half of AI companies",
+          "detail": "Sanders' 'American AI Sovereign Wealth Fund Act' proposes a one-time 50% tax on the stock of the largest AI firms (OpenAI, Anthropic, XAI). Sacks opposes it as confiscation but sympathizes since these public-benefit corporations trained free on humanity's knowledge while predicting mass job loss. Freeberg counters that Social Security should be restructured into an equity-owning sovereign wealth fund with individual accounts."
+        },
+        {
+          "title": "The AI jobs debate",
+          "detail": "Freeberg insists there is no AI job loss—it's a revenue-side productivity boom; he's adding 15 engineering headcount. Sacks distinguishes the CEOs' claims: Elon (utopian post-scarcity), Dario (50% entry-level knowledge-worker loss in 1-5 years, already refuted), Sam (walked it back). May jobs report: 172K new jobs, 4.3% unemployment."
+        },
+        {
+          "title": "Hot inflation print",
+          "detail": "May CPI came in at 4.2% YoY (highest since April 2023) and PPI at 6.5% (highest since end of 2022), largely attributed to the Iran war energy spike. Chamath warns oil could hit $150-200/barrel if China runs out of reserves and re-enters spot markets, and calls for off-ramping the Iran conflict. Markets were up because the print was roughly in line with expectations."
+        },
+        {
+          "title": "LA mayoral primary election dispute",
+          "detail": "Spencer Pratt led in-person voting (35%) but late-arriving mail ballots swung ~80% toward Nithya Raman, concentrated around Skid Row. Freeberg argues California's laws (unlimited ballot harvesting, universal mailed ballots, no voter ID) make it a system of 'appointment, not election'—legal fraud. Sacks calls it crooked; Jason pushes back that no modern major election has been swung by fraud and demands Trump's DOJ investigate."
+        }
+      ],
+      "quotes": [
+        "One thing I'll say about anthropic is they tell the truth. It's just that the truth sucks when you actually take it and you eat it.",
+        "The American open source models are not as good as the Chinese open source models.",
+        "If you're building Frankenstein... stop making Frankenstein, unplug it. You are in charge of this monster, but you're acting as if you can't stop the monster while you're building the monster.",
+        "There is no election. Your rights to have an election are gone. You are a citizen of those who tell you who your overseers are.",
+        "She had a better cheating operation, obviously."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "The Anthropic segment offers a genuinely sharp, specific analysis of AI guardrails driving companies toward Chinese open-source models plus concrete numbers on data-center costs, though the lengthy election argument is more heat than insight."
+    },
+    "added_at": "2026-07-06T16:58:31.403025+00:00"
+  },
+  {
     "id": "1M3Vdl6DRkU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
