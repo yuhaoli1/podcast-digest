@@ -344,6 +344,50 @@
     "added_at": "2026-07-06T16:58:31.403025+00:00"
   },
   {
+    "id": "b7a698b7-d215-4f2e-a61e-8c9b702c42f5",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "All-In's Best Ideas Pitch Competition: 4 Investors Present Their Top Trades Live",
+    "url": "https://allinchamathjason.libsyn.com/all-ins-best-ideas-pitch-competition-4-investors-present-their-top-trades-live",
+    "published": "2026-06-12T01:25:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/4/d/4/8/4d480dba951b0323d959afa2a1bf1c87/Podcast_Graphic_-_Liquidity-20260612-fgddv4d5ru.png",
+    "summary": {
+      "tldr": "A live pitch competition at an All-In event where four professional investors each present a single high-conviction trade idea, followed by Q&A and judging from the hosts. The four picks: MGM (casino operator, Aaron Cowen), Talen Energy (nuclear/gas power producer, Dan Dreyfus), Actinium/Actus Oncology (radiopharma biotech, Oleg Nodelman), and GEODNET (crypto RTK-precision-location network, Kyle Samani). MGM won both audience and bestie votes on its capped-downside, multi-catalyst thesis.",
+      "topics": [
+        {
+          "title": "MGM Resorts (Aaron Cowen, Surretta Capital)",
+          "detail": "Cowen argues MGM is a triple, driven not by Vegas but by hidden Asian/Middle East optionality: an Osaka, Japan casino license opening 2030 (est. $2B EBITDA, 40% owned) targeting Chinese gamblers, plus a Dubai property built with 300k sq ft of empty space for future legalized gambling. Barry Diller owns 26% and bid $48 (stock rose from ~$37); Cowen says don't tender, sees the stock worth $60 base, ~$50 more for Japan, $40-50 more for Dubai, potentially $100-150."
+        },
+        {
+          "title": "Talen Energy (Dan Dreyfus)",
+          "detail": "A power producer with 2GW nuclear + 6GW gas trading at ~$25B EV vs ~$45B replacement cost (Sam Zell playbook). Stock in high $300s at ~7x free cash flow; base case doubles to ~$50/share FCF doing nothing, ~$70 with more data-center contracts (15x = ~$1,050), $100+ if they build new capacity. Thesis: US must copy China's power buildout; PJM region needs 106GW over 10 years. Cited Microsoft's Three Mile Island deal at $100/MWh for 20 years."
+        },
+        {
+          "title": "Actus Oncology / radiopharma (Oleg Nodelman, EcoR1 Capital)",
+          "detail": "Radiopharmaceuticals pitched as 'microdrones' with 100-micron blast radius. Actus (AKTS): ~$1B market cap, ~$500M enterprise value, 3+ years cash, IPO 18x oversubscribed with $100M Lilly backstop. Targets Nectin-IV (bladder) and B7H3 (major solid tumors), data expected Q1 2027. Actinium payload sourced from US-only radium-233 waste, creating a moat against China generics. Nodelman claims potential $10B / $200 per share if one program hits."
+        },
+        {
+          "title": "GEODNET (Kyle Samani, ex-Multicoin)",
+          "detail": "A crypto-incentivized RTK network giving ~2cm location precision (100x GPS), with ~22,000 base stations (2x the next three legacy players combined), live in 150 countries. Customers include John Deere, DJI, TomTom. ~$11M ARR growing 3x YoY; 80% of revenue (~$8.8M) buys GEO tokens on the open market. Fully diluted ~$150M valuation. Token GEOD trades on Solana; Samani says buy the token, not equity."
+        },
+        {
+          "title": "Judging and sizing debate",
+          "detail": "Chamath framed picks by asymmetric alpha vs downside and liquidity, noting he couldn't get $1M into GEODNET without moving the market, while MGM and Talen could absorb tens of millions. Gavin Baker ranked MGM > Talen > Actus, praising MGM's Diller-bid-capped downside and worrying about AI regulatory risk hitting Talen. Freeberg noted MGM's undermonetized entertainment (sphere shows adding ~$1M/day EBITDA). MGM won both audience (50%) and bestie votes."
+        }
+      ],
+      "quotes": [
+        "I said, Amazon's going to be a trillion dollar company. And I was laughed out of the room. David Einhorn... said, I know trillion dollar companies, this is not a trillion dollar company, wrong.",
+        "If I had just picked NVIDIA, I would have been an IRIS legend that I could have retired.",
+        "We do not need AI demand to keep the power markets incredibly tight for the next 20 years. AI demand just turbocharges.",
+        "In a sector where virtually everyone else is a momentum investor betting on science, we focus on margin of safety... we want to monetize other kids' science projects.",
+        "I feel about crypto exactly the way I do about snowboarding... please don't go sideways down the mountain and ruin the powder, David."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Four concrete, well-argued single-stock/token theses with real numbers and pushback from the judges make it a useful listen for investors, even if the entertainment-heavy framing and self-serving pitches warrant skepticism."
+    },
+    "added_at": "2026-07-07T16:35:18.274691+00:00"
+  },
+  {
     "id": "1M3Vdl6DRkU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
