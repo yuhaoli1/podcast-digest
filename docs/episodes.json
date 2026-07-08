@@ -388,6 +388,49 @@
     "added_at": "2026-07-07T16:35:18.274691+00:00"
   },
   {
+    "id": "9f0c7a53-9e71-449f-8abb-bf9d8bf1fa17",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Senators John Fetterman and Dave McCormick: Bipartisanship, Money in DC, Datacenters, Graham Platner",
+    "url": "https://allinchamathjason.libsyn.com/senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner",
+    "published": "2026-06-10T18:05:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/f/0/b/3/f0b30d692ad9524d16c3140a3186d450/Podcast_Graphic_-_Liquidity-20260610-mm1ibd72q7.png",
+    "summary": {
+      "tldr": "Pennsylvania Senators John Fetterman (D) and Dave McCormick (R) appear together at an All-In event to model bipartisanship, focusing heavily on why AI data centers and energy buildout are an economic boom for Pennsylvania rather than a 'scourge.' The central takeaway: both senators argue that opposition to data centers is fueled partly by Chinese-linked misinformation and that a US moratorium would be a 'China first' policy handing the AI race to Beijing. Fetterman repeatedly breaks with his own party on Israel, AI, and 'Trump Derangement Syndrome.'",
+      "topics": [
+        {
+          "title": "Data centers as a blue-collar boom",
+          "detail": "McCormick cites his July Energy Innovation Summit with $92B of committed investment, the Homer City coal-to-gas conversion (4.4 GW, 3.4 GW to a data center complex, 1 GW back to grid), and claims seasoned welders/electricians in their early 20s make over $100k with 25-30% wage increases. He estimates ~2 logistics jobs per data center job and four 'buckets' of economic activity."
+        },
+        {
+          "title": "AI moratorium framed as pro-China",
+          "detail": "Fetterman says a Democratic push for a data-center moratorium is 'a China first' policy and warns the US is only 'six to eight months ahead of China.' Both invoke the fracking/shale analogy: 15 years of misinformation gave way to ~80% support, and McCormick claims current opposition is 'largely being driven by China and outside forces.'"
+        },
+        {
+          "title": "Fetterman breaks with his party",
+          "detail": "Fetterman defends the filibuster (admitting Democrats were 'so wrong' to want it gone in 2020-22), supports holding Iran accountable even at $5/gallon gas, backs Israel, and refuses to call opponents Nazis or fascists. He says he votes the Democratic line ~93% of the time and accepts he could be primaried."
+        },
+        {
+          "title": "Graham Platner and the Democratic 'lurch left'",
+          "detail": "Fetterman attacks Maine candidate Graham Platner for a Nazi tattoo, alleged sexting with a dozen women, and calling a US soldier a 'dumb motherfucker that doesn't deserve to live' and the Army 'absolute trash.' McCormick says the rise of socialism and anti-Semitism on the left is 'horribly unhealthy,' while Jason Calacanis blames Trump's McCain 'not a war hero' remark for the rhetoric."
+        },
+        {
+          "title": "Inequality, capitalism, and money in politics",
+          "detail": "With Pennsylvania median income at $52,000, the hosts press on wealth concentration; Fetterman warns 'we are going to lose capitalism' without solutions and touts Invest America accounts and $1,700 school-choice contributions. Fetterman's race cost ~$500M ($200M his side, $300M opposition); McCormick's 2022 race was ~$330M, and both expect 2026/2028 to dwarf that."
+        }
+      ],
+      "quotes": [
+        "\"If Democrats run me out of the party, they will be attacking a committed Democrat that votes your line 93% of the time.\"",
+        "\"Do you want to give that race to China? ... Do you want America to build that chassis? Or do you want the Chinese to do that?\"",
+        "\"I am a beneficiary of capitalism ... But we are going to lose capitalism unless we find a combination of ways to address it.\"",
+        "\"Trump comes out for ice cream and lazy Sundays. We're going to hate that. And we're going to vote it down.\""
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "The data-center-as-economic-engine argument and specific Pennsylvania energy/AI investment numbers are genuinely useful for tech and markets readers, even if the political banter and transcription glitches make parts hard to follow."
+    },
+    "added_at": "2026-07-08T16:05:27.884339+00:00"
+  },
+  {
     "id": "1M3Vdl6DRkU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
