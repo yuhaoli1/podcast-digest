@@ -431,6 +431,53 @@
     "added_at": "2026-07-08T16:05:27.884339+00:00"
   },
   {
+    "id": "d169abe0-504c-4732-8cea-e41747a264c9",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Dan Dreyfus: America's Critical Minerals Crisis is Here",
+    "url": "https://allinchamathjason.libsyn.com/dan-dreyfus-americas-critical-minerals-crisis-is-here",
+    "published": "2026-06-10T03:04:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/b/3/0/0/b300a1698fd66e4516c3140a3186d450/Podcast_Graphic_-_Liquidity-20260610-0jeiy2jpei.png",
+    "summary": {
+      "tldr": "Investor Dan Dreyfus (Bornite Capital) delivers a presentation arguing that the US faces a severe critical-minerals and infrastructure crisis just as multiple capital cycles (AI data centers, defense, aerospace, grid, semiconductors) create a massive demand shock colliding with decades of supply underinvestment. His central takeaway: copper and other critical minerals are the next great bottleneck, China dominates supply and processing, and hard assets are the way to protect purchasing power against currency debasement.",
+      "topics": [
+        {
+          "title": "The end of capital-light growth",
+          "detail": "Dreyfus argues the 2000s-2020s US 'economic miracle' created trillions in market cap with almost no capital (Google, Meta buying WhatsApp for $30B with 12 employees, SaaS, Apple) while the US tore down industrial infrastructure and moved it to China, leaving supply chains fragile and causing persistent post-COVID inflation."
+        },
+        {
+          "title": "Simultaneous capital cycles straining minerals",
+          "detail": "He lists overlapping trillion-dollar cycles: aerospace (Boeing/Airbus $1T backlog over 10 years plus space economy), grid modernization (a 106-year-old California power line caused the Paradise fire killing ~300), power generation, data centers (~$1T/year), semi-fabs ($750B, likely trillions), and defense—all dependent on critical minerals."
+        },
+        {
+          "title": "China's export cutoff and the government response",
+          "detail": "Last April China cut off exports of materials including samarium, gadolinium, terbium, dysprosium, scandium, yttrium; Ford was reportedly within days of shutting production over samarium-cobalt magnets. The DoD/DoE are now offering small resource owners a three-part package: an equity check, an expedited permit, and a take-or-pay offtake agreement with a floor price."
+        },
+        {
+          "title": "Copper as the next bottleneck",
+          "detail": "A 1GW AI data center needs 50,000 tons of copper; building 15GW/year means 750,000 tons just for data centers, versus total copper supply growth of only 500,000 tons last year. Growing at GDP means needing 700M tons over 18 years—as much as mined in all of human history—requiring five tier-one mines online yearly when almost none are coming; mines take 7-12 years to build."
+        },
+        {
+          "title": "Currency debasement and the 1970s parallel",
+          "detail": "US has $40T federal debt growing $2.5T/year plus ~$100T of social liabilities also growing $2.5T/year, against only $5.5T tax receipts. Dreyfus predicts massive money printing in the next recession, comparing to the 1970s when the dollar lost 70% of purchasing power and commodities/hard assets were the best-performing asset class."
+        },
+        {
+          "title": "Energy, labor, and the processing problem",
+          "detail": "A 1GW solar-powered data center needs 5GW of solar across 35,000 acres (bigger than San Francisco). Craft labor is the biggest bottleneck; Quanta trainees start at $150K out of high school. Rare earths are abundant but China holds the processing know-how; silver faces a ~200M oz annual deficit with only ~600M oz inventory—roughly three years left."
+        }
+      ],
+      "quotes": [
+        "China leading over us and squeezing our testicles every time that we don't do something that they don't like",
+        "Over the next 18 years, we're going to need as much copper as we mined in the last 10,000 years.",
+        "It's truly what I call a vuja de moment, which is the overwhelming feeling that none of this has ever happened before.",
+        "A lot of urban Americans still think a ham sandwich comes from the refrigerator."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "It's a dense, specific, number-heavy investment thesis on critical minerals and the physical bottlenecks behind the AI buildout—valuable for market-minded listeners, though it's essentially a one-sided sales pitch with little pushback."
+    },
+    "added_at": "2026-07-09T16:28:03.200372+00:00"
+  },
+  {
     "id": "1M3Vdl6DRkU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
