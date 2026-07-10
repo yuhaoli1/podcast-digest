@@ -1,5 +1,52 @@
 [
   {
+    "id": "e7e64c8a-492a-4227-a6cb-5ff7894f3f3a",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras & Black Forest Labs",
+    "url": "https://allinchamathjason.libsyn.com/open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs",
+    "published": "2026-07-10T01:26:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/d/1/d/d/d1dd2623c0e3ae6a16c3140a3186d450/1_Pod_Versailles-20260710-0sxlqfsd3j.png",
+    "summary": {
+      "tldr": "Two-part interview episode. Cerebras CEO Andrew Feldman argues the AI buildout is the largest mobilization since WWII, that inference-heavy reasoning is Cerebras's sweet spot, and that AGI has effectively arrived. Black Forest Labs CEO Robin Rombach discusses open-source image/video generation, a Scorsese partnership, and how the same multimodal models will power robotics. The through-line: open source and 'sovereignty' are ascendant, and compute demand is booked years ahead.",
+      "topics": [
+        {
+          "title": "The AI buildout scale and Cerebras's $25B backlog",
+          "detail": "Feldman claims coming data centers will use more power in the next several years than Earth consumed in the prior 50, with single buildings drawing more power than mid-sized cities. Cerebras has a $25 billion backlog, and customers (OpenAI, Anthropic, xAI, Google, Microsoft, AWS) are booking chips before they're finished because demand outstrips buildout capacity."
+        },
+        {
+          "title": "Reasoning as inference and Cerebras's Moore's law claim",
+          "detail": "Feldman argues reasoning models are compute-intensive inference, which favors Cerebras's fast chips (claimed ~15x faster). He says all prior chips followed Moore's law (doubling ~every 18 months); Cerebras broke it and expects 'way over 2x' in the next 18 months due to a newer architecture with more optimization headroom than 20-year-old GPUs."
+        },
+        {
+          "title": "Open source and sovereignty momentum",
+          "detail": "Both argue open source is having a moment. Cerebras runs GLM, Kimi, Qwen, OpenAI's OSS-120B, and sovereign models for G42/MBZUAI and GSK. Feldman says the US needs more domestic open-source champions since the current choice is OSS-120B or Chinese models, driven by regulated industries (HIPAA, FINRA) wanting on-prem control and data sovereignty."
+        },
+        {
+          "title": "AGI arrival and regulated model rollouts",
+          "detail": "Feldman asserts AGI is effectively here, having blown past every historical definition including the Turing test. On staged model releases (referencing government intervention on 'Fable/5.6' and Dario Amodei's messaging), he says phased rollout for red-teaming isn't unreasonable, citing Palo Alto's Nikesh Arora finding critical bugs in his own software that took six weeks to patch."
+        },
+        {
+          "title": "Black Forest Labs: multimodal models and Scorsese",
+          "detail": "Rombach (co-inventor of latent diffusion, ex-Stable Diffusion, creator of Flux) describes converging image/video/audio models with action prediction for robotics. He met Scorsese multiple times, who used the tools to get 'the mental picture out of your head' for an Eastern European village scene, framing AI as a medium for human-in-the-loop iteration rather than full auto-generated movies."
+        },
+        {
+          "title": "Production use, IP, and hiring",
+          "detail": "Rombach notes generative AI is being used in high-end film production (referencing a $30M Bitcoin movie with Gal Gadot that avoided green screens, allegedly saving ~$120M). BFL blocks certain IP generation on public tools but partners with IP holders. Company crossed 100 people, raised fresh funding, hiring researchers and forward-deployed engineers in Germany and SF."
+        }
+      ],
+      "quotes": [
+        "We're talking about individual buildings, the size of football fields, that have more power coming into them than mid-sized cities.",
+        "We have a $25 billion backlog... they're trying to capture yesterday's demand. The demand is way outstripping our ability to build data centers.",
+        "All chips prior to us followed Moore's law. And we broke it... my view is in the next 18 months will be way over two X.",
+        "There's a shot that our children, none of them, nor the people they love will die of cancer."
+      ],
+      "verdict": "Skim-worthy",
+      "verdict_reason": "Two credible operators give concrete numbers on the buildout and open-source shift, but the conversation is largely optimistic and unchallenged with heavy digression, so worth a skim for the Cerebras backlog and Moore's law claims rather than a full listen."
+    },
+    "added_at": "2026-07-10T16:29:01.466811+00:00"
+  },
+  {
     "id": "afd9c6d3-2254-4a38-9847-a304981d286d",
     "show": "All-In",
     "slug": "all-in",
