@@ -1,5 +1,49 @@
 [
   {
+    "id": "4423c373-1b80-4d70-b500-f9823914247a",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+    "url": "https://allinchamathjason.libsyn.com/more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts",
+    "published": "2026-07-11T02:12:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/a/e/6/f/ae6f7f47771b6c86d959afa2a1bf1c87/1_Pod_E280.png",
+    "summary": {
+      "tldr": "An All-In episode (with guest Brad Gerstner filling much of the airtime) covering the coming wave of trillion-dollar AI IPOs, the debate over whether enterprise AI spend actually delivers ROI, the open-source vs. frontier-model battle, China possibly closing its open models, and a lengthy segment on the newly launched 'Trump accounts' investment program for children. The most important thread: frontier labs (Anthropic, OpenAI) are seeing revenue explode and could IPO this year at over a trillion dollars, but a reckoning on token-cost ROI is coming.",
+      "topics": [
+        {
+          "title": "Trillion-dollar IPO rush",
+          "detail": "SpaceX IPO'd raising $75B at a $1.75T valuation on ~$35B forward revenue, now trading ~$2T (up 25%). Anthropic filed confidentially June 1; Gerstner says Anthropic could exit 2025 over $100B revenue and IPO this year at up to $3T, with Altimeter, Fidelity, T-Rowe eager buyers. OpenAI rumored ~$70B run rate but slower to go public due to corporate restructuring."
+        },
+        {
+          "title": "Token spend and the ROI reckoning",
+          "detail": "Chamath says his portfolio company's token costs are doubling every 45 days while productivity gains are ~5% max, arguing models have 'asymptoted' and enterprises will eventually demand ROI above the risk-free rate. He cited an analysis that AI's actual EPS lift on the S&P 493 was 0-2%. Gerstner counters the TAM is so vast that no one cares yet and revenue could 3-5x again."
+        },
+        {
+          "title": "Open source vs. frontier models",
+          "detail": "Despite the DeepSeek moment 18 months ago, share of wallet keeps shifting to frontier labs (open source dropped from 19% to 11% of enterprise spend per Sacks) even as cheap-token usage rises. CTOs from Uber, DoorDash, Databricks described routing hard tasks to frontier models and cheap tasks to open models like Kimi and GLM 5.2. Chamath argues intelligence may not converge—recursive self-improvement could widen the frontier lead."
+        },
+        {
+          "title": "China possibly closing its open models",
+          "detail": "Reuters reported Chinese regulators met with Alibaba, ByteDance and Z.ai about restricting overseas access to top models, citing fears the US could exploit vulnerabilities. Sacks notes the pattern: stay open until you catch the frontier, then close (as Alibaba's Qwen and Zhipu's GLM appear to be doing), mirroring OpenAI's own shift."
+        },
+        {
+          "title": "Trump accounts launch",
+          "detail": "Gerstner detailed the Invest America Act program: every child gets a $1,000 seed investment account at birth, invested in the S&P 500, that can compound tax-advantaged. The app hit #1 in the App Store, 1.5M accounts created in first 24 hours, over $1B deposited. Michael/Susan Dell put in $6B+, Gwen Shotwell donated SpaceX shares, Gerstner funded all Indiana kids and donated $100M; goal is 50-70M auto-created accounts within 90 days."
+        }
+      ],
+      "quotes": [
+        "He said right now our token costs are doubling every 45 days... my upside is essentially flat. He said honestly what we're finding out is that you need to use a lot more tokens to get to this next iteration of improvement, because we've effectively already asymptoted.",
+        "Two hundred billion of incremental revenue is incomprehensible in the history of Silicon Valley.",
+        "The best thing that could happen for America in terms of winning the AI race against China is if China somehow sprouted their own doomer community.",
+        "The antidote to more socialism is more capitalism. And as I told the president, this is more capitalism.",
+        "The easiest compounding in the world is between zero and 25."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "The AI IPO and token-ROI debate offers genuinely useful, specific insights from someone with insider positioning, though the extended Trump accounts segment is heavily promotional and could be skimmed."
+    },
+    "added_at": "2026-07-11T14:59:46.419803+00:00"
+  },
+  {
     "id": "e7e64c8a-492a-4227-a6cb-5ff7894f3f3a",
     "show": "All-In",
     "slug": "all-in",
