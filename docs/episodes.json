@@ -569,6 +569,54 @@
     "added_at": "2026-07-09T16:28:03.200372+00:00"
   },
   {
+    "id": "2fd1390d-47ba-41af-a0a6-41edc870cd53",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Bill Maris: How Google Could Crush AI Competitors, Why Small Funds Win, and AI's Atari Stage",
+    "url": "https://allinchamathjason.libsyn.com/bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage",
+    "published": "2026-06-09T15:07:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/7/c/f/3/7cf3ef13223aeeca16c3140a3186d450/Podcast_Graphic_-_Liquidity-20260609-mkb9i4z9uf.png",
+    "summary": {
+      "tldr": "Bill Maris, founder of Google Ventures and now Section 32, lays out four career lessons and argues small funds (sub-$750M) mathematically outperform large ones. The most provocative thread: Google could crush OpenAI and Anthropic simply by slashing token prices ~80%, and today's AI mega-companies are dumping overpriced late-stage risk onto public 401(k) holders while claiming to serve humanity. He sees AI at the 'Atari command-line stage' and prefers investing in the infrastructure beneath models rather than the models themselves.",
+      "topics": [
+        {
+          "title": "Small funds beat large funds (the math)",
+          "detail": "Maris claims top-decile funds under $750M average 4.76x DPI vs 2.42x for funds over $1B, and sub-$750M funds represent 95% of top-decile performers. A $7B fund needs to return $210B in exits at 3x, exceeding total venture-backed M&A/IPO value in most years."
+        },
+        {
+          "title": "How Google could crush OpenAI and Anthropic",
+          "detail": "Maris argues if he ran Google he'd arbitrarily cut token prices 80%, and since customers can get a near-identical product from Gemini for 80% less, competitors face 'super critical' margin pressure. He notes the counterpoint that OpenAI/Anthropic could burn investor cash Uber-style to grab share—citing '$1.4 trillion in spend commitments on $60 billion of revenue.'"
+        },
+        {
+          "title": "Retail as the bag holder",
+          "detail": "Maris objects to companies wrapping themselves in 'public benefit' language while keeping value creation to elite investors, then forcing overpriced late-stage products onto 401(k)s and ETFs via 'bizarre exceptions to S&P 500 rules.' He says humanity needs money, so these firms should go public sooner."
+        },
+        {
+          "title": "AI's 'Atari stage' and infrastructure bets",
+          "detail": "Maris compares AI today to 1980s text games like Zork—brittle, with memory loss and session resets—predicting a jump to 'PlayStation 10' quality in five years. He won't invest in larger models; he wants the 'controllers, physics engines and GPUs'—the platform machinery underneath."
+        },
+        {
+          "title": "Biotech, longevity, and science flight offshore",
+          "detail": "Maris (founder of Calico, investor in Flatiron, Veer, New Limit) is interested in computational biology but avoids therapeutics requiring human clinical trials. He argues gutting the CDC/NIH, anti-science sentiment, and pushing out H1B holders is driving scientific mindshare to China, which is recruiting top scientists from Europe and India."
+        },
+        {
+          "title": "Broken venture incentives",
+          "detail": "Sacks and Maris dissect why large funds distort the market: a $5B fund returning 1.01x still claims 75th percentile and out-earns a $500M fund returning 3x. Giant funds inflate valuations (offering a founder $250M at $4B instead of $20M at $100M), which founders take unless seasoned."
+        }
+      ],
+      "quotes": [
+        "To see the future sometimes you need to be a little bit insane. It may appear to those around you that you are tarring the roof in the thunderstorm.",
+        "Don't bet against computer science... if you apply the right kind of computer science at the right time to the right problem, you will get to the right answers.",
+        "We're going to force overpriced products on the 401k holders of America who didn't get to participate early.",
+        "I think we're at the Atari command-line stage of AI and we're going to get to the PlayStation 10 stage in the next five years.",
+        "If I'm Google and I decide to arbitrarily cut the cost of tokens 80%... what happens to the business models of OpenAI and Anthropic?"
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Maris offers concrete, data-backed contrarian arguments on fund size, Google's competitive leverage, and the risk being passed to retail investors—substantive enough to reward listeners despite the format being a conference talk plus Q&A."
+    },
+    "added_at": "2026-07-12T14:55:18.489657+00:00"
+  },
+  {
     "id": "1M3Vdl6DRkU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
