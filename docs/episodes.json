@@ -617,6 +617,54 @@
     "added_at": "2026-07-12T14:55:18.489657+00:00"
   },
   {
+    "id": "0db36c6e-32d0-414d-aa42-61551ba5cec9",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company",
+    "url": "https://allinchamathjason.libsyn.com/nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company",
+    "published": "2026-06-08T19:34:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/0/5/a/7/05a74d617c0bcc8fd959afa2a1bf1c87/Podcast_Graphic_-_Liquidity-20260608-lk81fi9xgm.png",
+    "summary": {
+      "tldr": "Palo Alto Networks CEO Nikesh Arora joins All-In to discuss AI's impact on cybersecurity and enterprise software. His central claims: AI-powered vulnerability detection ('Mythos') is real and dangerous, 'analytical SaaS is dead,' and Google will be the first $10 trillion company. The most important takeaway is that AI radically accelerates both cyber offense and defense while collapsing the value of data-analysis SaaS layers.",
+      "topics": [
+        {
+          "title": "Mythos vulnerability detection is real",
+          "detail": "Arora says AI found in six weeks the code vulnerabilities that normally took Palo Alto five to seven years to find, at a cost in the low millions of dollars in tokens. But the false positive rate was ~30%, making it 'great for attack, horrible for defense.' He predicts these capabilities will be available in open-source/Chinese models (GLM 4.6, etc.) within three months, not the six previously assumed."
+        },
+        {
+          "title": "Analytical SaaS is dead",
+          "detail": "Arora argues analytical SaaS—companies that collect and analyze your data for you—is 'over,' because you can now run models directly against your own data. Jason gives an example of cutting a SaaS bill 90% by dropping 17 of 20 seats and connecting the data to Slack and Claude. Infrastructure software (Databricks, Snowflake, MongoDB, Oracle) is undervalued because enterprises will need 10x more stored data within three years."
+        },
+        {
+          "title": "UI death and re-engineering systems of work",
+          "detail": "Arora calls enterprise/consumer UI 'the worst thing we did as technologists.' If agents can interact directly with backends, UI goes away and systems of work/record get re-engineered over the next five years, enabling '5 people become 1' efficiency."
+        },
+        {
+          "title": "Google as the first $10T company",
+          "detail": "Arora calls Google underrated and predicts it becomes the first $10 trillion company, citing that model companies still need salesforces and the three hyperscalers have the most salespeople. He argues profit pools sit in the application layer—which is why OpenAI and Anthropic are pushing there—but believes a new layer of AI application companies is still unformed."
+        },
+        {
+          "title": "National security and economic chaos risk",
+          "detail": "89% of breaches come from stolen credentials, not sophisticated cracking. Arora is less worried about big infrastructure (PG&E) and more about small dentist/doctor offices and events like the Change Healthcare ransomware attack. Notably, a model CEO told him the entire weights of their newest frontier model fit on a USB stick and can be distilled in 24-48 hours."
+        },
+        {
+          "title": "M&A strategy and hardware",
+          "detail": "Palo Alto ran a playbook of buying product companies to feed its go-to-market engine to reach ~$150B, then made a $25B identity acquisition (closed three months ago). Arora targets 90s gross margin and 40s net margin via AI-driven operational efficiency. He believes hardware persists (financial services can't tolerate cloud latency) and expects to hire MORE technical people, not fewer, due to AI transformation."
+        }
+      ],
+      "quotes": [
+        "In six weeks we found vulnerabilities which have normally taken us five to seven years to find.",
+        "If you're an analytical SaaS company, it's over.",
+        "UI enterprise software and consumer software UI is the worst thing we did as technologists.",
+        "The entire model weights of their newest model fits on a USB stick.",
+        "I think it's going to be the first $10 trillion company in our lifetime."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Arora offers concrete, contrarian claims on AI cybersecurity, the SaaS shakeout, and enterprise value creation that are directly useful for tech and markets readers, despite the fawning 'armchair CEO' detour."
+    },
+    "added_at": "2026-07-13T16:33:01.794757+00:00"
+  },
+  {
     "id": "1M3Vdl6DRkU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
