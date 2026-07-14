@@ -1,5 +1,57 @@
 [
   {
+    "id": "d43e7dda-045c-49e0-b7b7-2ffa841cbb8d",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
+    "url": "https://allinchamathjason.libsyn.com/the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour",
+    "published": "2026-07-13T22:07:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/f/e/0/e/fe0e7bc7041988a5d959afa2a1bf1c87/1_Pod_France.png",
+    "summary": {
+      "tldr": "Two on-stage All-In interviews with founders riding steep growth curves: Mati Staniszewski of ElevenLabs (voice AI) and Max Junestrand of Legora (legal AI). Both describe how AI is compressing trillion-dollar service industries, their revenue ramps, competition with frontier labs (OpenAI, Anthropic), and why they build narrow rather than general models. Core takeaway: AI-native startups are pulling revenue out of legacy service markets fast, and incumbents (LexisNexis, Westlaw, big law firms) are structurally slow to adapt.",
+      "topics": [
+        {
+          "title": "ElevenLabs revenue ramp and structure",
+          "detail": "ElevenLabs started in 2022, shipped its first human-sounding text-to-speech in early 2023, took ~20 months to reach $100M ARR, 10 months to $200M, 5 months to $300M, and is now at $600M with 600 employees. It runs 5-10 person teams with engineers embedded even in legal, talent, and go-to-market functions; it has no product managers and never did."
+        },
+        {
+          "title": "Voice AI crossing the human-fidelity threshold",
+          "detail": "Staniszewski argues the last 6-12 months were a step change where interruptible, low-latency voice agents beat human interactions for speed. He cites financial-services clients (Revolut, Klarna, PKO Bank) where people are more willing to disclose payment problems to an AI than a human out of shame, and a shift from reactive to proactive support."
+        },
+        {
+          "title": "Voice as identity: cloning, safeguards, and licensing",
+          "detail": "ElevenLabs traces all generated audio, moderates voice and text, and offers AI-detection tools. Its voice marketplace has paid over $22M back to voice talent. Deals include Matthew McConaughey (WorldWide), Masterclass interactive instructors (Gordon Ramsay), Headspace localization, and the James Earl Jones/Darth Vader estate deal powering Fortnite's interactive Vader with Disney."
+        },
+        {
+          "title": "Legora's legal-AI growth and the trillion-dollar disruption",
+          "detail": "Junestrand claims Legora grew ~50% quarter-over-quarter for seven straight quarters and went from $1M to $150M ARR, calling it one of the fastest direct-sales enterprise ramps. He frames legal services as a $1T market with only ~$40B software spend (4% software, 96% services), a supply-constrained gap AI will fill."
+        },
+        {
+          "title": "End of the billable hour and enterprise insourcing",
+          "detail": "Junestrand says law firms overcharge for associates and undercharge partners (Kirkland can bill up to $4,000/hr); AI threatens that model, pushing fixed-fee and success-fee pricing. Legora acquired four businesses this year doing diligence in-house, closing one deal in 12 days from LOI. It uses 'legal engineers' (like Palantir's forward-deployed engineers) to help firms transition."
+        },
+        {
+          "title": "Data moats, incumbents, and model strategy",
+          "detail": "Junestrand argues legal AI needs 100% of case law, not the top 80%, requiring physically scanning courthouse books for page citations. He says LexisNexis and Westlaw (a US duopoly) are being crushed and can't pivot fast. Both founders reject building general models: Legora builds narrow fine-tuned models (e.g. for tabular contract extraction) and refuses on-prem deployment; ElevenLabs competes on architecture and proprietary audio data labeled by 1,000+ contractors."
+        },
+        {
+          "title": "Competing with frontier labs",
+          "detail": "Both spend tens of millions with OpenAI/Anthropic while those labs eye their categories. ElevenLabs stays model-agnostic and acknowledges rivals try to distill its data. Legora says Claude's legal offering (bundled Markdown skills files) actually generates pipeline because users hit its ceiling and then call Legora."
+        }
+      ],
+      "quotes": [
+        "Roughly 10 months to get to 200, five months to get to 300... and now we are at 600.",
+        "I said, what about the cap table? ChatGPT, brah.",
+        "It's a trillion dollars every year into legal services... but the software spend into legal technology is about 40 billion. So it means there's 4% software, 96% service, which is bananas.",
+        "It's the opposite of the power law. You don't just need the top 80%. You actually need all of it.",
+        "We're hosting national secrets, weapons manufacturers, with their contracts on Legora."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Two founders share concrete revenue numbers, market-sizing, and business-model insights on AI disrupting voice and legal services, though the interviews are promotional and light on hard skepticism."
+    },
+    "added_at": "2026-07-14T15:27:08.695028+00:00"
+  },
+  {
     "id": "4423c373-1b80-4d70-b500-f9823914247a",
     "show": "All-In",
     "slug": "all-in",
