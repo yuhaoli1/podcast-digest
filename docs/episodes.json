@@ -717,6 +717,53 @@
     "added_at": "2026-07-13T16:33:01.794757+00:00"
   },
   {
+    "id": "131a94d3-a1bb-45ef-ab5d-471af74cdcec",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI & the Rise of Secondaries",
+    "url": "https://allinchamathjason.libsyn.com/inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries",
+    "published": "2026-06-07T18:14:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/3/6/6/8/366880b96b0acaabd959afa2a1bf1c87/Podcast_Graphic_-_Liquidity-20260607-ckyabry2wz.png",
+    "summary": {
+      "tldr": "An All-In live panel with Gavin Baker (Atreides), Brad Gerstner (Altimeter), and Kelly Rodriques (Forge CEO) on the explosion of private-market secondaries for late-stage giants like SpaceX, Anthropic, and OpenAI. The core takeaway: secondaries now rival IPOs and M&A as the primary exit path, retail access is opening up via a Schwab-Forge deal, and the panelists warn retail not to YOLO into fully-valued names at the top of the cycle.",
+      "topics": [
+        {
+          "title": "The secondary market boom by the numbers",
+          "detail": "Secondary transaction volume is now roughly double the 2021 peak. Employee/investor secondaries into names like SpaceX, Anthropic, and OpenAI represent 31% of all primary venture activity in 2025. Pricing flipped from an ~80-cents-on-the-dollar discount to a ~106% premium (Q1), not counting predatory SPVs charging 10% load fees and double carry."
+        },
+        {
+          "title": "Why companies stay private — and whether it's good",
+          "detail": "Gerstner and Baker argue there's no genuinely good reason to stay private; founders just avoid public-market scrutiny. Baker cites Zuckerberg's claim that had Facebook been public during the apps-vs-HTML5 debate (Chamath's apps position vs. Bret Taylor's HTML5, which Zuck initially backed), rigorous public investors would have corrected the mistake faster. They call private markets 'sycophantic' because investors flatter founders to keep access."
+        },
+        {
+          "title": "The Schwab-Forge deal and democratizing access",
+          "detail": "Rodriques frames the Forge-Schwab deal as legitimizing private companies as an asset class, adding 46 million Schwab investors and $12 trillion. Interval funds now hold ~60 companies (including SpaceX) with $500 minimums for unaccredited investors. Forge got SPVs on SpaceX permissioned by Elon back in 2018-19; the pitch to founders is broad retail distribution ahead of IPO."
+        },
+        {
+          "title": "Retail risk and 'exit liquidity' warnings",
+          "detail": "Gerstner says he told CNBC he'd deploy only ~30 of a hypothetical $100k today, not all, after two of the biggest public-market months in a decade. He warns retail against YOLOing into levered SPVs and the 14 levered ETFs launching on the SpaceX IPO day (~$1.75T valuation). Closed-end funds are called a 'FOMO' bet with underlying values disconnected from reality."
+        },
+        {
+          "title": "VC franchise risk and coming institutional demand",
+          "detail": "Baker warns VC firms without exposure to a trillion-dollar company face 'franchise risk,' pushing them into 'unnatural' bets like writing call options on neo-labs. He predicts hundreds of billions in new late-stage demand as long-only funds (Fidelity, Baillie Gifford, Wellington, T. Rowe), currently capped at self-imposed 3-7% private limits, free up capacity when companies IPO and shares move out of the private bucket."
+        },
+        {
+          "title": "Under-the-radar names they'd buy",
+          "detail": "Gerstner: Sierra (Bret Taylor's agent-native Salesforce) and Parloa. Baker: Revolut (neo-bank), plus public networking plays Arista and DriveNets riding an inference 'disaggregation' super-cycle. Rodriques: Neura Robotics (Germany, ~$100M revenue). Chamath (host): VAST (space stations) and Zipline drone delivery, which cut maternal mortality 90-95% in African villages before coming to the US."
+        }
+      ],
+      "quotes": [
+        "The sycophantic nature of private markets is real.",
+        "99 was Vegas on a Friday night after way too many drugs... CMGI had no revenue and the stock went from $2 to $2,000 over the course of six months.",
+        "Venture capitalists don't think about the sell part. They think about the buy part.",
+        "We may not be at the top, but we ain't at the bottom. We're bouncing along the top."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Concrete data on secondary-market mechanics plus candid, experienced takes on valuations, retail risk, and specific investable names make it useful for anyone tracking private tech markets, even if the mutual-admiration tone runs thick."
+    },
+    "added_at": "2026-07-15T15:27:33.283527+00:00"
+  },
+  {
     "id": "1M3Vdl6DRkU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
