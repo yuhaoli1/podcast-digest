@@ -1,5 +1,52 @@
 [
   {
+    "id": "e55cd042-2dc9-45cc-861d-c2c70c36f835",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding",
+    "url": "https://allinchamathjason.libsyn.com/former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding",
+    "published": "2026-07-15T20:55:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/c/a/6/d/ca6d45b31e10bd7516c3140a3186d450/1_Pod_Paris_2.png",
+    "summary": {
+      "tldr": "Two interviews: former Intel CEO Pat Gelsinger dissects how Intel lost its lead to Nvidia, TSMC and Apple, and offers a sobering warning about Taiwan's fragility. Then Lovable CEO Anton Osika explains the state of 'vibe coding' and how his 20-month-old company reached $500M+ revenue. Key takeaway: Intel's decline stemmed from business people replacing technologists, while AI-native software creation is collapsing build costs by orders of magnitude.",
+      "topics": [
+        {
+          "title": "Why Intel went off the rails",
+          "detail": "Gelsinger blames the shift from technical leadership (Grove, Moore, Noyce, and 15 of 20 exec-staff PhDs) to 'bean counters' and finance people. Intel returned ~$100B to shareholders via dividends and buybacks in the five to six years before he came back, passed on making iPhone chips, and hadn't built a new factory in a decade."
+        },
+        {
+          "title": "How Apple, Nvidia and TSMC won",
+          "detail": "Steve Jobs quietly prepared Apple silicon by porting macOS to x86 across four prior releases before going in-house. Nvidia's CUDA/GPU stack got 'a little better every release' until HPC and AI adopted it. Intel's competing Larrabee x86 project was killed a week after Gelsinger first left. TSMC's foundry model won, producing 5x Intel's wafers by 2021, now ~7x."
+        },
+        {
+          "title": "Taiwan's terrifying fragility",
+          "detail": "Gelsinger cites a WSJ article: Taiwan has less than three weeks of energy reserves. A blockade browns out fabs, which don't restart for 90 days, causing economic impact 'greater than the Great Depression' — no shots needed. He notes China has blockaded the Taiwan Strait seven times in four years. US leading-edge production rose from ~12% to ~18% thanks to the CHIPS Act."
+        },
+        {
+          "title": "AI bubble and the energy ceiling",
+          "detail": "Gelsinger argues energy capacity (growing 4-5% globally, only ~1% in the US for a decade) acts as a natural cap preventing over-building. He predicts a 'couple of decades' buildout, wants to make AI 10,000x cheaper (five orders of magnitude per token), and expects meaningful quantum results before 2030, with encryption-breaking implications by 2032-33."
+        },
+        {
+          "title": "Lovable's growth and vibe coding",
+          "detail": "Osika reports 1M new products built weekly, 50M+ apps, 700M+ monthly visits, and revenue hitting $500M in May after 20 months. About 20% of users are technical; 80% non-technical. Some customers run businesses making $1M+ revenue. ~60% of customers hit usage caps and pay overages. Pricing starts at $25/month."
+        },
+        {
+          "title": "Model strategy and the future",
+          "detail": "Lovable routes to multiple frontier and open-weight models, applying reinforcement learning to fix errors frontier models make. It's building a hosting product (an AWS competitor), an 'AI co-founder,' and post-training research in Europe. Osika describes a customer replacing 10+ tools and saving $1M/year, predicting more bespoke software replacing SaaS incumbents."
+        }
+      ],
+      "quotes": [
+        "One of the things that went off the rail was when it started to be run by business people as opposed to technical.",
+        "The island of Taiwan has less than three weeks of energy reserves... the economic impact of a brown out of Taiwan is greater than the Great Depression.",
+        "In four to eight hours they made the whole intranet... lovable is 50 bucks a month. I would equate what would have cost me $500,000 two years ago.",
+        "People have announced that lovable is dead every six months since you started, and then every six months you go from a hundred to two hundred to three hundred million."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Gelsinger offers genuinely insider, specific analysis of Intel's decline and a striking Taiwan-energy warning, while the Lovable segment gives concrete metrics on the vibe-coding boom — valuable for anyone tracking semis or AI startups, though the ad reads and softball framing drag it down."
+    },
+    "added_at": "2026-07-16T15:34:59.256248+00:00"
+  },
+  {
     "id": "d43e7dda-045c-49e0-b7b7-2ffa841cbb8d",
     "show": "All-In",
     "slug": "all-in",
