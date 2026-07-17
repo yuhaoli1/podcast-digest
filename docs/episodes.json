@@ -811,6 +811,54 @@
     "added_at": "2026-07-15T15:27:33.283527+00:00"
   },
   {
+    "id": "7a6bc6b4-7c45-4aec-b098-cb829be4b1c1",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "The IPO Comeback: Why Tech Giants Are Finally Going Public | All-In Liquidity IPO Panel",
+    "url": "https://allinchamathjason.libsyn.com/the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-panel",
+    "published": "2026-06-06T16:30:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/6/8/9/f/689f9ef1c2ea7e5d16c3140a3186d450/Podcast_Graphic_-_Liquidity-20260606-tsajt9noo2.png",
+    "summary": {
+      "tldr": "A live All-In panel moderated by Jason Calacanis and Brad Gerstner featuring Cerebras CEO Andrew Feldman and Planet Labs CEO Will Marshall on their IPO experiences and the trends behind AI silicon and space data. The core takeaway: the IPO window is reopening, and Gerstner argues the pendulum is swinging back toward companies going public earlier so public-market investors can capture upside instead of it all accruing to private markets.",
+      "topics": [
+        {
+          "title": "What going public actually changes (and doesn't)",
+          "detail": "Feldman argues the process involves enormous 'garbage'—Zoom calls with 130 attendees, endless document reviews—and that the morning after the IPO 'you've sold no more stuff' and engineering hasn't progressed. Cerebras priced at $185 (range raised twice), opened around $320, and trades near $230 for a ~$50-60B market cap; the timing looked easy only after 'nine and a half years of really hard.'"
+        },
+        {
+          "title": "Planet Labs' business and space data",
+          "detail": "Marshall's stock went from ~$5 to ~$50 (10x) since going public via SPAC at ~$2B in 2021. Planet runs ~200 satellites imaging the entire Earth daily; security/military is now ~60% of revenue, higher than they'd initially guessed. He credits ~4-5x lower launch costs plus satellite miniaturization (a former billion-dollar, 20-ton satellite now costs a few kilograms)."
+        },
+        {
+          "title": "Space data centers debate",
+          "detail": "Marshall claims when launch costs fall to $200-300/kg (currently ~$1,000, down 10x in a decade) it becomes cheaper to put data centers in space, powered by sun-synchronous solar panels gathering 5x more energy with no batteries needed. Planet is launching Google TPUs and has already launched NVIDIA GPUs to space. Feldman is skeptical, noting unsolved problems in building communicating clusters in space and comparing it to self-driving's brutal 'last 10%.'"
+        },
+        {
+          "title": "Cerebras' contrarian silicon bet",
+          "detail": "Feldman argues if you want to be 20x better you can't copy NVIDIA's GPU architecture. Cerebras built a dinner-plate-sized chip (vs postage-stamp) putting memory next to compute, claiming 15-18x faster than a GPU for customers like OpenAI. His framing: nobody waits for slow AI—'How big is the market for dial-up? Zero.'"
+        },
+        {
+          "title": "The case for IPO-ing earlier",
+          "detail": "Gerstner argues more money is historically made after IPO than before, citing MongoDB (Altimeter distributed shares at ~$3-4B, then it hit $50B) and Planet, where 90% of value was created years post-IPO with early VCs like Google and Capricorn holding on. He says the 'stay private forever' Andreessen-era pendulum is swinging back, and Feldman would have preferred going public 18 months earlier at ~$10B vs $50B."
+        },
+        {
+          "title": "IPO structure innovation",
+          "detail": "Gerstner highlights a 'dribble lockup' where shares release over six months tied to performance hurdles, which he expects SpaceX to adopt. He also notes SpaceX would need 'quadrillion-dollar valuations' to deliver the same post-IPO multiple that companies going public at a few billion historically achieved."
+        }
+      ],
+      "quotes": [
+        "A lot of people asked us about how we got the timing right. And I think the answer is by getting it wrong for a decade.",
+        "Everything was really hard until it got really easy.",
+        "If you build a GPU, the odds that you're better than NVIDIA in our view are approximately zero.",
+        "How big is the market for slow search today? It's zero. How big is the market for dial-up? It's zero. You will not wait for AI.",
+        "All the cool stuff we're doing with LLMs is based on just the text of the internet... they don't know shit about the real world. I call them blind."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Two founders and a top tech investor deliver concrete, numbers-backed takes on the IPO reopening, AI silicon architecture, and space compute, though the format is promotional and light on genuine disagreement beyond the space data center exchange."
+    },
+    "added_at": "2026-07-17T15:14:05.471865+00:00"
+  },
+  {
     "id": "1M3Vdl6DRkU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
