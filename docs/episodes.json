@@ -1,5 +1,53 @@
 [
   {
+    "id": "643dd7f8-9888-4093-bc89-acfdd4362fce",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters",
+    "url": "https://allinchamathjason.libsyn.com/can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters",
+    "published": "2026-07-18T00:36:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/1/d/b/4/1db440afa8f397edd959afa2a1bf1c87/1_Pod_E281.png",
+    "summary": {
+      "tldr": "The All-In crew debates Demis Hassabis's proposal for a FINRA-style self-regulatory organization (SRO) for AI, which Sacks conditionally endorses over a government agency while renewing his attack on Anthropic for pursuing regulatory capture. Other threads cover the Stripe/Block/Advent bid for PayPal as the start of a wave of 'AI-ify the legacy business' megadeals, the massive cost gap between frontier and open/Chinese models, and NY's data center moratorium framed as foreign-influenced moral panic. Closes with a striking science segment on an AlphaFold-designed enzyme that reversed aged human skin to a 31-year-old's profile.",
+      "topics": [
+        {
+          "title": "AI self-regulation via an SRO",
+          "detail": "Hassabis proposed a US-led, industry-funded self-regulatory body modeled on FINRA: frontier labs submit models 30 days pre-release, benchmarks updated quarterly, initially voluntary then mandatory. Sacks says he could 'potentially get on board' with five conditions: broad representation (startups/open source, not just the three big labs), review only true frontier models, focus only on catastrophic cyber/CBRN risk (not speech/disinfo), keep it voluntary first, and make it a substitute for a new agency, not additive. He warns Dario's 'FAA for AI' would take years to certify models (Boeing 737 MAX took ~5 years) and lose the race to China."
+        },
+        {
+          "title": "Anthropic and regulatory capture",
+          "detail": "Sacks doubles down on his October 2024 claim that Anthropic runs a 'sophisticated regulatory capture strategy based on fear mongering,' citing a Politico report that Anthropic pushes states toward progressively stricter, non-uniform AI rules (starting with California's SB 53). He notes Anthropic is now ~$1T valued (Gavin Baker predicts $3T post-IPO) and is even funding NGOs like 'public first' that oppose data center construction\\u2014despite compute being the main constraint on its own revenue."
+        },
+        {
+          "title": "Stripe/Block/Advent bid for PayPal",
+          "detail": "Stripe and Advent (with Block reportedly contributing $17B equity) bid ~$53-60B / ~$60/share for PayPal (peak market cap was $322B). Chamath argues the real play is building a Visa/MasterCard competitor by combining PayPal's ~439M consumer accounts, Stripe's merchant rails (~$2T annual volume vs PayPal's ~$1.7T), stablecoin infra (Bridge + PYUSD) and Block's point-of-sale. Both predict a wave of 'AI-native operators reviving stale digital businesses' (eBay/Ryan Cohen, Bending Spoons rolling up AOL, Vimeo, Evernote), and hint Elon could counter-bid. Chamath expects the final price 10-15% higher."
+        },
+        {
+          "title": "Token costs, data leaks and the open-model ecosystem",
+          "detail": "Chamath cites input-token prices ranging from ~$56/M (Fable) down to Chinese models at ~50 cents/M, with Grok ~$1-1.50 and Chinese models 50c; Ramp launched token-spend management after seeing 21x growth in token spend. He and Sacks argue enterprises are 'double whammy' overpaying while leaking proprietary 'alpha' data\\u2014illustrated by xAI's Grok build inadvertently uploading users' entire codebases before being shut off July 13. J-Cal claims Apple could be a 'screaming buy' as M7 Ultra chips supporting up to 1.5TB RAM enable running near-frontier models locally."
+        },
+        {
+          "title": "NY data center moratorium and foreign influence",
+          "detail": "Gov. Hochul signed the first statewide hyperscale data center moratorium; Sacks rebuts each claim (behind-the-meter power, land efficiency, closed-loop water use \\u2014 a data center uses water 'like two and a half In-N-Out burgers,' natural gas is clean-burning). Freeberg presents a chart tying anti-GMO sentiment to Russia Today's 2010-2022 US presence and cites an OpenAI blog ('PRC-linked influence operations are targeting AI debates in the US') to argue foreign scyops drive anti-data-center panic. Chamath warns the US will be ~2.5x California's energy consumption short by 2050, citing a PJM auction that needed 7-8 GW but got ~156 MW."
+        },
+        {
+          "title": "Apple sues OpenAI; science corner on aging reversal",
+          "detail": "Apple filed a 41-page suit alleging OpenAI (which poached 400+ Apple employees) induced candidates to bring 'actual parts' to interviews and stole trade secrets for its hardware device; the hosts decline to opine on unproven allegations. Freeberg details a Calico/Reveal Pharma paper using AlphaFold plus directed evolution to design a novel enzyme that degrades CML (glycation end-products) in the extracellular matrix, removing 55% of CML from >70-year-old donor skin\\u2014reversing it to a 31-year-old's profile. He predicts a trillion-dollar cosmetic market first."
+        }
+      ],
+      "quotes": [
+        "If my choices are between FAA for AI or what I would call the DMV for AI, I would much rather go for Demis' SRO for AI.",
+        "They poke the tiger... it's more than that. They're funding the money for the tiger.",
+        "Number one, brand yourself as a safe AI company. Number two, ban unsafe AI. Three, profit.",
+        "It's a misnomer to call it the PayPal mafia. It's really the PayPal diaspora. Our homeland was taken over and they burned our temple.",
+        "At $56 per million input tokens versus 50 cents for the rest of the world, it doesn't take a company much worse than you to beat you when your cost is 50 to 100X more."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Sacks's five conditions for AI self-regulation and Chamath's concrete token-economics and PayPal-deal analysis offer genuinely useful investor framing, though the recurring Anthropic-bashing and foreign-scyop theorizing run long and repetitive."
+    },
+    "added_at": "2026-07-18T14:57:55.697632+00:00"
+  },
+  {
     "id": "e55cd042-2dc9-45cc-861d-c2c70c36f835",
     "show": "All-In",
     "slug": "all-in",
