@@ -907,6 +907,57 @@
     "added_at": "2026-07-17T15:14:05.471865+00:00"
   },
   {
+    "id": "5fd93307-d998-4700-b4ff-813f3fd09bed",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Dan Loeb: The Lost Art of Short Selling, and Why Stock Picking is Back",
+    "url": "https://allinchamathjason.libsyn.com/dan-loeb-the-lost-art-of-short-selling-and-why-stock-picking-is-back",
+    "published": "2026-06-05T19:18:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/c/d/6/3/cd63021a3fb09aa116c3140a3186d450/Podcast_Graphic_-_Liquidity-20260605-15v4uqzq7e.png",
+    "summary": {
+      "tldr": "Activist investor Dan Loeb (CEO/CIO of Third Point, ~$30B AUM) talks through his evolution from anonymous 1990s internet stock-message-board 'troll' and short-seller into a multi-strategy platform investor. The core investing takeaway: the era of ignoring technology or macro is over — everything is now correlated to the tech through-line, short selling is back as a live opportunity, and stock picking (plus credit picking) matters again. He also makes a bullish case on NVIDIA and closes with his work on criminal justice reform and the Ross Ulbricht pardon.",
+      "topics": [
+        {
+          "title": "Origins as an online short-seller",
+          "detail": "Loeb was active on 1990s chat boards (Yahoo, Silicon Investor) before Reddit/WallStreetBets existed, calling himself the 'OT' (original troll). He describes exposing fraudulent 1990s companies like Actrade, a factoring company run by a repeat fraudster that repackaged factored securities under fake 'TAD' technology while trading at a large multiple of book."
+        },
+        {
+          "title": "How Third Point's style evolved",
+          "detail": "Loeb learned valuation at Warburg Pincus, risk-arb, and distressed debt at Jefferies (his '10,000 reps'), covering clients like David Tepper. Third Point began as event-driven investing (spinoffs, bankruptcies, risk-arb) exploiting management incentives to sandbag numbers, but shifted toward business quality, moats, and durability of revenue as technology became dominant."
+        },
+        {
+          "title": "Everything is now tech- and macro-correlated",
+          "detail": "Loeb argues you could once succeed while being technologically or (pre-GFC) economically illiterate, but no longer. Third Point today spans an equity/credit hedge fund, structured credit, a CLO business, private credit/workouts, and a wholly-then-half-owned insurance company capturing investment-grade exposure."
+        },
+        {
+          "title": "Shorts are back; the home builder thesis",
+          "detail": "Loeb says there are real short opportunities for the first time in a while, but warns against pure valuation shorts that get 'run over' (e.g. meme/space names). He detailed a short thesis on home builders: they were structurally impaired by pretending to be asset-light like NVR while holding heavy committed land pools, plus a post-COVID inventory/pricing hangover made worse by unaffordable prices and rising building costs."
+        },
+        {
+          "title": "Bullish on NVIDIA",
+          "detail": "Loeb calls NVIDIA undervalued on earnings over the next 2-3 years, arguing the market can't process the largest company ever and that long-short pods use it as a 'safe short' — just as Google and Amazon once were. He concedes a 'boundary condition' discount applies given no precedent for the valuation."
+        },
+        {
+          "title": "The pain of selling winners",
+          "detail": "Sacks admits selling Palantir in the 20s (a 10x miss) and Enphase under $1 (a possible ~$4B miss), and that board seats restrict liquidity. Riff on Facebook IPO'ing at ~$50B when $100B seemed a ceiling; Chamath jokes he'd be worth $10B had he never sold."
+        },
+        {
+          "title": "Criminal justice reform and the Ulbricht pardon",
+          "detail": "Loeb frames income inequality as an education-accountability problem (chairman of Success Academies charter network), blaming union structures over lack of money. He describes helping secure Ross Ulbricht's pardon — a commutation was pulled in Trump's first term after DOJ pushback, then finalized after Charlie Kirk championed it to the president."
+        }
+      ],
+      "quotes": [
+        "Some people use the term OG. Sometimes I say I was the OT — your original troll.",
+        "Activism without proxy contests is like Catholicism without hell.",
+        "There's nothing new under the sun.",
+        "The problem is that the unions... accountability and merit and cultivating talent is set aside for the benefit of adults who are part of these unions."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "A candid, specific tour of a top investor's philosophy with actionable market views (shorts, home builders, NVIDIA), though it's a live-event interview light on hard numbers and heavy on war stories."
+    },
+    "added_at": "2026-07-19T14:55:11.018778+00:00"
+  },
+  {
     "id": "1M3Vdl6DRkU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
