@@ -958,6 +958,53 @@
     "added_at": "2026-07-19T14:55:11.018778+00:00"
   },
   {
+    "id": "d66ea203-2862-4786-b2ee-396c91336d15",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Thomas Laffont: The $4T AI IPO Wave, 2026's Unicorn Economy, and the 10X Paradox",
+    "url": "https://allinchamathjason.libsyn.com/thomas-laffont-the-4t-ai-ipo-wave-2026s-unicorn-economy-and-the-10x-paradox",
+    "published": "2026-06-04T18:23:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/4/c/3/0/4c300253a3ce6f7516c3140a3186d450/Podcast_Graphic_-_Liquidity-20260604-rdp09014pn.png",
+    "summary": {
+      "tldr": "Coatue co-founder Thomas Laffont delivers a data-heavy presentation at the All-In Summit on the state of the 'unicorn economy' and the AI investment cycle. The core thesis: the ecosystem is healthier and more balanced than in the 2021 ZIRP era, with fewer but far bigger winners, and a wave of mega-IPOs (SpaceX, OpenAI, Anthropic) about to return cash to the system. The power law is intensifying — gains concentrate in a handful of companies, making the cost of missing a winner higher than ever.",
+      "topics": [
+        {
+          "title": "The 'Unicorn Economy' is healthier and more concentrated",
+          "detail": "The unicorn economy is up ~70% since Sept 2024. Fewer unicorns are being minted (down from the 2021 ZIRP peak) but funding per unicorn has risen 5x since 2021. The top 10 companies capture a large share of funding, driven by OpenAI and Anthropic's massive rounds. Laffont contrasts the healthy pre-ZIRP cohort (80% raised or exited 20 quarters in) with the bloated 2021 cohort (479 companies, under 20% raised/exited)."
+        },
+        {
+          "title": "The $4T IPO wave and cash-return balance",
+          "detail": "Laffont's 'Magnificent Ain't' private index (SpaceX, Stripe, Anthropic, Databricks, Revolut, ByteDance, Anduril) represents ~$4T in value and has outperformed the Magnificent 7. SpaceX, OpenAI and Anthropic going public soon would return more cash than the prior 10 years combined, rebalancing an ecosystem that had been consuming far more cash than it returned."
+        },
+        {
+          "title": "OpenAI/Anthropic scaling and hyperscaler disruption",
+          "detail": "Starting Jan 2025, these companies blew past Workday, ServiceNow, Adobe, Salesforce, and are now bigger than Google Cloud and Azure — projected to pass AWS by end of year and all of Microsoft by 2028. Hyperscalers are funding their own disruption. Anthropic reportedly had a profitable month; Laffont argues the 'models are commodities' narrative has been disproven, largely due to the Claude Code inflection."
+        },
+        {
+          "title": "The SpaceX valuation framework",
+          "detail": "Coatue finds valuation correlates with launch cadence, but valuation-per-launch is rising because business quality improves with scale: from one-time government launch revenue, to recurring constellation subscriptions, to multiple constellations (governments/militaries owning their own), to a platform (space data centers, Moon/Mars optionality). Starlink addresses a $200–400B global telco profit pool with a better product."
+        },
+        {
+          "title": "The 10X paradox and the power law",
+          "detail": "Counterintuitively, a unicorn has only ~8% odds of becoming a decacorn, a decacorn ~8-13% of reaching $100B, but a centicorn ($100B+) has a 31% chance of a further 10X. The hosts note buying the top 10 NASDAQ names and rebalancing annually outperformed ~3x over a decade. Two public companies recently went from $500B to $1T in weeks."
+        },
+        {
+          "title": "AI revenue and economy-wide disruption",
+          "detail": "Laffont sizes the AI ecosystem at ~$140B today, ~$300B this year, doubling in 2027, split across consumer subs, ads (a quarter of Meta/Google ads are AI-enabled, heading to 100% = ~$150B), and enterprise. He argues every sector is being transformed — telco (Starlink), semis, energy, autos (Ferrari's EV/autonomous stumble), and consumer (GLP-1 effects on food/alcohol)."
+        }
+      ],
+      "quotes": [
+        "The winners are compounding faster than ever, which means the costs of not being in a winner are higher than ever.",
+        "The public market... will be the great antiseptic. It will not care about my bullshit presentation.",
+        "These are not fake companies... they're generating substantial revenue at scale that are growing faster than anything we've ever seen.",
+        "If I want to make memory, well, there is no TSMC — so what should the memory multiples be versus ASIC chips?"
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "A dense, data-rich Coatue presentation with concrete numbers and a genuinely counterintuitive framework on power-law returns and SpaceX valuation, though it leans promotional and skips over the bubble-risk pushback fairly quickly."
+    },
+    "added_at": "2026-07-20T15:51:08.941878+00:00"
+  },
+  {
     "id": "1M3Vdl6DRkU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
