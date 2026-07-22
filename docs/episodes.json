@@ -1,5 +1,53 @@
 [
   {
+    "id": "d4e4932a-4eb5-4007-8f84-4d386c3a22ce",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?",
+    "url": "https://allinchamathjason.libsyn.com/mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out",
+    "published": "2026-07-20T18:51:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/f/b/9/6/fb96aba754a36c7e16c3140a3186d450/1_Pod_Cuban.png",
+    "summary": {
+      "tldr": "Mark Cuban argues the AI boom isn't a dot-com-style public-market bubble but a private-capital one that could wipe out VCs, PE, and private credit rather than ordinary investors. He contends AI is far harder to deploy in enterprises than hyped, that 50% white-collar job loss predictions are wrong, and that the real opportunity is for entrepreneurs and AI-literate people fixing broken agent deployments. The conversation also ranges across data-center overbuild risk, IPO strategy, politics/algorithms, health tech, and NBA roster economics.",
+      "topics": [
+        {
+          "title": "The AI bubble is private, not public",
+          "detail": "Cuban says unlike dot-com there are no revenue-less companies IPOing and spiking 100%; instead the risk sits with VCs, PE, and private credit going 'all in' at peak valuations. He notes market leaders like Google and Meta are borrowing on top of capex, layering onto an existing private credit problem, and that everything is 'priced to perfection' requiring OpenAI's ~$100B to return as profit, not just revenue."
+        },
+        {
+          "title": "Data centers could become pickleball courts",
+          "detail": "Cuban warns that price-performance breakthroughs will cut AI power requirements, drawing the analogy to fiber going from 1 to 10 to 100 gigabit and leaving 'dark fiber' unused. He says overbuilt data centers may sit idle, though he concedes video and world models could vindicate the buildout since they need orders of magnitude more compute."
+        },
+        {
+          "title": "AI is hard to implement; job-loss fears overblown",
+          "detail": "He argues Dario Amodei's prediction of 50% white-collar job loss hasn't materialized two years later—employment still growing. He points to Microsoft hiring 6,000 people and OpenAI/Anthropic needing 'forward deployed engineers' as proof AI can't just self-implement, creating huge opportunity for AI-literate people to fix broken, drifting agents at businesses."
+        },
+        {
+          "title": "Go public, buy the collar",
+          "detail": "Cuban urges startups to do $50-100M IPOs so stock becomes acquisition currency when AI disrupts legacy competitors, criticizing four years of frozen M&A under Lina Khan. He recounts creating a synthetic Goldman internet-stock index short to hedge his Yahoo stake, losing tens of millions on the short but executing one of the great trades, and advises Anthropic/OpenAI employees to consider collars to protect gains."
+        },
+        {
+          "title": "Entrepreneur tooling and portfolio bets",
+          "detail": "He cites Lovable generating 770,000 apps/week (only 30% US, 20% engineers) and $600M revenue, plus Synthesia, AMI (Yann LeCun's world model), and Open Evidence. He describes building an intranet and custom software with 2-3 people that would have cost $2-3M/year outsourced, but notes teams 'tool-hop' as agents get brittle."
+        },
+        {
+          "title": "Politics, algorithms, and LLMs as truth-seekers",
+          "detail": "Cuban says whoever controls the algorithm controls elections—citing Mamdani and Trump as social-media natives—but predicts LLMs will reduce information asymmetry because their 'currency is getting you the correct answer' while social media's currency is engagement. He also praises Texas's lower per-capita spending (~$6-7k vs NY's ~$12-14k) and mocks wealth taxes as 'showmanship' with no behavioral modeling."
+        }
+      ],
+      "quotes": [
+        "It's not a bubble that's going to impact most people... but it could just destroy a lot of VCs and a lot of funds and a lot of PE, right? Because they're going all in.",
+        "There's going to be a lot of data centers that are going to be turned into pickleball courts.",
+        "If you need to have forward deployed engineers, that tells you all you need to know about AI.",
+        "Every single motherf***ing business plan ever written in the history of business plans is wrong.",
+        "Large language models' currency is getting you the correct answer... social media's currency is keeping you engaged."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Cuban offers genuinely contrarian, specific takes on where AI risk actually sits and why enterprise deployment is hard, though the back half drifts into extended NBA and lifestyle chatter that a markets-focused listener can skip."
+    },
+    "added_at": "2026-07-22T15:42:33.061391+00:00"
+  },
+  {
     "id": "643dd7f8-9888-4093-bc89-acfdd4362fce",
     "show": "All-In",
     "slug": "all-in",
