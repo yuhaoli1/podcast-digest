@@ -1053,6 +1053,53 @@
     "added_at": "2026-07-20T15:51:08.941878+00:00"
   },
   {
+    "id": "f0eded00-102b-4d07-a079-f6f4492ecbdf",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Bill Ackman: Investment Strategy, What the Market is Missing, How AI Breaks Businesses",
+    "url": "https://allinchamathjason.libsyn.com/bill-ackman-investment-strategy-what-the-market-is-missing-how-ai-breaks-businesses",
+    "published": "2026-06-03T03:06:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/4/1/1/6/41169b7d3e7667d4d959afa2a1bf1c87/Podcast_Graphic_-_Liquidity.png",
+    "summary": {
+      "tldr": "Bill Ackman joins All-In to explain how his investing philosophy evolved toward durable, non-disruptible business quality, and how AI has dramatically raised disruption risk for public companies. The core takeaway: high-quality 'old' tech (Microsoft, Meta, Amazon) is undervalued in the AI hype cycle, and Ackman is trying to turn Howard Hughes into a 'Berkshire 2.0' insurance-driven compounding machine.",
+      "topics": [
+        {
+          "title": "Evolution from activist trader to permanent-capital owner",
+          "detail": "Ackman says his biggest change is prioritizing 'long-term, durable, protected, non-disruptible growth' over liquid trades. He recounts his early Wendy's/Tim Hortons deal where he couldn't get a CEO callback and had Blackstone's Schwarzman write a fairness opinion; six weeks later Tim Hortons was spun off. Now he 'knows every CEO in the S&P 500' and companies welcome Pershing Square rather than fighting it."
+        },
+        {
+          "title": "AI raises disruption risk; old tech is cheap",
+          "detail": "He argues the probability of being disrupted has 'gone up enormously' given unlimited compute, capital, and talent. He compares today to 2000, when Berkshire traded at its lowest-ever valuation while internet stocks soared — claiming Amazon, Meta, and Microsoft are the modern equivalents left behind. Niche SaaS charging ~$30k/year is 'really at risk'; he worries more about Salesforce than Microsoft (which earns ~$50/seat)."
+        },
+        {
+          "title": "Underwriting AI/private valuations like venture bets",
+          "detail": "He frames SpaceX (~$750B-$1T talk), xAI (he's in an SPV via Ron Baron), Anthropic, OpenAI, and Palantir as late-stage venture investments using 'people, opportunity, context, deal.' He praised OpenAI CFO Sarah Friar's capital-commitment explanation and said OpenAI should get that message out, noting the 'degree of difficulty' of committing capital massively in excess of revenues."
+        },
+        {
+          "title": "COVID CNBC moment and the 'rubber band' valuation view",
+          "detail": "He says his March 2020 TV appearance was really aimed at pressuring Trump for a two-week shutdown, while also saying stocks were cheap and Pershing was buying. He describes valuation as a tether/rubber band that snaps back both up and down, and says his recent bullish call came because high-quality stocks got 'crazy cheap' on fundamentals."
+        },
+        {
+          "title": "Howard Hughes as 'Berkshire 2.0'",
+          "detail": "Bought out of General Growth's bankruptcy (which went from $20B to $100M market cap; stock rose from $0.34 to $34). Howard Hughes owns cities like Summerlin (26,000 acres). The plan: build an insurance operation, invest float in short-term treasuries and surplus in equities like Buffett did, buying the company at ~$63/share (a discount to liquidation value) with a $4B cap and a goal of a $1T compounder over 50 years."
+        },
+        {
+          "title": "Founder-led advantage and three ways to invest with him",
+          "detail": "Ackman agrees founder-led companies navigate disruption better because founders don't fear being fired, citing Zuckerberg's Instagram/WhatsApp buys. He offers three vehicles: Pershing Square (the management company, a fee royalty he claims turned $1 into ~27-28x net over 22 years), PSUS (trading at an ~18% discount to cash), and Howard Hughes for the Berkshire believers."
+        }
+      ],
+      "quotes": [
+        "A closed mouth gathers no foot.",
+        "The higher a stock price goes... the more valuable the company becomes — it lowers the cost of capital.",
+        "This is the greatest era in history just to build a business... which means the probability of your being disrupted has gone up enormously.",
+        "We're going to build this into a compounding machine over the next 50 years."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Ackman gives concrete, contrarian frameworks on AI disruption risk, undervalued big tech, and building an insurance compounder, though much of it doubles as promotion of his own vehicles."
+    },
+    "added_at": "2026-07-23T15:57:13.601561+00:00"
+  },
+  {
     "id": "1M3Vdl6DRkU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
