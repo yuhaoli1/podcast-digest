@@ -1100,6 +1100,53 @@
     "added_at": "2026-07-23T15:57:13.601561+00:00"
   },
   {
+    "id": "8beeb75d-aed6-4b73-a3b1-f4265d97563c",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "OpenAI CFO Sarah Friar: IPO, AI Rivalries, New Device, and Spending $100B+ on Compute",
+    "url": "https://allinchamathjason.libsyn.com/openai-cfo-sarah-friar-on-ipo-ai-rivalries-new-device-and-spending-100b-on-compute",
+    "published": "2026-06-02T14:31:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/9/a/8/6/9a861765145d0ed816c3140a3186d450/Podcast_Graphic_-_Events-20260602-2k2rv3vqe5.png",
+    "summary": {
+      "tldr": "OpenAI CFO Sarah Friar talks capital strategy, compute scarcity, and competitive positioning at an All-In live interview. Key takeaway: OpenAI raised $122B in March to fund compute bets that stretch to 2030-32, and Friar argues compute (not model quality) is the binding constraint on the entire AI industry through at least 2027.",
+      "topics": [
+        {
+          "title": "$122B raise and IPO stance",
+          "detail": "Friar confirms OpenAI raised ~$122B in March, which she calls the largest private raise 'by orders of magnitude' (prior record ~$30B Reliance/Aramco-scale). She downplays IPO racing versus SpaceX and Anthropic: 'an IPO is a milestone, not a destination' and 'the market is a weighing machine, not a popularity machine.'"
+        },
+        {
+          "title": "Compute scarcity through 2027+",
+          "detail": "She says compute is the industry's binding constraint: 'in 26 if you want to buy more compute, good luck to you,' and 2027 is 'pretty limited as well.' Her forecasting now focuses on 2028-2032 compute. Standing up 1 GW of AI compute costs ~$50B all-in; she reaffirmed her ~1 GW = $10B/year revenue framing."
+        },
+        {
+          "title": "Anthropic rivalry and strategy",
+          "detail": "Pressed on Anthropic overtaking OpenAI with developers/enterprises, Friar reframes rather than concedes, arguing OpenAI's single-foundation-model, many-interfaces strategy compounds advantages. Cites 900M+ weekly ChatGPT users, Codex hitting 5M (from zero in January), and ~50/50 consumer/enterprise revenue split."
+        },
+        {
+          "title": "Cost deflation economics",
+          "detail": "Claims a 97% cost reduction from GPT-4 to GPT-5.4-class models over ~two years. On GPT-5.5 they raised list price 2x but customers still net a 20-30% per-token cost reduction due to efficiency. Per-gigawatt compute is getting more expensive (power, memory), but chip efficiency more than offsets it."
+        },
+        {
+          "title": "Multi-cloud, multi-chip Rubik's Cube",
+          "detail": "OpenAI moved from one CSP (Azure) and one chip (Nvidia) to riding on Oracle, CoreWeave, Microsoft, GCP, AWS plus neoclouds to shift capex to opex. Chips: Nvidia priority (next big training run on Vera Rubin), plus AMD, Cerebras online, and an in-house Broadcom chip. New built-to-suit data center with SoftBank in Texas."
+        },
+        {
+          "title": "New device and ads",
+          "detail": "Confirms a Jony Ive/OpenAI consumer device to be unveiled by end of year and shipped early next year; she's used it and calls it 'lovable' and natural. On ads: results must stay model-driven not sponsored, a free ad-free tier stays, but memory + context + high intent could make 'a very potent ad platform.'"
+        }
+      ],
+      "quotes": [
+        "An IPO, I say this to the team all the time, is a milestone. It is not a destination.",
+        "In 26, if you want to buy more compute, good luck to you. Like, tell me, because I don't know where else to find it.",
+        "If Google and Meta had a baby, it would be chat GPT.",
+        "If I was optimizing only for today, I would give every token to the API... order of magnitude more than to the consumer."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Rare, specific detail from OpenAI's CFO on capital structure, compute economics, and multi-year forecasting that markets-focused listeners won't get elsewhere, though it's heavy on framing and light on hard financials."
+    },
+    "added_at": "2026-07-24T15:26:12.410584+00:00"
+  },
+  {
     "id": "1M3Vdl6DRkU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
