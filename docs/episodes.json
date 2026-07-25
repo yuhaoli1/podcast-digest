@@ -1,5 +1,49 @@
 [
   {
+    "id": "d2e9f5ad-85fb-49f6-bc5c-65f32868b632",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
+    "url": "https://allinchamathjason.libsyn.com/the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence",
+    "published": "2026-07-24T20:46:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/2/f/d/f/2fdf321765cc17a9d959afa2a1bf1c87/1_E282.png",
+    "summary": {
+      "tldr": "The All-In crew dissects the fight over Chinese open-source AI models (Kimi K2/K3) and anthropic's push for government protection, then covers anthropic's $1.5B copyright settlement, Google's blowout earnings amid massive capex, and NYC mayor Mamdani's rent/eviction policies. The core takeaway: the panel largely agrees that banning open source would backfire, that frontier models are commoditizing faster than expected, and that anthropic/OpenAI are seeking regulatory capture rather than facing genuine threat.",
+      "topics": [
+        {
+          "title": "Fight over banning Chinese open-source AI",
+          "detail": "Moonshot AI's Kimi K3 launched on par with Opus and GPT-5, ~50% cheaper. White House official Kratzios accused Moonshot of distilling Claude; Lutnick reportedly opposes a ban while others want to incentivize US open models. Polymarket put a 2026 open-source ban at 45% (up from 22%). Sacks argues you can't punish American developers for using public-domain models and that anthropic should stop distillation at the source via KYC."
+        },
+        {
+          "title": "Model commoditization and valuation game",
+          "detail": "Chamath argues frontier models are commoditizing in months rather than 5-10 year cycles, so value shifts to the application layer and infrastructure (cloud, chips). He claims closed labs are playing a 'valuation preservation game' before IPO road shows. Jason predicts open source could derail anthropic/OpenAI IPOs; Sacks disagrees, citing anthropic going from $10B to $70B+ ARR in a year and OpenAI re-accelerating to a $41B run rate."
+        },
+        {
+          "title": "Anthropic's $1.5B copyright settlement",
+          "detail": "Largest US copyright settlement ever: anthropic pirated ~7M books from LibGen, paying $3,000/book to authors, ~$101M to lawyers. Sacks notes they got nailed for piracy (not buying a single copy), and highlights hypocrisy: anthropic claims fair-use right to train on all creator output while branding Chinese distillation as 'IP theft' — a stance he says could poison their own fair-use lawsuits (e.g., NYT v. OpenAI)."
+        },
+        {
+          "title": "Google and Tesla capex / SpaceX",
+          "detail": "Google raised capex forecast to ~$91B+ and posted negative free cash flow for the first time ever; Chamath cites Google's 32% average return on invested capital over 20 years as justification. Google Cloud on a $100B run rate. SpaceX down 30% from its day-one close, now ~$1.5T with lockups expiring. Freeburg calls Google the best public AI stock."
+        },
+        {
+          "title": "NYC socialism / Mamdani rent policies",
+          "detail": "Mayor-elect Mamdani froze rent, barred landlords from requiring both credit checks and the 40x income standard, and an activist called evictions 'the violence of evictions.' Freeburg gives a private-property-rights rant citing John Quincy Adams; Chamath predicts rents will rise (landlords set rents 4x higher, demand prepayment) and suggests running the experiment vs. Austin, where relaxed permitting lowered rents."
+        }
+      ],
+      "quotes": [
+        "The tell on this, the way that you know that this whole distillation thing is fake, is because if stopping distillation was their primary objective, anthropic would push to ban Chinese access to American models, not American access to Chinese models.",
+        "This is literally the most successful tech company of all time, and they're racing to the government to basically say you need to protect us against our competitors.",
+        "Why would you buy a $50 Coke when you can buy a 50 cent Coke?",
+        "Property must be secured or liberty cannot exist.",
+        "If you go to Washington and you lay down with the dogs, don't be surprised if you wake up with the fleas."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Strong, specific arguments on AI open-source policy, commoditization, and the anthropic copyright fight with real numbers, though the panel is largely in agreement and the later segments run thinner."
+    },
+    "added_at": "2026-07-25T15:08:44.785030+00:00"
+  },
+  {
     "id": "d4e4932a-4eb5-4007-8f84-4d386c3a22ce",
     "show": "All-In",
     "slug": "all-in",
