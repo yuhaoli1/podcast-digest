@@ -1191,6 +1191,53 @@
     "added_at": "2026-07-24T15:26:12.410584+00:00"
   },
   {
+    "id": "6c43a3ce-5efe-45fd-81db-29504c064b52",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?",
+    "url": "https://allinchamathjason.libsyn.com/pope-vs-ai-anthropics-digital-god-ai-job-loss-narrative-flips-open-source-crackdown-coming",
+    "published": "2026-05-29T22:23:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/e/b/d/f/ebdfe17be5b4c02ad959afa2a1bf1c87/1_Pod_E275.png",
+    "summary": {
+      "tldr": "The All-In crew (with guest Bill Gurley subbing for Friedberg) debates AI's real-world impact, centering on Anthropic's doom-laden public posture and the flip in the job-loss narrative. Key takeaways: the hosts argue Anthropic is either playing regulatory-capture game theory or literally trying to build a 'digital god,' and there's a sharp on-air fight between Sacks/Chamath (AI job apocalypse is overblown/mismanagement, not AI) and Calacanis (real AI-driven displacement is coming). A recurring thread: open source/open weight models are the essential backstop against AI centralization, and a ban may be coming.",
+      "topics": [
+        {
+          "title": "Anthropic as 'digital god' / regulatory capture",
+          "detail": "Chamath floats his 'Dr. Frankenstein theory' that Anthropic staff believe they're building a species superior to humans, citing Dario's 'Machines of Loving Grace' essay (AI systems doling out resources to humans via a 'secondary economy') and Chris Olah's involvement in the Pope's AI encyclical. Both Chamath and Sacks argue the doomer branding is game theory to win regulatory 'red capture' and monopolize the market."
+        },
+        {
+          "title": "Pope Leo XIV's AI encyclical",
+          "detail": "Pope Leo XIV released a 235-page, 42,000+ word encyclical ('Magnificent Humanity') warning AI could concentrate power, joined by Anthropic's Chris Ola. Gurley counters that its model, Leo XIII's 1891 anti-Industrial-Revolution encyclical, got it 'precisely wrong': since 1891 the workweek fell from 60+ to 34 hours, real wages rose 8-10x, and global poverty fell from 75% to under 10%."
+        },
+        {
+          "title": "The job-loss narrative flip",
+          "detail": "Sacks claims his January contrarian prediction (AI creates jobs, not destroys them) is vindicated: Goldman CEO David Solomon's NYT op-ed, plus Sam Altman and Dario walking back apocalypse claims ahead of IPOs. He cites Yale Budget Lab finding no discernible labor disruption in 3 years, software job postings up 15% YoY at a 3-year high, and 4.3% unemployment despite coding being the top AI use case."
+        },
+        {
+          "title": "The Calacanis vs. Sacks/Chamath fight",
+          "detail": "Chamath argues the layoffs (Meta 8,000, Cloudflare 20%) are cleanup of post-COVID overhiring/talent-hoarding, not AI. Sacks accuses Calacanis of 'AI washing' and citing anecdotes, invoking Trotskyites. Calacanis takes CEOs (Jassy, Prince, Zuckerberg, Dorsey) at their word that cuts are AI-driven and predicts self-driving/robotics will eliminate most of ~20M driving jobs within a decade."
+        },
+        {
+          "title": "Open source crackdown and model commoditization",
+          "detail": "Sacks warns breadcrumbs point to a coming US ban on open-weight models justified by 'removable guardrails' rhetoric, which would push the world onto Chinese models. Chamath cites a Rogo eval showing top models (Opus 4.7, GPT 5.5, Sonnet 4.6) within 0.3% of each other, and Elon's claim of rewriting the training stack in C for an order-of-magnitude efficiency gain, suggesting training costs collapse from $10B to $10M runs."
+        },
+        {
+          "title": "Token spend blowout and enterprise reality",
+          "detail": "A Fortune 20 CEO asked for $1B in AI OpEx savings but the team spent $200M on tokens with minimal results; a Polymarket-cited case had a client burn ~$500M in a month ($16.6M/day) with no usage limits. Enterprises want abstraction/hot-swappable models to avoid lock-in, with examples like Abacus, 8090, and Kirkland & Ellis reportedly spending $500M on its own frontier model."
+        }
+      ],
+      "quotes": [
+        "I don't think they think they're writing software. I think they're mid-wifing a deity here.",
+        "There is no single best model anymore.",
+        "The best way to protect yourself from AI is to be the most AI enabled version of yourself you can be.",
+        "Every human that wants to protect themselves needs to be the most AI-enabled version of themselves they can be — refusing to use AI is like saying I'm not going to use email."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "The Anthropic 'digital god' framing, the open-source-ban warning, and the genuine Sacks-vs-Calacanis disagreement on AI job loss give a tech/VC reader real substance and specific data, though it's padded with bits and repetition."
+    },
+    "added_at": "2026-07-26T15:11:30.135513+00:00"
+  },
+  {
     "id": "1M3Vdl6DRkU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
