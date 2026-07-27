@@ -1286,6 +1286,54 @@
     "added_at": "2026-07-01T19:59:15.985174+00:00"
   },
   {
+    "id": "c3affab8-5413-46ec-8d1f-00e504c0309c",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "SpaceX's $2T Case, Nvidia's Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis?",
+    "url": "https://allinchamathjason.libsyn.com/spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-bond-crisis",
+    "published": "2026-05-22T22:46:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/c/3/2/1/c321969eb8898bf116c3140a3186d450/1_Pod_E274.png",
+    "summary": {
+      "tldr": "The All-In crew (minus Sacks) plus investor Gavin Baker dig into a huge tech news week: Andrej Karpathy joining Anthropic, the AI industry's growing PR/political backlash, SpaceX's record $1.75T IPO filing, Nvidia's blowout earnings, and worrying macro signals. The central theme is that AI fundamentals are strengthening dramatically (Anthropic now profitable, $100B+ ARR across labs) even as public sentiment sours and rates/inflation flash warning signs.",
+      "topics": [
+        {
+          "title": "Karpathy to Anthropic & recursive self-improvement",
+          "detail": "Andrej Karpathy (39) joins Anthropic to lead a new pre-training team focused on recursive self-improvement and continual learning. Chamath predicts ~10x model quality improvement yearly; Baker says that could prove conservative if recursive self-improvement and continual learning are unlocked, calling them 'the two final frontiers.'"
+        },
+        {
+          "title": "AI's PR and political backlash",
+          "detail": "Commencement speeches (including Eric Schmidt's) were booed; Chamath argues CEOs like Dario Amodei are 'trading their own book' to build a regulatory moat. Friedberg frames the backlash as fear of asymmetric power concentration plus possible CCP-funded anti-AI campaigns. They cite Cloudflare's Matthew Prince laying off 20% of staff (labeling them 'measurers') and Zuckerberg installing recording software to train models as examples of terrible messaging scaring workers."
+        },
+        {
+          "title": "Trump's pulled AI executive order",
+          "detail": "An EO gathering top lab and hyperscaler CEOs was scrubbed an hour before because Trump disagreed with provisions requiring federal oversight/review of frontier models. Chamath argues for US-China KYC on frontier models to prevent bioweapons; Baker is skeptical of US-only regulation and notes existing self-regulation and courts (citing the OpenAI wrongful-death suit) already discipline behavior."
+        },
+        {
+          "title": "SpaceX's $1.75T IPO",
+          "detail": "S1 targets raising $75B at a $1.75T valuation (ticker SPCX, ~June 12), the largest IPO ever. Starlink did $11.4B revenue (50% growth, $4.4B operating income, 10M+ subscribers); 'Elon Web Services' rents Colossus to Anthropic for $1.25B/month ($45B over 3 years), cancelable by either party with 90 days notice. Baker highlights SpaceX building data centers faster each time (122→91→66 days) and Cursor's Composer 2.5 becoming Pareto-dominant after ~3-4 weeks of RL on Colossus 2."
+        },
+        {
+          "title": "Nvidia's blowout quarter and the amortization debate",
+          "detail": "$81.6B revenue (up 85% YoY, 20% QoQ), $58B net income, $48B free cash flow, 75% gross margins, plus $80B new buyback and a 25x dividend hike. Baker argues Nvidia is gaining share even versus Broadcom's 143% AI growth guide, and that mixing accelerators for decode extends older GPUs' useful life to 10-15 years—refuting Michael Burry's short-lifespan bear case and enabling 6% asset-backed GPU financing."
+        },
+        {
+          "title": "Macro warnings & China summit",
+          "detail": "Oil elevated with Strait of Hormuz closed for 12 weeks; forecasts of CPI hitting 4-6%, 10-year at 4.6%, Japan 30-year at 5.1%. Friedberg warns of a potential credit crisis from carry trades; Baker counters that America is 'the best house in a bad neighborhood' given energy/food self-sufficiency. The Trump-Xi summit produced plane and soybean sales but no grand deal; Baker defends selling deprecated Nvidia GPUs to China as delaying a Chinese alternative ecosystem."
+        }
+      ],
+      "quotes": [
+        "Everybody is trading their own book. It makes enormous sense for Dario to try to create the boundary conditions for a regulatory mode.",
+        "This was like from the PR school of retards... you reduce humans to a label called the measure. And then you're like, I'm going to lay off all the measures.",
+        "Crime is now a choice.",
+        "What is the point of being concerned when you have ridden the rollercoaster to the top and is beginning its descent? The force of gravity is inevitable.",
+        "Every day the Strait of Hormuz is closed is relatively good for America."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Baker adds substantive, numbers-heavy analysis on AI economics, GPU financing, and SpaceX that goes beyond typical punditry, though listeners must wade through extended banter and repetitive AI-PR hand-wringing."
+    },
+    "added_at": "2026-07-27T16:25:04.578050+00:00"
+  },
+  {
     "id": "nepKKz-MzFM",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
