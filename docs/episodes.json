@@ -1334,6 +1334,53 @@
     "added_at": "2026-07-27T16:25:04.578050+00:00"
   },
   {
+    "id": "9e723c14-33a2-4bd1-9e58-e475244f9446",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño",
+    "url": "https://allinchamathjason.libsyn.com/trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nio",
+    "published": "2026-05-15T21:21:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/1/b/2/7/1b271d367e0c2334d959afa2a1bf1c87/1_Pod_E273.png",
+    "summary": {
+      "tldr": "The All-In crew, with guest Salesforce CEO Marc Benioff (subbing for Sacks), break down the Trump-Xi summit and what economic entanglement means for avoiding US-China conflict, then dig into the software 'SaaSpocalypse' rerating, OpenAI's souring Apple deal, multi-sensory AI models, and a dire El Niño food-crisis forecast. The dominant thread: economic cooperation and technology diffusion are framed as the path to peace, while AI is simultaneously commoditizing software and reshaping enterprise valuations.",
+      "topics": [
+        {
+          "title": "Trump-Xi Summit and Economic Entanglement",
+          "detail": "China agreed to keep the Strait of Hormuz open, buy more soybeans, US oil/LNG and 200 Boeing jets. Xi warned Taiwan could cause the countries to 'collide.' Polymarket puts a 2026 China-Taiwan invasion at 6% (17% by 2027). Chamath argued the real negotiation is 'dividing up the world'—China backing off Central/South America in exchange for rare earths and oil access."
+        },
+        {
+          "title": "CEO Trade Delegation and Selling to China",
+          "detail": "Trump brought Elon, Jensen Huang, Cristiano Amon (Qualcomm), Kelly Ortberg (Boeing), Cargill's CEO, and the CEOs of Visa and Mastercard—each pitched as America's best salesperson in their category. Benioff noted Salesforce operates in China only via an exclusive Alibaba partnership with all data kept in-country and accessible by the CCP."
+        },
+        {
+          "title": "Chips, Taiwan and Selling the Latest Tech",
+          "detail": "All agreed the US should just sell top chips: Benioff called high-end chips 'ego gratification' since Chinese models fast-follow within months. Chamath predicted Taiwan becomes irrelevant in ~18 months as US fabs reach 1-2nm and both sides mainland-fab. Friedberg argued technology diffusion lowers conflict risk versus hoarding it on one side."
+        },
+        {
+          "title": "The 'SaaSpocalypse' Software Rerating",
+          "detail": "Salesforce down 37% (~$90B), ServiceNow 42%, Workday 45%; ~$180B in market cap lost. HubSpot trades at ~2x sales. Benioff ('not my first SaaSpocalypse') defended fundamentals—$46B revenue, $16B cash flow, 83,000 employees, a $50B buyback—and said he'll spend ~$300M on Anthropic this year for coding. Chamath predicted markets will soon demand ROI on ~$3T of AI spend."
+        },
+        {
+          "title": "OpenAI vs Apple and the Assistant Wars",
+          "detail": "OpenAI reportedly considering suing Apple over the underperforming ChatGPT/Siri integration (users must say 'ChatGPT'); Apple cites privacy concerns and OpenAI poaching Jony Ive and building competing hardware. Panel argued Google Gemini has the clearest path via Gmail/Drive/Photos context, while Apple may need to buy Perplexity/Mistral and lean on local models."
+        },
+        {
+          "title": "Multi-Sensory AI and El Niño Food Crisis",
+          "detail": "Discussion of Mira Murati's Thinking Machines demo and real-time multi-sensory models that could 1000x token usage. Friedberg's science corner warned of a record El Niño—~11 million excess terawatt-hours in the oceans (500 years of human energy)—forecasting near-certain hottest year on record, crop failures in Brazil/Australia/India, and potential famine and unrest for 1.5B people dependent on monsoon-fed food."
+        }
+      ],
+      "quotes": [
+        "It's not my first SaaSpocalypse.",
+        "Your valuation is fantasy land until somebody's actually going to pay you.",
+        "The simplest and surest path to no conflict with China is economic entanglement.",
+        "There's about 11 million terawatt hours of excess energy stored up in the oceans—that's 500 years worth of human energy."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Benioff offers a candid insider view of the software rerating and China trade delegation, and Friedberg's El Niño segment is genuinely substantive, though the banter and PR-flavored questions pad the runtime."
+    },
+    "added_at": "2026-07-28T16:12:13.929568+00:00"
+  },
+  {
     "id": "nepKKz-MzFM",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
