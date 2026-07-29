@@ -1,5 +1,96 @@
 [
   {
+    "id": "a23359d3-8299-49b5-aada-ef230f27193b",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+    "url": "https://allinchamathjason.libsyn.com/the-1hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs",
+    "published": "2026-07-28T20:21:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/1/d/7/b/1d7b87e95ecf4851d959afa2a1bf1c87/robots_lybson_thmbnl.png",
+    "summary": {
+      "tldr": "Jason Calacanis interviews four robotics CEOs at the Makina conference in Paris about the state of humanoid and quadruped robots. The recurring themes: robots are moving from research labs to real-world industrial deployment justified by ROI (avoiding costly downtime rather than pure labor replacement), the looming competitive and security threat from cheap Chinese robots, and a widely shared anti-weaponization stance despite China deploying armed robots. The single biggest takeaway is that operating costs are trending toward ~$1/hour, which could compress labor costs by ~90% once manufacturing scales.",
+      "topics": [
+        {
+          "title": "ANYbotics: superhuman industrial inspection, not labor replacement",
+          "detail": "CEO Peter Fankhauser says their four-legged ANYmal robots cost low hundreds of thousands of dollars and run inspection missions up to 40 times a day in dangerous environments (offshore rigs, explosive atmospheres, -20 to +60C). Value comes from avoiding downtime that costs hundreds of thousands per hour; robots pack thermal cameras, acoustic mics and gas sensors to detect what humans can't. 0% of components are sourced from China."
+        },
+        {
+          "title": "1X and the bet on human-like data",
+          "detail": "CEO Bernt Bornich confirmed the Neo home humanoid ships in 2026 at $500/month subscription, sold out first 10k pre-orders in two days, and will launch as an open platform/app store where others can run their own models. His core bet: build the robot close enough to a human body to train on all of YouTube's general video data, solving the data catch-22. He predicts 'hard takeoff' (robots building robots, chips, data centers) within a decade, betting on three years."
+        },
+        {
+          "title": "Boston Dynamics goes commercial",
+          "detail": "Interim CEO Amanda McMaster says Spot has 500+ customers in 46 countries, is the most-deployed mobile autonomous robot, costs $100k base to $300k fully loaded, runs ~3,000 hours mean-time-between-intervention. Atlas will use a robot-as-a-service model and self-swaps its own batteries. 100% built in the US; she flatly opposes allowing Chinese humanoids into the US on security grounds."
+        },
+        {
+          "title": "Agility Robotics and why 'this time is real'",
+          "detail": "Prof. Jonathan Hurst credits LLMs for making perception 'all but solved,' the historical blocker for robots doing useful work. Their Digit V5 (out this year) is the first balancing humanoid able to work alongside people without a physical safety barrier. He frames economics as ~$1/hour once ~100,000 robots scale, against $20-40/hour human labor, with 40,000 hours of work over a 5-year life."
+        },
+        {
+          "title": "China threat and weaponization",
+          "detail": "Every CEO raised alarm about China building 80% cheaper robots, IP theft, and data leakage from Chinese quadrupeds back-channeling to China. All four hold anti-weaponization stances (ANYbotics signed a 2021 letter with Boston Dynamics condemning it), but Calacanis repeatedly presses that they'll be forced to build armed robots if China deploys them; McMaster concedes they'd 'make the right one' when the time comes."
+        }
+      ],
+      "quotes": [
+        "We are all in on pre-training our own models on this video data on the internet... our cross embodiment is not another robot. Our cross embodiment is the human.",
+        "I am extremely sure that we're less than a decade away from hard takeoff... My current bet would be three years.",
+        "Our customers don't compare a platform to the full solution... You don't want to have 15 cameras in your critical infrastructure that somebody else controls.",
+        "I think we've already done that... Someday there's going to be an autonomous truck that drives up and they have a completely lights out autonomous package sortation factory."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Four candid operator interviews deliver concrete unit economics, deployment numbers, and a shared industry view on the China and weaponization risks, though Calacanis's repetitive framing and the lack of hard pricing on some products dilute the signal."
+    },
+    "added_at": "2026-07-29T15:55:41.848013+00:00"
+  },
+  {
+    "id": "XyXBwO5jYpw",
+    "show": "Lex Fridman",
+    "slug": "lex-fridman",
+    "title": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
+    "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
+    "published": "2026-07-28T20:02:11+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
+    "summary": {
+      "tldr": "Civil War historian Gary Gallagher walks through the causes, key figures, and major battles of the American Civil War, arguing throughout that the war was fundamentally about slavery but was not inevitable, and that individuals like Lincoln, Grant, and Lee decisively shaped its course. His central, contrarian claim is that Union victory was not preordained—the Confederacy needed only to exhaust Northern civilian morale—and that the war's outcome hinged on contingent events and specific leaders rather than impersonal forces.",
+      "topics": [
+        {
+          "title": "Slavery as cause vs. motivation",
+          "detail": "Gallagher insists 'if you take slavery out of the picture, there is no Civil War, period,' but distinguishes causation from soldiers' motivation—most Union volunteers fought to preserve the Union, not end slavery. He notes only ~3% of Northern whites were abolitionists, that all Southern whites had a stake in slavery as social control, and that in 1860 the value of enslaved people (~$3 billion) exceeded all US industry and railroads combined (under $2.5 billion)."
+        },
+        {
+          "title": "The war was not inevitable or a foregone conclusion",
+          "detail": "Gallagher rejects both the inevitability thesis and the assumption of certain Union victory. Virginia's convention voted against secession twice before Fort Sumter; had Lincoln let Sumter go, the Upper South might have stayed. The Confederacy needed only a tie—to make the war too costly for Northern civilian morale—and came closest in summer 1864 (Lincoln himself expected to lose reelection)."
+        },
+        {
+          "title": "Lincoln, Grant, and Lee assessed",
+          "detail": "Gallagher rates Lincoln alongside Washington as greatest president, praising his eloquence and adaptability. He debunks 'Grant the Butcher': before facing each other, Grant's total casualties were 37,000 vs. Lee's 98,000—Lee was the bloodiest general in US history, with a soldier in his army facing a 73% casualty chance. The Emancipation Proclamation was based on Lincoln's war powers and freed no one where the Union already controlled."
+        },
+        {
+          "title": "Which battles actually mattered",
+          "detail": "Gallagher argues Gettysburg was NOT the turning point—Lee's army escaped intact, and Northern morale hit its lowest point a year later in summer 1864. The real turning point was Sherman's capture of Atlanta in September 1864, which (with Sheridan's Shenandoah victories) reelected Lincoln. Vicksburg mattered more than Gettysburg because Grant captured an entire Confederate army."
+        },
+        {
+          "title": "Aftermath, Lost Cause, and modern parallels",
+          "detail": "Grant's generous Appomattox terms (rations, letting men keep horses, no imprisonment) followed Lincoln's reunion-focused vision. Gallagher dismantles the 'Lost Cause' myth (that the war wasn't about slavery and the South never could have won) and notes Reconstruction was never a true 'occupation' (max 30,000 troops for 750,000 sq miles). On today's 'new civil war' talk, he sees rhetorical parallels to the 1850s but no genuine structural movement toward secession."
+        },
+        {
+          "title": "Why the US had a war when others abolished peacefully",
+          "detail": "Britain (800,000 freed in 1833), Russia (23 million serfs, 1861), and Brazil (1888) ended slavery without mass bloodshed. Gallagher attributes the US exception partly to millions of enslaved people living among owners who feared them (haunted by Haiti), and to slavery thriving economically—he estimates it would have outlasted Cuba and Brazil absent the war."
+        }
+      ],
+      "quotes": [
+        "In terms of causation, if you take slavery out of the picture, there is no Civil War, period. That's not a long conversation you need.",
+        "The bloodiest general in US history by far in terms of how many of his men get shot is Robert E. Lee.",
+        "It walks like a duck. It quacks like a duck. In the end, it's a slaughtered duck faster than it would've been because the United States military forces crushed it.",
+        "One reason there wasn't an occupation is because the Northern population wasn't willing to make the White South do something they didn't really care about, which was give full equal rights to formerly enslaved Black people.",
+        "War is hell."
+      ],
+      "verdict": "Skip",
+      "verdict_reason": "It's a lucid, well-argued deep dive into Civil War history with essentially no connection to tech, startups, or markets, making it off-topic for this reader despite its quality."
+    },
+    "added_at": "2026-07-29T15:56:06.531808+00:00"
+  },
+  {
     "id": "d2e9f5ad-85fb-49f6-bc5c-65f32868b632",
     "show": "All-In",
     "slug": "all-in",
