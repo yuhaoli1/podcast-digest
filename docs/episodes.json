@@ -1472,6 +1472,58 @@
     "added_at": "2026-07-28T16:12:13.929568+00:00"
   },
   {
+    "id": "f5d08f4f-4184-461a-933c-ad65230eb5e0",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Charles & Chase Koch on How They Quietly Built a $150B Empire",
+    "url": "https://allinchamathjason.libsyn.com/charles-chase-koch-on-how-they-quietly-built-a-150b-empire",
+    "published": "2026-05-12T21:03:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/0/a/f/e/0afe1ed26eaee8a516c3140a3186d450/1_Koch_Pod.png",
+    "summary": {
+      "tldr": "Charles Koch (89) and son Chase sit down at a Forbes/All-In event to explain how Koch Industries grew ~9,000x since the early 1960s (from 300 to 130,000+ employees across 60 countries) into a ~$150B private empire. The core lesson: be 'capability-bounded, not industry-bounded,' embrace failure as cheap learning, and run bottom-up empowerment via ~41 codified 'principles' rather than top-down control. Later half pivots to Koch's political/philanthropy self-critique and Charles's bleak view of America's economic and political trajectory.",
+      "topics": [
+        {
+          "title": "Capability-bounded, not industry-bounded",
+          "detail": "Chase frames Koch's core differentiator: instead of staying in one industry, they built portable capabilities (operations, logistics, trading, later branding via Georgia-Pacific) and pointed them at new industries as experiments. Charles insists Koch is not a Berkshire-style conglomerate but an 'integrated set of capabilities' or 'Republic of Science.'"
+        },
+        {
+          "title": "Failure as a deliberate strategy",
+          "detail": "Charles argues 'if you're not failing at everything, you're not doing anything new,' but distinguishes good experiments (learning value exceeds cost) from reckless bets. The 'gas-to-bread spread' ag disaster of the late 1990s—trying to own the whole value chain from natural gas to pizza crust, including buying a hog-feed business with hundreds of millions in undiscovered out-of-the-money contracts—nearly wiped out Coke's earnings."
+        },
+        {
+          "title": "Values over talent over credentials; culture change",
+          "detail": "Koch hires values first, skill second, credentials last—citing CIO Jared Benson, who started striping parking-lot lines with no college degree. Culture change is driven bottom-up and via 'social mimicry,' not 'sheep dipping' seminars; Charles cites rewiring the brain (referencing Michael Polanyi's 'Personal Knowledge')."
+        },
+        {
+          "title": "Betting the company: Georgia-Pacific and Molex",
+          "detail": "Koch bought Georgia-Pacific for $20B in 2005 when it was far smaller—a massive bet. Culture flips (firing bureaucrats, killing the 51st-floor coat-and-tie executive floor) and always require changing leadership. A 1970s Minnesota refinery acquisition involved a violent 9-month union strike, helicopter access, and rifle fire; capacity later grew 10-fold."
+        },
+        {
+          "title": "Why stay private and in Wichita",
+          "detail": "Charles says going public ('over my dead body') would have made the capability-bounded, principles-based model impossible because analysts wouldn't understand it, forcing a low P/E. Being private, owner-operated, and outside Silicon Valley's 'monoculture' is a competitive advantage—though Sacks notes some SV founders do buck conformity."
+        },
+        {
+          "title": "Politics, social change, and a bleak forecast",
+          "detail": "Charles admits his biggest mistake was trying to drive change through one party; now follows Frederick Douglass's 'work with anyone to do right.' He cites Viktor Frankl on meaning vs. power/pleasure, warns rising socialism means 'we're going to hell in a basket,' and criticizes occupational licensing, tariffs, and treatment of illegal immigrants. Stand Together (~1,000 business leaders) backs bottom-up efforts like Scott Strode's Phoenix addiction gyms (reportedly ~1 million people last year) and 5,000+ micro-schools post-COVID."
+        },
+        {
+          "title": "AI and education",
+          "detail": "Chase touts 'permissionless innovation' and a 'Principal Companion' app (powered by GPT/Claude) that applies Koch principles Socratically. On education, they claim openness to alternative schooling jumped from ~20% pre-COVID to 70-80% after, backing Alpha School (Joe Lonsdale/Lemont), Khan Academy, and the Walton-partnered Vela Fund."
+        }
+      ],
+      "quotes": [
+        "If you're not failing at everything, you're not doing anything new.",
+        "Either you come back to run the company, or I'm gonna have to sell it because my health is bad.",
+        "Ever more people have the means to live and no meaning to live for.",
+        "If God is just, I despair for the future of our country.",
+        "The eggs have been scrambled. It's your job to unscramble them."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "A rare, candid deep-dive into a $150B private empire's operating philosophy with concrete failure stories and numbers, though the back half drifts into ideological talking points and book promotion."
+    },
+    "added_at": "2026-07-30T15:58:16.234279+00:00"
+  },
+  {
     "id": "nepKKz-MzFM",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
