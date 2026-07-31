@@ -1524,6 +1524,49 @@
     "added_at": "2026-07-30T15:58:16.234279+00:00"
   },
   {
+    "id": "3efa7cbf-112c-4bce-a845-443700608a00",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Spencer Pratt on Fixing LA: Wildfires, Homelessness, Corruption & the Fight to Take It Back",
+    "url": "https://allinchamathjason.libsyn.com/spencer-pratt-on-fixing-la-wildfires-homelessness-corruption-the-fight-to-take-it-back",
+    "published": "2026-05-10T21:00:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/1/7/a/2/17a21271097a60eed959afa2a1bf1c87/1_Pod_Pratt.png",
+    "summary": {
+      "tldr": "Reality-TV personality Spencer Pratt, whose Pacific Palisades home burned in the January 2025 LA wildfires, makes his case for running for mayor of Los Angeles against incumbent Karen Bass and councilwoman Nithya Raman. The interview centers on his claims of city negligence during the fires, allegations of NGO corruption in homelessness spending, and a platform built almost entirely around enforcing existing laws to restore safety. It's a campaign pitch, not a policy interrogation, and Pratt offers few operational specifics beyond 'bring in experienced people' and 'enforce the law.'",
+      "topics": [
+        {
+          "title": "The fires and alleged city negligence",
+          "detail": "Pratt claims the Palisades reservoir (5 million gallons) next to his home was drained by LADWP CEO Janice Quinones in June 2024 with no backup plan; that Mayor Bass was in Africa and her deputy mayor was on house arrest, so LA City never called in fixed-wing air support; and that the after-action report was edited multiple times (per LA Times reporting). He says 12 people died and no emergency personnel were dispatched. He's suing the city, state, and LADWP; a judge overruled the state/city appeal the day of the debate."
+        },
+        {
+          "title": "NGO homelessness corruption",
+          "detail": "Pratt alleges NGOs launder tax money via developer kickbacks. Specific claim: a Westwood senior building listed at $11M was bought by 'Weingart' for ~$29M in city funds six days later, with the NGO retaining ownership and no one housed. He cites $700,000-per-person housing costs, claims state Homekey rules withhold funds if housing requires sobriety, and says LA increased homeless spending 10x while population grew. Says he's met the IRS criminal investigation team six times and plans to audit every NGO."
+        },
+        {
+          "title": "Enforce-the-law platform",
+          "detail": "Pratt's core plan: post citywide warning signs, give a 2-3 week grace period, then enforce existing laws on public drug use, theft, and nakedness. He cites San Francisco Mayor Daniel Lurie as his model, claiming car break-ins there dropped 87% through enforcement. He points to a police chief's line that 'once you start putting handcuffs on people, watch how many people leave.'"
+        },
+        {
+          "title": "Rebuilding LA's economy and Hollywood",
+          "detail": "Claims to have met ~10 billionaires ready to invest, and an anonymous billionaire offering $500M to be a 'fun czar.' On Hollywood, cites advice from Peter Chernin that mayors can't fix the big picture (that's governor/tax-credit territory) but can revive independent production. Wants to fast-track permitting (cites a bodega taking a year, affordable housing taking 2.5 years), use 3D printing and Art Deco architecture, and auto-approve permits meeting criteria."
+        },
+        {
+          "title": "Campaign strategy and the political framing",
+          "detail": "Pratt predicts winning June 2nd with 51%. Says Bass polls at ~20% approval (historic low) and that Raman entered as a 'fake Democrat' DSA candidate to split votes. Positions himself as an inexperienced-but-humble outsider (Cincinnatus reference) who'll surround himself with CEOs managing $50B budgets. Repeatedly attacks his opponents as socialists/DSA members rather than Democrats. Claims viral campaign ads contrasting his Airstream with opponents' mansions were made by third parties, not his campaign."
+        }
+      ],
+      "quotes": [
+        "I don't do this to be a politician. I do this to fight evil.",
+        "Once you start putting handcuffs on people, watch how many people leave.",
+        "We should be Los Angeles. We should have money shooting out of ATMs.",
+        "I called my lawyer... I said, how do you stay so calm when you're arguing with these liars? And he said, Spencer, I always have the truth."
+      ],
+      "verdict": "Skip",
+      "verdict_reason": "It's a one-sided local campaign pitch heavy on grievance and unverified corruption claims, with little of substance for a tech, startup, or markets audience beyond the LA-outmigration angle."
+    },
+    "added_at": "2026-07-31T16:08:24.815354+00:00"
+  },
+  {
     "id": "nepKKz-MzFM",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
