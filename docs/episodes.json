@@ -1,5 +1,65 @@
 [
   {
+    "id": "3202bc1f-a7db-4549-a5d1-0632d58fa81d",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores",
+    "url": "https://allinchamathjason.libsyn.com/chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores",
+    "published": "2026-07-31T22:23:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/9/3/d/1/93d127ba8f063c6c16c3140a3186d450/1_E283.png",
+    "summary": {
+      "tldr": "The All-In crew breaks down the sharp chip/AI stock correction, including the reported margin-call blowup of Leopold Aschenbrenner's ~$20B Situational Awareness fund, and debates whether it's a momentum unwind or a fundamentals problem. They dig into the fiscal/monetary backdrop (rising treasury yields, deficits) as the real driver popping bubbles, and dissect the Frontier Labs 'slow down AI' letter as mostly regulatory capture, virtue signaling, and monopoly masking. The single biggest takeaway: leverage plus short-term volatility wipes out even smart, directionally-correct investors, and the AI market is consolidating into an OpenAI/Anthropic duopoly by revenue.",
+      "topics": [
+        {
+          "title": "Aschenbrenner margin call and leverage lessons",
+          "detail": "Leopold Aschenbrenner's fund reportedly grew from $225M in 2024 to ~$20B (peaking near $45B), was running ~3.5x leverage, and got margin-called with Citadel buying the book. Chamath and Sacks stress leverage is 'the only way smart people go broke' and that hot money that piled in recently got wiped out even though early investors were up 10x."
+        },
+        {
+          "title": "Chip stock crash: momentum vs fundamentals",
+          "detail": "The Philadelphia Semiconductor Index fell over 20% in a month (bear territory) before bouncing 7% on tape day; Samsung down 38%, SK Hynix down 14%, KOSPI down 40% in 40 days, with chip names shedding over $1T combined. Sacks argues it's a leverage-amplified momentum unwind, not a breakdown in AI capex fundamentals, which he believes will deliver ROI."
+        },
+        {
+          "title": "Macro backdrop driving the selloff",
+          "detail": "Freiberg points to the 30-year Treasury yield crossing 5.2% for the first time since 2007, a ~$2T deficit, $40T federal debt, and both Trump and Warren wanting to scrap the debt ceiling. At ~10% pre-tax risk-free returns, why pay 50x earnings for chips—creating incentive to sell AI bets."
+        },
+        {
+          "title": "South Korea leverage carnage",
+          "detail": "Roughly 1.2M leveraged trading accounts hit with margin calls, ~350,000 fully liquidated (data two weeks old, likely far higher), potentially ~3% of the population wiped out in an investment-forward, gambling-prone culture."
+        },
+        {
+          "title": "Frontier Labs 'slow down AI' letter",
+          "detail": "~1,300 employees plus Anthropic and OpenAI signed a letter to pace AI development. Sacks lists five motives—virtue signaling, CYA, regulatory capture (Dario wants an 'FDA for AI'), groupthink/religiosity, and 'monopoly masking'—arguing the market is already an OpenAI/Anthropic duopoly by revenue (Anthropic ~$70B+ ARR, targeting $100B+; 80%+ gross margins)."
+        },
+        {
+          "title": "Open source vs duopoly debate",
+          "detail": "Jason argues most tokens are shifting to cheaper open-source models (Kimi K3, GLM 5.2, 80-90% cheaper) with nine-figure customers leaving Frontier Labs over IP-theft fears; Sacks counters that revenue and margins prove a self-reinforcing duopoly, likening it to Apple vs Android market share."
+        },
+        {
+          "title": "Anthropic shredding rare books",
+          "detail": "AI companies bulk-buy and shred physical books (spines cut for scanning) after Anthropic's $1.5B copyright settlement over 7M pirated books ($3,000/author, $100M to lawyers). Sacks highlights the hypocrisy: Anthropic claims fair use to train on everyone's work but treats its own LLM output—ruled non-copyrightable—as protected IP."
+        },
+        {
+          "title": "Mamdani's city grocery stores",
+          "detail": "Five city-owned NYC grocery stores (one per borough) opening by 2029, offering 30% discounts one week/month, costing ~$70M. Freiberg contrarian take: they'll be wildly popular and become powerful marketing 'spectacle' fueling socialism nationally, since the bill gets deferred via debt and inflation."
+        },
+        {
+          "title": "Science corner: fruit fly brain topology",
+          "detail": "A 2026 Budapest paper modeled the fruit fly connectome (139,000 neurons, 50M synapses). Euclidean 3D modeling scored poorly, but hyperbolic space—and Euclidean geometry in 64 dimensions—produced the best predictive model, suggesting biology encodes consciousness in dimensionality humans can't intuit."
+        }
+      ],
+      "quotes": [
+        "Leverage equals risk of ruin. PSA, no leverage.",
+        "Leverage is the only way that smart people go broke.",
+        "Monopolies pretend to be commodities and commodities pretend to be monopolies.",
+        "It's not that they need to be regulated. It's that they need to guide the regulation.",
+        "Why are you rushing to create a future that you don't believe in?"
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Strong, specific market and AI-strategy analysis—leverage mechanics, the duopoly-vs-open-source debate, and macro drivers—make it valuable for tech and markets followers despite some repetitive banter and a tangential science segment."
+    },
+    "added_at": "2026-08-01T15:07:14.524699+00:00"
+  },
+  {
     "id": "a23359d3-8299-49b5-aada-ef230f27193b",
     "show": "All-In",
     "slug": "all-in",
