@@ -1627,6 +1627,54 @@
     "added_at": "2026-07-31T16:08:24.815354+00:00"
   },
   {
+    "id": "2f991816-fba7-4f75-9ea1-67ddf15953f9",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Elon's Anthropic Deal, The Next AI Monopoly?, \"FDA for AI\" Panic, Trading the AI Boom",
+    "url": "https://allinchamathjason.libsyn.com/elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom",
+    "published": "2026-05-08T22:16:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/c/4/4/d/c44ded9277e66f66d959afa2a1bf1c87/1_Pod_E272.png",
+    "summary": {
+      "tldr": "The All-In crew (minus Friedberg, plus Brad Gerstner) breaks down Elon leasing all of Colossus 1 to Anthropic, arguing it turns SpaceX/xAI into a hyperscaler ('Elon Web Services') while solving Anthropic's compute constraints. The central debate is whether Anthropic is becoming an unprecedented AI monopoly (Sacks) and whether AI ROI has actually materialized (Chamath skeptical, Brad/Sacks bullish). They also dismiss reported 'FDA for AI' fears as largely fake news.",
+      "topics": [
+        {
+          "title": "Elon leases Colossus 1 to Anthropic — 'Elon Web Services'",
+          "detail": "Elon leased his H100-based Colossus 1 to Anthropic (~220,000 NVIDIA GPUs, 300+ MW), letting Anthropic double Claude Code rate limits. Brad estimates this adds $4-5B incremental revenue on top of xAI's ~mid-20s billions, subsidizing Grok training and de-risking the SpaceX IPO story. Chamath says it blunts the bear case by giving Elon terrestrial compute even if orbital data centers slip."
+        },
+        {
+          "title": "Is Anthropic the next AI monopoly?",
+          "detail": "Sacks claims Anthropic grew from ~$10B to $30B ARR in Q1 and $30B to $44B by April, on track for ~$100B exiting the year and possibly $1T ARR by 2027 — 'the biggest monopoly in human history.' Brad pushes back hard: on a GAAP basis they roughly match OpenAI's March revenue, it's far too early, and he opposes DC picking winners. Sacks flags Anthropic banning OpenAI's use of its models as anti-competitive."
+        },
+        {
+          "title": "'FDA for AI' panic",
+          "detail": "NYT reported a possible Trump EO for AI model pre-release review, spurred by Anthropic's cyber-capable model. Sacks calls it largely fake news (traced to Andrew Ross Sorkin), says no senior official supports an approval regime, and cites the March 20 national AI regulatory framework. All agree the real issue is cyber capability (models matching Anthropic within 3-6 months) and support KYC on frontier model APIs during preview periods plus hardening systems via firms like CrowdStrike and Palo Alto."
+        },
+        {
+          "title": "The AI ROI debate",
+          "detail": "Chamath's core argument: there is 'not a scintilla of evidence' AI has lifted S&P 500 operating margins yet; companies must eventually trace X spend to greater Y revenue. He sets a ~500-day / 2-3 year 'fork in the road.' Brad counters margins rose from ~11.8% to 13% with only ~3% MAG5 headcount growth; Sacks and Jason argue ROI is trickling from infrastructure to models to applications."
+        },
+        {
+          "title": "Markets, economy and cloud numbers",
+          "detail": "AWS ~$150B run rate (28% growth), Azure ~$108B (39%), Google Cloud ~$80B (63%). Brad argues MAG7 valuations aren't bubble territory (Meta 17x, Nvidia 19x, Google 24x) and credits Trump policy for an AI-driven boom (75% of Q1 GDP growth). Jason counters growth would be higher without the tariffs (ruled unconstitutional) and a '$100B war.'"
+        },
+        {
+          "title": "AI's popularity problem and giving back",
+          "detail": "Chamath grades tech leadership a 'D-minus trending to F' on communicating AI's benefits and reinvesting in society. Jason floats IPO share allocations for every American, minimum wage increases, and universal health care; Brad and Sacks resist government involvement, favoring market solutions and ideas like free electricity for towns hosting data centers."
+        }
+      ],
+      "quotes": [
+        "Unless something about their current trajectory changes, Anthropic will be the most powerful monopoly ever created in human history.",
+        "There is nobody better on planet Earth than Elon at converting electrons to tokens.",
+        "Imagine if John D. Rockefeller was way better at PR... instead of calling his company Standard Oil, he called it Safe Oil.",
+        "There is literally not a scintilla of evidence that AI has helped lift the operating margins of the S&P 500.",
+        "I think the markets are going to keep going up for a while. And then at some point they're going to go down."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Strong specific numbers on the Elon-Anthropic deal, cloud growth, and a genuinely sharp Sacks-vs-Brad-vs-Chamath disagreement on monopoly risk and AI ROI, though padded with political banter and self-interested spin."
+    },
+    "added_at": "2026-08-02T15:07:05.492884+00:00"
+  },
+  {
     "id": "nepKKz-MzFM",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
