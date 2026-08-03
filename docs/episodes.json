@@ -1724,6 +1724,59 @@
     "added_at": "2026-07-01T19:59:40.716121+00:00"
   },
   {
+    "id": "b5c14c82-4550-4947-89d6-b6268716e6d3",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
+    "url": "https://allinchamathjason.libsyn.com/openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze",
+    "published": "2026-05-01T21:37:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/b/1/8/6/b1862c7e177b0d2a16c3140a3186d450/1_Pod_E271.png",
+    "summary": {
+      "tldr": "The All-In crew breaks down OpenAI missing its 2025 user and revenue targets (per a WSJ report) and the broader AI competitive landscape, arguing power and compute—not demand—are the real constraints. They cover the Musk vs. Altman trial, blowout hyperscaler earnings with ~$725B in 2026 CapEx guidance, AI cybersecurity, and the retatrutide (peptide) craze. Core takeaway: the AI buildout is now synonymous with US economic growth, and the winners may be the hyperscalers and energy suppliers rather than the model labs.",
+      "topics": [
+        {
+          "title": "OpenAI misses targets",
+          "detail": "WSJ reported OpenAI expected 1B weekly active users before end of 2025 and missed it (still short four months into 2026), plus missed its ChatGPT revenue target (running ~$20-30B). CFO Sarah Fryer reportedly thinks they aren't ready for public reporting standards, clashing with Altman who wants to IPO; Polymarket odds of a 2026 IPO fell from 60% to 32%. OpenAI has ~$600B in compute commitments, roughly its entire secondary-market valuation."
+        },
+        {
+          "title": "Codex vs Claude product race",
+          "detail": "Sacks' contrarian take: GPT 5.5 (built on a new base model 'SPUD') is getting strong developer reviews while Anthropic's Opus 4.7 is seen as a bust, rationing compute and reducing thinking time. Developers are shifting coding usage from Opus to GPT 5.5; Sacks argues Sam may be 'right for the wrong reason'—weak on consumer but winning enterprise/coding with more compute than token-constrained Anthropic."
+        },
+        {
+          "title": "Power is the real bottleneck",
+          "detail": "Chamath argues everything is power-constrained, not demand-constrained. Less than half of announced gigawatt projects are actually being built due to supply-chain delays (turbines, transformers, grid infrastructure), and ~40% of announced projects may get canceled. He predicts labs will trade equity/control to hyperscalers (Oracle, Amazon, Meta, Microsoft, Google) for compute access, and that Elon should do a deal with Anthropic given xAI/SpaceX's spare capacity."
+        },
+        {
+          "title": "Hyperscaler earnings and CapEx",
+          "detail": "Google Cloud grew 63% YoY on ~$20B revenue, Microsoft Cloud 30% on $34.7B, AWS 28% on $37.6B. Combined 2026 CapEx guidance: Amazon $290B, Microsoft and Google $145B each, Meta $145B—~$725B total, headed toward $1T with others. Free cash flow collapsed (Amazon down 97%). Chamath warns these asset-light companies are becoming levered industrial businesses; Sacks counters there are 'no dark GPUs' unlike the 2000 Cisco/fiber bust."
+        },
+        {
+          "title": "AI cybersecurity",
+          "detail": "OpenAI released GPT 5.5 Cyber, the second model to complete a multi-step attack simulation end-to-end (matching Anthropic's Mythos), but commercially ready. Sacks argues models discover pre-existing bugs rather than create them, enabling a one-time hardening upgrade cycle for defenders (CrowdStrike, Palo Alto). Chamath hinted a top cybersecurity CEO claims to have penetrated/manipulated every model."
+        },
+        {
+          "title": "Musk vs. Altman trial",
+          "detail": "Elon seeks $150B in damages and reversion to nonprofit status over alleged breach of charitable trust, with Brockman/Altman removed. Damaging discovery includes Greg Brockman's diary ('The true answer is that we want Elon out'). It's a bench trial before Judge Rogers (who ruled largely for Apple in Epic v. Apple); Polymarket sits at ~42-43% for Elon winning. Elon reportedly declined offered shares because he wanted the entity to stay charitable."
+        },
+        {
+          "title": "Retatrutide peptide craze",
+          "detail": "Lilly's retatrutide is a triple agonist (adds glucagon receptor binding) driving fat burn over muscle loss. Phase 3 data: 37 lbs lost vs 6 on placebo in 40 weeks, non-HDL cholesterol down 27%, triglycerides down 41%, liver fat down 80%, A1c from 7.9% to 6%. Projected approval mid-2027 but possibly sooner; positioned as the premium 'Mercedes' upgrade to cheaper tirzepatide."
+        }
+      ],
+      "quotes": [
+        "Sam may end up being right, but for the wrong reason.",
+        "There's no dark GPUs today.",
+        "Is you taking notes on a criminal conspiracy?",
+        "AI is now synonymous with the growth of the American economy.",
+        "Watching this is like watching LeBron James play basketball.",
+        "Enjoy it while you can... the Supreme Court is one of the last highly functional institutions in the United States."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Strong, specific analysis of the AI compute/power bottleneck and hyperscaler economics with concrete numbers, though buried under a long, meandering intro and off-topic banter."
+    },
+    "added_at": "2026-08-03T16:28:38.367532+00:00"
+  },
+  {
     "id": "iKx3gAODybU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
