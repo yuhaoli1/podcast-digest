@@ -1777,6 +1777,53 @@
     "added_at": "2026-08-03T16:28:38.367532+00:00"
   },
   {
+    "id": "b8e7be81-4da6-4843-979c-e8c5aba5ec59",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win",
+    "url": "https://allinchamathjason.libsyn.com/ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win",
+    "published": "2026-04-29T15:14:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/d/5/2/2/d522b7c8e6966438d959afa2a1bf1c87/1_Pod_Hilton.png",
+    "summary": {
+      "tldr": "California GOP gubernatorial candidate Steve Hilton lays out his populist platform ahead of the 2026 race: eliminate state income tax on the first $100,000 of income and impose a 7.5% flat tax above that, paid for by rolling spending back to pre-pandemic levels and rooting out fraud. He argues California's dysfunction stems from three structural forces—union power, litigation, and climate dogma—and makes the case that a Republican can plausibly win given majority dissatisfaction with the state's direction.",
+      "topics": [
+        {
+          "title": "Tax plan: zero tax under $100K, 7.5% flat above",
+          "detail": "Hilton proposes no state income tax on the first $100,000 (~7 million households, roughly a third of the state) and a 7.5% flat tax above, developed with Hoover economists. He says it cuts revenue ~18.5% (~$60B), returning the budget to roughly pre-pandemic levels; Democrat rival Katie Porter reportedly said she's 'stealing' the first-$100K-tax-free idea."
+        },
+        {
+          "title": "CalDoge fraud investigations",
+          "detail": "Hilton's 'California Department of Government Efficiency' published four reports estimating $425B in fraud/waste over five years (~$80B/year, ~20% of the $349B budget). Examples: of $1B in climate-mitigation solar funds over 10 years, only $72M went to solar panels while $928M went to nonprofits; $350M cannabis-tax substance-abuse money and $3.8B Project Homekey funds similarly diverted."
+        },
+        {
+          "title": "Housing costs and the three structural forces",
+          "detail": "Hilton blames union power, litigation, and climate dogma. He cites ~$30K/door in fees in California vs under $1,000 in Texas, and says 70% of CEQA lawsuits block housing, mostly filed by unions using the private right of action for project labor agreements (union-only labor at 2-3x market wages). He tried and failed to qualify a ballot measure capping fees at 3% and eliminating CEQA's private right of action."
+        },
+        {
+          "title": "Gas prices and energy",
+          "detail": "California has the highest gas prices in the US despite having oil reserves, now importing ~80% of its oil (top sources Iraq and Ecuador) after refineries dropped from ~40 to 7. Hilton says most of the ~$2 premium is regulatory, not tax, and claims production could double every two years by appointing pro-permit officials to CalGEM—no legislature needed."
+        },
+        {
+          "title": "Education, crime, and homelessness",
+          "detail": "California spends ~$27K/student but under half meet English standards and 35% meet math; Hilton praises Mississippi's phonics and third-grade reading retention at one-third the cost. On crime, he'd reverse prison closures (peak 165K inmates in 2006, now 93K). On homelessness, he'd enforce encampment bans (citing Grants Pass v. Oregon), require rehab, and redirect 'homeless industrial complex' spending toward large mental-health facilities via the IMD Medicaid waiver."
+        },
+        {
+          "title": "Path to victory",
+          "detail": "Hilton leads polls with Trump's endorsement and expects a top-two runoff against a Democrat (Steyer, Porter, or Becerra). He notes Trump won 6.1M CA votes in 2024, above the ~5.9M he estimates needed to win a midterm, and points to voter ID on the November ballot boosting GOP turnout plus a majority 'wrong track' sentiment."
+        }
+      ],
+      "quotes": [
+        "They just wave their armor and like this and said, yeah, the unions run this place. And that's the real reason.",
+        "As a result of Democrat climate policy, we are now expanding oil drilling in the Amazon rainforest in order to provide the right kind of oil for California's refineries.",
+        "We printed them all out. It's like double my height... really good at passing laws, but not very good at enforcing them.",
+        "California means to America what America means to the world."
+      ],
+      "verdict": "Skim-worthy",
+      "verdict_reason": "It's a detailed, largely unchallenged campaign pitch with some concrete California policy numbers, but it's a single-candidate promotional interview with limited relevance to tech, startups, and markets beyond the tax and business-climate angles."
+    },
+    "added_at": "2026-08-04T16:16:58.643097+00:00"
+  },
+  {
     "id": "iKx3gAODybU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
