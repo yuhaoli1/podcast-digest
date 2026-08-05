@@ -1824,6 +1824,57 @@
     "added_at": "2026-08-04T16:16:58.643097+00:00"
   },
   {
+    "id": "369a465a-ffb5-425a-b170-a8ee8901f4f5",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "SpaceX-Cursor Deal, SaaS Debt Bomb, New Apple CEO, SPLC Indictment, Colon Cancer Spike",
+    "url": "https://allinchamathjason.libsyn.com/spacex-cursor-deal-saas-debt-bomb-new-apple-ceo-splc-indictment-colon-cancer-spike",
+    "published": "2026-04-24T21:20:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/7/f/3/7/7f37881ac06392f216c3140a3186d450/1_Pod_E270.png",
+    "summary": {
+      "tldr": "The All-In crew breaks down SpaceX's roughly $60B deal to acquire AI coding startup Cursor, the unraveling of Toma Bravo's Medallia buyout as a warning sign for leveraged SaaS, and Tim Cook's handoff of Apple to hardware chief John Ternus. The through-line is AI-driven deflation eating into legacy software valuations and a broader 'audit everything' theme spanning NGOs and industrial chemicals. Most important takeaway: token-based AI is undercutting per-seat SaaS pricing, threatening debt-financed software businesses that depend on predictable, ever-growing cash flows.",
+      "topics": [
+        {
+          "title": "SpaceX–Cursor deal",
+          "detail": "SpaceX will either acquire Cursor by end of 2026 for $60B (stock-for-stock) or pay a $10B breakup fee. Cursor's run rate was ~$2B at end of February, projected to hit $6B by end of 2026; Chamath argues at a ~$2T SpaceX valuation Elon effectively buys Cursor at a ~50% discount (~$30B) plus a cracked team, RL patterns, and enterprise data, while Cursor gains access to Colossus's 550,000 GPUs (scaling to 1M). Jason predicts SpaceX/xAI/Cursor lead the coding leaderboard within 12 months."
+        },
+        {
+          "title": "SaaS debt bomb",
+          "detail": "Toma Bravo handed Medallia (bought for $6.4B in 2021 with $3B debt) to creditors, wiping out ~$5.1B in equity as debt servicing was set to triple from $100M to $300M/year. Sacks notes public SaaS leaders doing $1B ARR at 20% growth now trade at ~3x ARR versus 13x historically; Salesforce fell 9% on the day, Figma down 67%, ServiceNow down 54%. Core argument: AI agents let enterprises spin up cheap alternatives, breaking the predictable cash flows that leveraged buyouts require."
+        },
+        {
+          "title": "Benioff's headless play",
+          "detail": "The group praises Salesforce's move to make products accessible via MCP/agents rather than Workday's approach of charging AI a 'toll,' framing founder-run companies as better positioned to burn the boats and adapt. Salesforce cited as possibly a bargain at ~10x free cash flow with $15B FCF."
+        },
+        {
+          "title": "Venture debt warning",
+          "detail": "All four hosts trash venture debt for founders, arguing it removes maneuverability and makes companies brittle. Chamath recounts his worst professional moment: a $420M credit line collapsing during market disruption while ~$200M sat at a failing Credit Suisse — vowing never to use leverage again."
+        },
+        {
+          "title": "Apple CEO transition",
+          "detail": "John Ternus, a 25-year hardware vet, replaces Tim Cook. Sacks credits Cook with 10x+ market cap growth, revenue from ~$100B to $400B+, and shrinking share count ~44%; Chamath frames Cook as the great 'steward' (like Roy Disney) versus innovator. Jason lists missed opportunities: glasses, a car, a TV set, a real AI Siri, robotics."
+        },
+        {
+          "title": "SPLC indictment",
+          "detail": "SPLC indicted on 11 counts of wire fraud and money laundering, allegedly funneling $3M+ to extremist groups and $270K toward Charlottesville planning via hidden accounts, with $822M in offshore accounts. Sacks argues fundraising jumped $81M after Charlottesville; Freeberg calls for stripping tax-exempt status from NGOs that don't meet 501c3 definitions. Note: these are allegations, and SPLC claims it merely paid informants."
+        },
+        {
+          "title": "Colon cancer and piclorum",
+          "detail": "Freeberg covers a Barcelona study finding the herbicide piclorum (developed by Dow in 1963) as a leading epigenomic signal associated with an 80%+ rise in colon cancer among under-50s over two decades, with a ~3x odds ratio in high-use counties. Last EPA safety review was 1995; he argues epigenomic analysis should drive new chemical reviews and reflects the value of government-funded science like the Cancer Genome Atlas."
+        }
+      ],
+      "quotes": [
+        "Debt equals prison, bitch.",
+        "You can buy a dollar for 50 cents.",
+        "If you are against racism, you may be supporting racism.",
+        "That $270,000 investment led to an $81 million return."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "The SaaS-debt-bomb and SpaceX–Cursor segments offer concrete numbers and a genuinely useful framework on AI deflation hitting leveraged software, though the political and NGO segments are more opinion than analysis."
+    },
+    "added_at": "2026-08-05T16:08:49.498036+00:00"
+  },
+  {
     "id": "iKx3gAODybU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
