@@ -1,5 +1,52 @@
 [
   {
+    "id": "8bbdfcd5-e2f4-4220-b5da-a84ddd1402e6",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Saronic Founders: Autonomous Warships, China's 230X Advantage & Swarms of Robot Ships",
+    "url": "https://allinchamathjason.libsyn.com/saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships",
+    "published": "2026-08-05T20:19:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/5/4/d/4/54d4595000168b8616c3140a3186d450/1_Pod_Saronic.png",
+    "summary": {
+      "tldr": "Saronic co-founders Dino Mavrukis (ex-Navy SEAL, Seal Team Six) and Vib Altankar make the case that the US is catastrophically behind China in shipbuilding and that autonomous vessels are the way to rebuild naval mass cheaply. The core takeaway: China can outbuild the US in ships 230-to-1, and Saronic's answer is mass-producible unmanned ships plus a new mega-shipyard, Port Alpha, in Brownsville, Texas.",
+      "topics": [
+        {
+          "title": "Autonomous ship rescues pilots in the Strait of Hormuz",
+          "detail": "Saronic's 24-foot autonomous Corsair was used by the Navy to rescue two downed American pilots in the contested Strait of Hormuz — described as the first time an autonomous vessel performed a rescue in the field, keeping additional personnel out of harm's way. Mavrukis, a former SEAL, tied it to the military ethos of never leaving people behind."
+        },
+        {
+          "title": "China's shipbuilding dominance",
+          "detail": "The US can build ~100,000 gross tons of ships a year vs China's 23 million — a 230:1 gap. China went from 5% of global shipbuilding capacity 30 years ago to 57% today via heavy subsidies, making US-built ships 5-6x more expensive. Last year China delivered ~1,000 commercial ships to the US's five; the US Navy has 296 ships (vs a 355 statutory minimum) and built 9 while retiring 19 last year."
+        },
+        {
+          "title": "Unit economics of autonomous ships vs destroyers",
+          "detail": "A naval destroyer costs ~$3B, takes 6-8 years, and fields ~96 VLS (vertical launch system) tubes — averaging 10-15 tubes/year at ~$30M per tube. Saronic's 180-foot autonomous Marauder carries the equivalent of 16 VLS tubes; building 20/year yields 320 tubes/year at a fraction of the cost."
+        },
+        {
+          "title": "AI, autonomy and weapons policy",
+          "detail": "Standard 3009 governs how AI can be used on autonomous weapons; the founders stress humans still set mission intent and engagement authorization, with AI distinguishing combatants from non-combatants. They argue policy thresholds can be built into software and adjusted by threat environment, countering fears of fully autonomous 'RoboCop' decisions."
+        },
+        {
+          "title": "Port Alpha shipyard announcement",
+          "detail": "Saronic announced Port Alpha, a new shipyard in Brownsville, Texas, starting on 800 acres (the largest US shipyard) with room to scale to 4,000 acres, billions in investment, and 10,000 jobs over 10 years. The company is ~4 years old, has raised $2.5B in private capital, funds R&D itself (moving away from cost-plus contracts), and can build 2,000 Corsairs/year in Austin."
+        },
+        {
+          "title": "Business model and industrial base",
+          "detail": "They contrast their firm-fixed-price, vertically integrated approach with legacy 'cost-plus' contracts that incentivize higher costs and longer timelines. They claim they can cut US ship costs in half (e.g. $300M ship to under $150M) while paying workers more, and note ~70% of sequence-critical components on some Navy ships are single-source suppliers."
+        }
+      ],
+      "quotes": [
+        "The United States can build a hundred thousand gross tons of ships every year... The Chinese can build 23 million gross tons. So they can outbuild the US 230 to one.",
+        "When a boat pulls up to you and there's nobody on it, you can very quickly deduce that it's a fully autonomous boat... they looked at this platform and said, that's my way home.",
+        "This is our generation's version of the space race... and we cannot lose.",
+        "The United States built five, five... one, two, three, four, five on one hand."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "It's a founder-friendly promo with little pushback, but the concrete numbers on China's shipbuilding gap and autonomous-ship unit economics make it a useful primer on the defense-tech thesis."
+    },
+    "added_at": "2026-08-07T14:55:00.989465+00:00"
+  },
+  {
     "id": "3202bc1f-a7db-4549-a5d1-0632d58fa81d",
     "show": "All-In",
     "slug": "all-in",
