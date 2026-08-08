@@ -1,5 +1,48 @@
 [
   {
+    "id": "bf461c11-8e10-4124-8c40-f24dab393cf9",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI",
+    "url": "https://allinchamathjason.libsyn.com/googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai",
+    "published": "2026-08-08T00:32:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/9/e/9/6/9e9643601e425587d959afa2a1bf1c87/1_Pod_E284.png",
+    "summary": {
+      "tldr": "The All-In crew (Freedberg, Gerstner, Sacks, Jason) unpacks a pivotal week in AI: Google's exodus of top researchers, SpaceX's blockbuster first public earnings, Airtable's fire-sale acquisition, and US startups selling training data to Chinese labs. The core thesis: the market is bifurcating into a Frontier-model duopoly (OpenAI/Anthropic) that commands premium pricing versus a commoditized infrastructure/compute layer, and Google is choosing to be an infrastructure/agnostic player rather than win the model race.",
+      "topics": [
+        {
+          "title": "Google's AI brain drain",
+          "detail": "Jeff Dean (employee #30, 27 years) plus three others left to start Discovery Loop; Demis Hassabis moved to chair/chief scientist. Google shares fell 4% (~$200B market cap) on Dean's departure. The panel argues top scientists are leaving because Google is allocating its $200B CapEx to compute infrastructure (high alpha, low beta, tax-advantaged, 30%+ ROIC) rather than risky model development, creating channel conflict with in-house model teams."
+        },
+        {
+          "title": "Frontier duopoly vs. commodity intelligence",
+          "detail": "Sacks argues the frontier-model market has become an OpenAI/Anthropic duopoly that charges a premium (like Apple vs. Android), while lagging 6-12 month models can only monetize compute, not weights. Anthropic is now reportedly over $80B ARR (started year at $10B), likely to hit its $100B+ exit target. Jason counters that open-source and Gemini are 'good enough' for 95% of tasks; Elon publicly disagreed, saying frontier models are 'a world difference.'"
+        },
+        {
+          "title": "SpaceX's blockbuster first public quarter",
+          "detail": "$7.8B revenue (up 92% YoY), CapEx up 6x to $18.4B. Elon pulled forward the $1T ARR target from 2031 to 2030 and guided to $100B ARR by year-end. Starlink connectivity generated $4.3B revenue / $2.6B adjusted EBITDA with 12M subscribers ($66 RPU). Compute spot price cited at $30-50 per watt ($30-50B per gigawatt). Panel debates how SpaceX finances scaling from 2 to ~8 gigawatts (~$300B CapEx) — via debt, dilution, or NVIDIA backstops."
+        },
+        {
+          "title": "Airtable's 90% collapse",
+          "detail": "Airtable sold to Italy's Bending Spoons for ~$1.28B ($2.25B including cash), ~10% of its $11.7B peak 2021 valuation. It has ~$480M revenue growing 20% but only 30% of sales reps hit quota. Sacks argues a private-equity playbook — cutting 80-90% of costs, returning to product-led growth, using AI to maintain the codebase without institutional memory — could yield $300-400M EBITDA. Late-stage investors reportedly got their money back via clean 1x liquidation preferences."
+        },
+        {
+          "title": "US data fueling China's AI",
+          "detail": "Forbes reports data-labeling startups (Surge, Mercor, both valued over $20B) sell PhD-created training datasets to top Chinese labs (Tencent, Alibaba, Moonshot) spending ~$500M/year. Jason argues this unpatriotically helps China catch up; Sacks and Gerstner counter that China has abundant PhD talent and can recreate the data, so restrictions won't be decisive unless the data has genuine dual-use/military applications."
+        }
+      ],
+      "quotes": [
+        "When I saw this Google news, my reaction was, and then there were two.",
+        "It's like, you know, creating data centers is not rocket science.",
+        "Nobody buys Microsoft because Microsoft writes the best code. They buy Microsoft because Microsoft is the rail that everything else runs on.",
+        "I can't believe that we're all just taking in stride this level of seller financing... he would call it circular revenues."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Strong, specific analysis of AI market structure, SpaceX financials, and SaaS disruption with genuine host disagreement, though padded with banter and summit promotion."
+    },
+    "added_at": "2026-08-08T14:35:41.706356+00:00"
+  },
+  {
     "id": "8bbdfcd5-e2f4-4220-b5da-a84ddd1402e6",
     "show": "All-In",
     "slug": "all-in",
