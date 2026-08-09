@@ -1965,6 +1965,54 @@
     "added_at": "2026-08-05T16:08:49.498036+00:00"
   },
   {
+    "id": "85ae6049-9d25-4887-b52c-7dd4f06af167",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out",
+    "url": "https://allinchamathjason.libsyn.com/openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out",
+    "published": "2026-04-17T20:35:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/4/a/4/7/4a47e010a4064246d959afa2a1bf1c87/1_Pod_E269.png",
+    "summary": {
+      "tldr": "The All-In crew dissects Mamdani's proposed NYC pied-a-terre tax and its likely damage to high-end real estate, then spends most of the episode on the AI wars: OpenAI's alleged identity crisis and pivot toward enterprise/coding, Anthropic's faster growth, and the escalating fight over data center capacity as the real bottleneck. Biggest takeaway: compute is the binding constraint, and Anthropic and OpenAI both urgently need their own data centers despite mounting NIMBY/doomer backlash. Lighter segments cover the all-birds AI pivot, Eric Swalwell's exit amid allegations, and why markets are hitting all-time highs during the Iran conflict.",
+      "topics": [
+        {
+          "title": "Mamdani's pied-a-terre tax and blue-state real estate",
+          "detail": "A proposed ~3.9% annual tax on second homes over $5M within 15 miles of Midtown Manhattan. The panel argues it targets the most elastic buyers, will crush high-end demand (a $10M unit effectively becoming ~$20M over a decade), and mirrors London's stamp tax and non-dom crackdown that pushed the wealthy to Zurich, Milan and Lugano. Compared to San Francisco's ~6% transfer tax over $25M and LA's mansion tax that dried up transaction volume."
+        },
+        {
+          "title": "OpenAI's identity crisis and enterprise pivot",
+          "detail": "CRO Denise Dresser's leaked 4-page memo attacked Anthropic and admitted OpenAI's $30B run rate is ~$8B inflated by revenue-share accounting. Investors quoted in the FT call it 'a deeply unfocused company.' Sacks argues OpenAI grows ~3-4x/year vs Anthropic's ~10x, and that Anthropic went from ~$1B to potentially $80-100B ARR, driven by metered enterprise coding tokens vs consumers' low willingness to pay beyond $20/month."
+        },
+        {
+          "title": "Data center wars as the real constraint",
+          "detail": "Chamath argues compute is massively constrained and both frontier labs urgently need their own infrastructure rather than renting from hyperscalers (who control ~60% of compute and can kneecap rivals). ~40 of 100 contested data centers get canceled; Maine banned new ones. Sacks cites the ratepayer protection pledge requiring hyperscalers to bring their own power; Bloom Energy and land/shell assets are soaring."
+        },
+        {
+          "title": "Anthropic's doomer/NIMBY strategy backfiring",
+          "detail": "Sacks contends Anthropic aligned with doomer and NIMBY groups to slow rivals while it relied on hyperscalers, but now that it must build its own data centers it may regret 'salting the earth.' He theorizes Anthropic withheld its huge 'mythos' model partly because it lacked compute to serve it, then framed the delay as altruism/scarcity marketing before releasing Opus 4.7."
+        },
+        {
+          "title": "Bubble signals: all-birds and market highs",
+          "detail": "All-birds sold its brand for $39M (10% of IPO proceeds), rebranded 'new bird AI,' bought 8 H100s with a $50M note, and the stock jumped ~450%. Chamath calls it a canary for compute scarcity. Meanwhile markets hit all-time highs despite the Iran war; Buffett index and Shiller PE near records but with extreme dispersion (only ~8-9 names driving it). Chamath is risk-off and wants SpaceX, OpenAI or Anthropic IPOs to take chips off the table."
+        },
+        {
+          "title": "Swalwell exit and DC politics",
+          "detail": "Eric Swalwell dropped out of the CA governor race and resigned from Congress amid allegations Friedberg says he heard from multiple sources back in December, suggesting coordinated timing. Sacks compares it to Biden's forced exit and points to Nancy Pelosi as the central figure. Ro Khanna's ~$600M in stock trades gets mocked alongside Pelosi's trading record."
+        }
+      ],
+      "quotes": [
+        "Your property is not safe in blue states and wealthy people who have a choice of where to park their money are going to increasingly realize that.",
+        "AI is as popular as, less popular than, ICE, the Democrats, and the government of Iran.",
+        "It is the temple of the wealthy... the data center, I think, is the representation of their progress.",
+        "Please somebody show me a couple of good examples of scaled profits.",
+        "The stock market is Trump's weather vane."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "The AI segments deliver concrete, contrarian analysis on the compute bottleneck, OpenAI vs Anthropic growth math, and NIMBY backlash that's genuinely useful for tech and market watchers, though a long game-show bit and banter pad the runtime."
+    },
+    "added_at": "2026-08-09T14:40:14.380222+00:00"
+  },
+  {
     "id": "iKx3gAODybU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
