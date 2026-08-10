@@ -2013,6 +2013,50 @@
     "added_at": "2026-08-09T14:40:14.380222+00:00"
   },
   {
+    "id": "f1ea8b73-bd46-4e52-b187-cc8462694399",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Anthropic's $30B Ramp, Mythos Doomsday, OpenClaw Ankled, Iran War Ceasefire, Israel's Influence",
+    "url": "https://allinchamathjason.libsyn.com/anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence",
+    "published": "2026-04-10T22:17:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/9/3/b/3/93b381a492da6d06d959afa2a1bf1c87/1_Pod_E268-20260410-lusrx3kb2k.png",
+    "summary": {
+      "tldr": "The All-In crew (with guest host Brad Gerstner and David Sacks, minus Freiberg) dig into Anthropic's decision to withhold its 'Mythos' model over cyber-vulnerability fears, its jaw-dropping revenue ramp to a reported $30B run rate, and competitive dynamics around agentic coding tools like Open Claw. They also cover the Iran ceasefire and a debate over Israel's influence on US foreign policy. The single biggest takeaway: AI revenue has vindicated the CapEx bulls, with Anthropic posting what Gerstner calls the fastest revenue explosion in tech history.",
+      "topics": [
+        {
+          "title": "Anthropic withholds 'Mythos' over cyber risk",
+          "detail": "Anthropic said its new model autonomously found thousands of vulnerabilities—including a 27-year-old OpenBSD bug and a 16-year-old FFmpeg bug—and set up 'Project Glass Wing,' a 100-day coalition of 40 companies (Apple, Microsoft, Google, Amazon, JP Morgan) to harden systems before release. Sacks called it 'more on the real side' despite Anthropic's history of fear-marketing; Chamath called it 'mostly theater,' comparing it to OpenAI's overhyped GPT-2 rollout in 2019."
+        },
+        {
+          "title": "Anthropic's $30B revenue ramp",
+          "detail": "Gerstner said Anthropic hit a ~$30B run rate by end of March—months ahead of plan—adding roughly Databricks plus Palantir in a single month, with over 1,000 enterprises paying $1M+ annually. He predicted an $80–100B exit run rate for the year and argued gross margins are 'exploding higher,' not negative, because compute (their main cost) is capped at ~1.5GW."
+        },
+        {
+          "title": "Open Claw 'ankled' and coding-market dominance",
+          "detail": "Anthropic cut off Open Claw power users from $200 flat-rate plans (who were burning thousands in tokens) then released its own competing agent product. Sacks pressed on whether it's anti-competitive bundling/price discrimination, arguing Anthropic has dominant (~50-60%) share of coding tokens and should 'keep their nose clean' ahead of future antitrust scrutiny. Chamath argued AI coding is still only ~5% of the market and models remain 'SHIT' at enterprise-grade legacy code."
+        },
+        {
+          "title": "Iran ceasefire and Israel's influence",
+          "detail": "Two weeks into a ceasefire, Vance, Witkoff and Kushner are headed to Islamabad for talks. Markets only drew down 5-7% versus 22% during tariffs, signaling investors trust Trump will exit. The hosts debated a NYT report that Netanyahu drove Trump into the war, with Jason relaying that Jewish Americans he speaks to feel Netanyahu has gone too far; Sacks cited Naftali Bennett's polling that Israel is becoming unpopular in the US."
+        },
+        {
+          "title": "Open source and X's auto-translate",
+          "detail": "Jason touted open-source models (BitTensor, Subnet 62 'Ridges AI' hitting 80% of Claude in 45 days for ~$1M) as a threat to frontier labs, claiming 65-70% of enterprise token consumption is already open source. The group praised X's Grok-powered auto-translate as a breakthrough enabling cross-border conversation, noting X runs with 70% fewer employees than pre-Elon."
+        }
+      ],
+      "quotes": [
+        "Anthropic is shooting the lights out right now. This is like Steph Curry going bananas from everywhere on the court.",
+        "I think that blackmail study was embarrassing to the level of being a hoax. But I think in this case, I'm going to give them credit.",
+        "We are untying this Gordian knot. It's going to take decades to do it right.",
+        "You have the largest revenue explosion in the history of technology.",
+        "If I was Israel, I would really be concerned that unless I help find an off-ramp quickly, the risk that Israel loses America as a predictably steadfast ally could go down."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "The AI segments deliver concrete numbers, real disagreement (Sacks vs. Chamath on Anthropic's 'theater'), and sharp takes on coding-market economics that matter to anyone tracking AI markets, though the geopolitics and banter are skimmable."
+    },
+    "added_at": "2026-08-10T15:05:07.003722+00:00"
+  },
+  {
     "id": "iKx3gAODybU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
