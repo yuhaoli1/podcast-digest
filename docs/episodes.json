@@ -1,5 +1,53 @@
 [
   {
+    "id": "l6USUAIKJls",
+    "show": "Lex Fridman",
+    "slug": "lex-fridman",
+    "title": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500",
+    "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
+    "published": "2026-08-12T12:57:24+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/l6USUAIKJls/hqdefault.jpg",
+    "summary": {
+      "tldr": "Retired UFC champion Khabib Nurmagomedov talks with Lex Fridman (entirely in Russian) about how Dagestan's harsh mountain environment, tradition, and elite coaching produced dozens of world champions. He breaks down his fanatical training approach, the psychology of staying humble at the top, his father's mentorship, the Conor McGregor fight, and how his Islamic faith anchors his life. The core takeaway: elite performance comes from hunger, sacrifice, and relentless competition, but staying grounded requires a purpose bigger than success itself.",
+      "topics": [
+        {
+          "title": "How Dagestan produces champions",
+          "detail": "Khabib attributes the region's dominance (20+ world champions from a bare-bones gym with one cold shower for 70 people) to extreme competition density, an established amateur-to-pro ladder, deep coaching lineage tracing back to 1950s wrestler Ali Aliyev, and 1,500 years of invasion history (Khazars, Persians, Mongols, Timur, Russian Empire) that made toughness a survival trait. Contrasts this with football, where Dagestan lacks the ecosystem despite loving the sport."
+        },
+        {
+          "title": "Fanatical training and the psychology of winning",
+          "detail": "Khabib trained 4-5 hours daily, often sneaking a third session at the beach at night, driven by hatred of losing rather than love of winning. He argues top-tier success requires being 'a little bit crazy' and cites John Danaher's system as producing champions through a brutal filtering process most people quit."
+        },
+        {
+          "title": "His father's mentorship",
+          "detail": "His father paid him to read and hand-copy the book 'Countries and Peoples' (193 countries), never gave anything for free, made him dig pits to stay busy, and entered him in every combat sport (judo, sambo, grappling, pankration) to build competition experience starting at age 15. Khabib says preparation for his 2018 peak fight really began at 15."
+        },
+        {
+          "title": "The Conor McGregor fight and staying calm",
+          "detail": "Khabib calls it the biggest fight in combat sports, comparing it to Ali-Frazier and Louis-Schmeling as transcending sport into politics/nations. He stayed emotionally controlled throughout, crediting a single phone call of advice from his father ('diamonds are made under great pressure') as worth more than a million supporters."
+        },
+        {
+          "title": "GOAT debate and fellow fighters",
+          "detail": "Praises Fedor Emelianenko (recalls watching him warm up his nose and ears and drink from a thermos at a 2004 Dagestan sambo tournament), Shogun Rua, Georges St-Pierre (who fears every fight), and argues Daniel Cormier is a top-10 all-time fighter overshadowed by his Jon Jones rivalry. Believes Islam Makhachev could break records but worries time is running out in lighter weight classes."
+        },
+        {
+          "title": "Business, football, and faith",
+          "detail": "Credits Dana White's cold separation of business from personal relationships for building the UFC, and praises Joe Rogan as the second-most important figure. Extended football discussion covers the Messi-Ronaldo rivalry (arguing neither reaches their heights without the other), Zidane, and the 2002 Brazil/1998 France teams. Says his Islamic faith and belief in a day of judgment keep success from corrupting him: 'money can stay in your hand but not in your heart.'"
+        }
+      ],
+      "quotes": [
+        "A dog that latches onto that one weak spot always wins. It's the same with a fighter.",
+        "You're under great pressure, and you have a choice. You can break down and give up, or you can get through it all properly, clearly, with dignity.",
+        "We can't even control the basic need to go to the restroom... so what can we actually control in this life?",
+        "If money stays in your hands and not in your heart, that's a good thing. But the moment it gets into a person's heart, it corrupts them.",
+        "Would Messi be Messi without Ronaldo? Would Ronaldo be Ronaldo without Messi?"
+      ],
+      "verdict": "Skip",
+      "verdict_reason": "It's a rich, reflective conversation on sports, discipline, and faith, but offers almost nothing on tech, startups, or markets beyond a brief take on Dana White's business instincts."
+    },
+    "added_at": "2026-08-12T15:00:17.634848+00:00"
+  },
+  {
     "id": "bf461c11-8e10-4124-8c40-f24dab393cf9",
     "show": "All-In",
     "slug": "all-in",
@@ -2150,6 +2198,58 @@
       "verdict_reason": "A disciplined, substantive interview with a likely 2028 contender that yields concrete governance claims and sharp policy positions, though it's more political than tech/markets focused."
     },
     "added_at": "2026-08-11T14:59:59.111930+00:00"
+  },
+  {
+    "id": "65648533-c855-4cfd-92ae-300eebbf0163",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "The Companies Changing Warfare Forever: Palantir & Anduril Execs on Drones, AI & the Future of War",
+    "url": "https://allinchamathjason.libsyn.com/the-state-of-modern-war-palantir-anduril-execs-on-drones-ai-and-the-end-of-traditional-warfare",
+    "published": "2026-04-06T12:51:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/7/a/6/1/7a61a2a17e8bf93316c3140a3186d450/1_Pod_Palantir_Anduril.png",
+    "summary": {
+      "tldr": "Palantir co-founder/Anduril founder Trey Stephens and Palantir exec Shyam Sankar discuss why America's defense industrial base atrophied after the Cold War, how they built next-gen defense companies against a hostile bureaucracy, and what it will take to restore deterrence against China. Core takeaway: the U.S. lost sight that deterrence comes from the factory (regenerable production capacity), not the stockpile, and reindustrialization plus consumable-based procurement is the fix.",
+      "topics": [
+        {
+          "title": "Decline of the U.S. defense industrial base",
+          "detail": "Sankar notes that in 1989 only 6% of major weapons spending went to pure-play defense specialists (94% went to dual-purpose firms like Chrysler, which made the Minuteman ICBM, and Ford, which built satellites until 1990); today that figure is inverted. Ukraine burned through 10 years of production in 10 weeks, exposing that stockpiles, not factories, were mistakenly relied on for deterrence."
+        },
+        {
+          "title": "Readiness gaps vs. China",
+          "detail": "Cited stats: a 10,000-to-1 drone production gap, a 232x shipbuilding disadvantage, and a 2027 Taiwan danger window. Sankar says the U.S. has ~8 days of munitions for a major China conflict vs. ~800 needed, and can't keep shooting $2M interceptors at $20K drones."
+        },
+        {
+          "title": "Anduril's Arsenal factory and business model",
+          "detail": "Anduril is building a 5M sq ft factory campus (Arsenal One) in Columbus, Ohio, designed like a contract manufacturer to pivot between products (Fury, Roadrunner, Barracuda). Unlike primes on cost-plus contracts, Anduril funds R&D privately and sells finished products; it hit $10M revenue in 22 months vs. Palantir's 5 years."
+        },
+        {
+          "title": "How the primes consolidated and why founders matter",
+          "detail": "After the Cold War the DoD told 15 of 51 primes at a 1993 dinner to consolidate, leaving ~5-6. Sankar frames defense as a monopsony that is 'typically wrong,' citing 'heretics and heroes' like Kelly Johnson (Skunk Works), Rickover, and Bob Noyce (who capped government R&D at 4%). Packard's 7-page 5000-series acquisition doc is now 2,000 pages."
+        },
+        {
+          "title": "Venture dynamics and capital discipline",
+          "detail": "Stephens warns of froth (companies wanting seed rounds priced at $20B) and advocates 'raise less at a lower price,' noting Anduril deliberately lowers its revenue multiple each round (Series H down from G) ahead of a medium-term IPO. Both argue defense follows a power law like venture."
+        },
+        {
+          "title": "Ethics, autonomy and the 'surveillance state' critique",
+          "detail": "On Anthropic reportedly refusing Claude for Maven, Stephens argues abstention is itself a moral choice and points to accountability baked into autonomous systems (e.g., CIWS). Sankar rebuts Palantir surveillance claims: 'It'd be like accusing Excel of being a surveillance tool'—Palantir holds no data, and misuse is reportable via agency Inspectors General."
+        },
+        {
+          "title": "Adversarial influence and cultural division",
+          "detail": "Sankar claims the USSR spent ~$7B (2026 dollars) funding Vietnam-era peace movements and that CCP money flows to organizations protesting Palantir. He argues China's strategy isn't just to prosper but for 'America must fall,' citing smuggled agricultural fungus. He calls America's greatest threat 'not homicide, it's suicide'—internal discord and self-loathing."
+        }
+      ],
+      "quotes": [
+        "It was always the factory. It was the ability to generate and regenerate the stockpile.",
+        "You can also raise less at a lower price.",
+        "It'd be like accusing Excel of being a surveillance tool.",
+        "Our greatest threat as a nation is not homicide, it's suicide.",
+        "The words of today are fought with the weapons of yesterday."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "A substantive, insider view of the defense-tech shift with concrete history and numbers, though it's largely one-sided advocacy from two aligned executives with little pushback."
+    },
+    "added_at": "2026-08-12T14:59:50.290444+00:00"
   },
   {
     "id": "vif8NQcjVf0",
