@@ -1,5 +1,53 @@
 [
   {
+    "id": "2d3f7c13-7a54-434d-8136-5c13aeca9ca1",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Rahm Emanuel: Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats",
+    "url": "https://allinchamathjason.libsyn.com/rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats",
+    "published": "2026-08-13T02:10:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/c/7/8/3/c783805001ad85e616c3140a3186d450/1_Pod_Rahm.png",
+    "summary": {
+      "tldr": "Rahm Emanuel, a possible 2028 presidential contender, lays out a moderate Democratic worldview on foreign policy, China, immigration, education, and fiscal policy. His central argument: rather than Trump's unilateral tariffs and 'punching down' at allies, the US should build an economic bloc (Japan, Korea, Taiwan, EU, Australia, Latin America) to isolate China, while fixing education, immigration and the tax code at home. He repeatedly clashes with David Friedberg over whether Europe's decline stems from 'leftist' policy and whether government spending drives up costs.",
+      "topics": [
+        {
+          "title": "China strategy: build a bloc, not tariffs",
+          "detail": "Emanuel argues China's biggest export is 'domestic economic dysfunction'—dumping subsidized manufacturing (autos exporting more while profits down 20%) so other countries become dependent then dispensable (the soybean example: China cut US soybeans and turned to Brazil/Argentina). He wants an economic bloc of Japan, Korea, Taiwan, EU, Australia and Latin America to 'isolate the isolator,' criticizing Trump for attacking Brazil and other middle powers."
+        },
+        {
+          "title": "Taiwan and the Indo-Pacific are under threat now, not 2027",
+          "detail": "He identifies three Chinese options—economic quarantine, 96-hour invasion, or seizing small offshore islands—and says the US must show a war would take '96 days,' not 96 hours. He argues the Iran war distracted the White House ('a one-ball juggler'), letting China escalate around the Senkakus, the Philippines (post-2016 court ruling), and firing a live submarine missile near Australia."
+        },
+        {
+          "title": "NIH cuts as 'unilateral disarmament'",
+          "detail": "Emanuel blasts Trump's repeated proposed 40% NIH cuts (Republicans settling at 15%), citing a pancreatic cancer drug from NIH funding. He notes China invested massively in life sciences post-COVID and is now 'peripassuse' with the US, and that Chinese leaders quietly took Pfizer/Moderna over their own 60%-efficacy vaccine."
+        },
+        {
+          "title": "Immigration: pass the Dignity Act",
+          "detail": "Claiming to be 'the last optimist' on a legislative deal, he endorses the bipartisan Dignity Act (23 R, 23 D). He cites Canada and Denmark's point systems as better models than Japan's (98% homogeneous, only 3.7M immigrants), and attacks his own party's 2020 stance of offering healthcare to people who crossed illegally as 'foolish.'"
+        },
+        {
+          "title": "Education overhaul and the Friedberg clash on costs",
+          "detail": "He touts raising Chicago graduation rates from 56% to 83%, free pre-K/kindergarten, requiring every graduate to show an acceptance letter (college, military, or vocational), and 3-year BAs. He proposes letting universities admit up to 20% full-paying foreign students to subsidize costs. Friedberg counters that federal student loans fuel administrative bloat (10% to 60% of staff); Emanuel retorts kids 'drop out of college in third grade' when 50% can't read at grade level."
+        },
+        {
+          "title": "Fiscal policy and the DSA repudiation",
+          "detail": "On the $38T debt and ~$2T annual interest, Emanuel proposes a tax code rewarding wealth creation over preservation (attacking step-up basis), a 10% levy on prediction markets/online gaming for research, a higher minimum wage plus robust EITC, and a five-year spending cap. He forcefully disowns the Democratic Socialists of America as 'a separate party'—'I'll see you in November'—and calls Trump an existential crisis."
+        }
+      ],
+      "quotes": [
+        "The largest export is not autos electronics. It's the domestic economic dysfunction of China.",
+        "This president punches down and kisses up... He is nothing but a bully and nobody's buying it anymore.",
+        "China wants everybody dependent on China and then independent of you. That is their theory of the case.",
+        "They drop out of college in third grade, David... When you have 50% of your kids not reading at grade level, college cost is not your problem.",
+        "You are the Democratic Socialists of America. I'll see you in November on the ballot. You are not a Democrat."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "A substantive, combative interview with specific policy proposals and sharp China/Indo-Pacific analysis, though the tech/markets angle is secondary to broad political and geopolitical debate."
+    },
+    "added_at": "2026-08-13T14:59:58.203503+00:00"
+  },
+  {
     "id": "l6USUAIKJls",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
