@@ -2300,6 +2300,53 @@
     "added_at": "2026-08-12T14:59:50.290444+00:00"
   },
   {
+    "id": "15b1f9d0-8884-4bd5-8a9d-2ae0e32c0f29",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "SpaceX IPO, Iran War Fallout, Quantum Bitcoin Hack, The Space Opportunity",
+    "url": "https://allinchamathjason.libsyn.com/spacex-ipo-iran-war-fallout-quantum-bitcoin-hack-the-space-opportunity",
+    "published": "2026-04-03T21:08:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/4/c/6/4/4c64b40f4b8c6d6616c3140a3186d450/1_Pod_E267.png",
+    "summary": {
+      "tldr": "The trio (Sacks absent) breaks down SpaceX's confidential IPO filing at a claimed $1.75T valuation, arguing it will validate a market-based mark that enables an eventual Tesla-SpaceX merger. They pivot to a big-picture case for lunar industrialization via robots and mass drivers, then get sober on IPO oversupply risk, the Iran war's fallout (especially a fertilizer/food supply crisis via the Strait of Hormuz), and a warning that quantum computing could break Bitcoin's encryption within 5-7 years. Core takeaway: the AI/AGI pricing question and Middle East capital tightening are the real overhangs on the coming IPO wave.",
+      "topics": [
+        {
+          "title": "SpaceX IPO and Tesla merger thesis",
+          "detail": "SpaceX filed confidentially April 1, targeting a $1.75T valuation and a record ~$75B raise, expected June. Chamath puts the odds of an eventual Tesla-SpaceX merger at '99.999%,' arguing a public mark-to-market valuation would simplify Elon's governance and quiet shareholder lawsuits (referencing the trial-lawyer exploitation of Elon's Tesla comp package). Cited figures: Starlink ~$20B/yr (50-80% of revenue), launch ~$5B in 2024, total 2025 revenue $15-16B with $8B profit."
+        },
+        {
+          "title": "Lunar industrialization and the 'railroads to space'",
+          "detail": "Freeberg argues the moon is the next industrial frontier: mass drivers using ~500 sq meters of solar could ship one ton of material every 10-15 minutes to Earth cheaper than any terrestrial method, with moon rock as a reentry heat shield. He frames robotics + autonomy + cheap launch as the intersection enabling this, with SpaceX as the 'railroad' and Starlink as a 'backup internet.' Chamath predicts a full 'FedEx of space,' garbage collection, and power generation ecosystem."
+        },
+        {
+          "title": "IPO wave oversupply and the AGI pricing problem",
+          "detail": "Chamath argues being first (SpaceX) is best because appetite runs out—trillions of new supply can't be absorbed. He frames the central risk as binary: if AGI is real, most software moats collapse; if not, the hundred-billion-dollar raises are unjustified—'both cannot be right.' Cites OpenAI secondaries failing to find buyers at $850B (35x sales) and Anthropic secondary bids at $600B; predicts tech P/E will converge down toward non-tech P/E once these three go public."
+        },
+        {
+          "title": "Iran war fallout and Middle East capital",
+          "detail": "Day 34, ~$70B spent at $2B/day, 13 US service members dead, 50,000 troops deployed; Trump's net approval at -17. Chamath warns Middle East sovereigns (UAE, Saudi, Qatar) are the key future financing partners and need a quick war end to monetize energy assets—their pullback in LP/primary/secondary commitments could hit mega-funds. Jason predicts a fast Trump pivot and blames Bondi, Noem, Miller, and Patel for the presidency's decline."
+        },
+        {
+          "title": "Fertilizer and food supply crisis",
+          "detail": "Freeberg: ~35% of the world's nitrogen fertilizer flows through the Strait of Hormuz; urea spiked from ~$350/ton to over $700. China cut fertilizer exports and stopped buying US corn, squeezing American farmers (need ~200 lbs urea/acre for corn). Damaged Qatar facilities take 3-5 years to fix, new ones ~7 years; he warns of malnourishment echoing the 400M affected post-Ukraine, plus a helium supply shock affecting MRIs and semiconductors."
+        },
+        {
+          "title": "Quantum threat to Bitcoin",
+          "detail": "Chamath warns a functional quantum chip may be 5-7 years out, making crypto the most obvious 'honeypot'—a non-state actor would drain wallets first, then announce encryption is broken to crash prices. Freeberg cites Shor's Algorithm (1994) and Regev's 2023 improvement cutting operations from ~28M to ~500,000. Parallel to the AGI debate: 'if quantum is real, a bunch of these projects are not what we thought they were.'"
+        }
+      ],
+      "quotes": [
+        "If AGI is real, the durability of most companies is slim to none. If AGI is not real, then the fundraising capacity of these companies... needs to get questioned. Both cannot be right.",
+        "I would just tell the crypto community, you have five to seven years to get your sh** in order.",
+        "It will cost less to move manufactured goods from the moon to a specific point on Earth than to ship it using any other terrestrial conventional method.",
+        "China is using this as a moment for extraordinary leverage over America... shutting down exports of their fertilizer and not buying American production of corn."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Strong, specific analysis on IPO supply dynamics, the AGI/quantum pricing dilemma, and an under-covered fertilizer/food crisis outweigh the lengthy space speculation and self-indulgent closing banter."
+    },
+    "added_at": "2026-08-14T14:55:07.412475+00:00"
+  },
+  {
     "id": "vif8NQcjVf0",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
