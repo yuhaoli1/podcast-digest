@@ -1,5 +1,52 @@
 [
   {
+    "id": "b9acd3c5-2292-42ed-8fcb-4228ccea6dfd",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback",
+    "url": "https://allinchamathjason.libsyn.com/anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback",
+    "published": "2026-08-14T20:11:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/d/0/5/8/d05879b603142d78d959afa2a1bf1c87/1_Pod_E285.png",
+    "summary": {
+      "tldr": "The All-In crew (with guest Gavin Baker and David Sacks) dissect the AI capital cycle: Anthropic's rumored $2T IPO and unprecedented revenue ramp, the open-vs-closed AI debate sparked by Zuckerberg's manifesto, Nvidia's $500B compute-financing scheme, and Grok's surprising return to the frontier. The dominant takeaway: the hosts believe AI tokens are already profitable across the value chain, energy/data-center constraints (not demand) are the real bottleneck, and open source plus decentralization will win over the doomer 'centralize control' vision.",
+      "topics": [
+        {
+          "title": "Anthropic's $2T IPO and revenue ramp",
+          "detail": "FT reports Anthropic targeting a ~$2T October IPO (beating SpaceX's $1.75T), with 2025 run rate hitting $100-120B after 10x growth three years running. Baker and Sacks both take the 'under' on $1T for 2026 but expect ~$400-500B exit ARR; Baker says a source claims Dario mused Anthropic could be 'the only private company in the world,' which the hosts call hubristic ('short Dario')."
+        },
+        {
+          "title": "Zuckerberg's open-source AI manifesto",
+          "detail": "Zuck's 6,500-word essay argues AI is 'too dangerous to centralize' rather than too dangerous to distribute, taking shots at effective-altruist doomers. Baker frames the divide as Anthropic/EAs (distribution too dangerous) vs. Zuck/Elon/Jensen (centralization too dangerous). J-Cal flags Zuck's hypocrisy: his 'learn from anything you can observe' distillation stance clashes with Meta suing startups for indexing its social graph."
+        },
+        {
+          "title": "Energy and data-center constraints, not demand",
+          "detail": "Sacks and Baker argue demand for tokens is nearly unlimited (25-65T of knowledge work TAM) and the real constraint is energy—turbine plants running 24-hour shifts, jet engines being stripped for data-center power, Texas requiring energy audits. They call the data-center water/electricity 'panic' a media hoax, citing Ellendale, ND as a town revitalized 10x on tax revenue."
+        },
+        {
+          "title": "Nvidia's $500B compute financing",
+          "detail": "Nvidia is partnering with Goldman, BlackRock, KKR, Apollo, Blackstone to make GPUs a financeable asset class, acting as matchmaker with residual-value guarantees (bearing ~25% of risk) plus revenue share above a floor. Sacks calls Nvidia 'the central bank of AI'; Baker cites Amperes (2020) still renting profitably through 2029. Main risk named: a compute glut / 'dark GPUs' akin to dark fiber."
+        },
+        {
+          "title": "Grok's comeback to the frontier",
+          "detail": "Grok 4.6 is now Pareto-dominant on cursor/Datdatabricks benchmarks—frontier-quality at far lower cost—forcing Baker to revise his prior 'duopoly' (Anthropic/OpenAI) view. Credited to Elon acquiring the Cursor team and installing SpaceX 'ACES' at xAI in six months; Grok 4.7 (larger than 1.5T params) coming in weeks."
+        },
+        {
+          "title": "Amazon DSP lawsuits and the socialism debate",
+          "detail": "NJ AG and NYC Mayor-elect Mamdani are targeting Amazon's delivery-service-partner subcontractor model as liability-shielding exploitation. J-Cal argues Amazon should proactively hire drivers ('25 cents per delivery') to blunt socialism's appeal; Sacks counters it would add ~$5.20/package and $664/household/year and risk 5,000 jobs, favoring freedom of contract."
+        }
+      ],
+      "quotes": [
+        "Anthropic and people in the effect of altruism movement believe that this technology is too dangerous to distribute. And what Mark Zuckerberg and I think Elon and Jensen believe is that this technology is too dangerous to centralize.",
+        "I would certainly discourage Dario from saying that ever again to anyone... Pride cometh before the fall.",
+        "In some ways, Nvidia is kind of becoming the central bank of AI, the Federal Reserve of AI.",
+        "When I listen to these macro and value investors talk about AI... they're making an assumption that tokens are subsidized... they're just wrong. The overwhelming majority of tokens are profitable for everyone in the chain."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Substantive, numbers-heavy takes on the AI capital cycle, Anthropic's economics, and Nvidia's financing—valuable for investors, though heavily talking-their-book (SpaceX/Grok) and padded with tangents."
+    },
+    "added_at": "2026-08-15T14:27:58.572266+00:00"
+  },
+  {
     "id": "2d3f7c13-7a54-434d-8136-5c13aeca9ca1",
     "show": "All-In",
     "slug": "all-in",
