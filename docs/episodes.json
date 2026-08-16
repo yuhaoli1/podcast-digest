@@ -2394,6 +2394,58 @@
     "added_at": "2026-08-14T14:55:07.412475+00:00"
   },
   {
+    "id": "4a43da89-9d1a-4b9e-9304-aa9ab4a1ee97",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits",
+    "url": "https://allinchamathjason.libsyn.com/anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits",
+    "published": "2026-03-27T20:03:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/9/7/9/6/979607b459154e0b16c3140a3186d450/1_Pod_E266.png",
+    "summary": {
+      "tldr": "The All-In crew (with David Sacks back and now co-chairing Trump's PCAST) break down Anthropic's rapid enterprise ascent, whether OpenAI is panicking, how AI 'super intelligence' expectations are re-rating public markets, and two jury verdicts against Meta. The strongest thread: the hosts argue Anthropic and OpenAI aren't really competing head-to-head (enterprise API vs. consumer subscriptions) and that the real open question for all valuations is whether super intelligence makes every business's cash flows fragile.",
+      "topics": [
+        {
+          "title": "Anthropic's enterprise run",
+          "detail": "Chamath and Sacks credit Anthropic's bet on coding as the gateway into enterprise IT budgets, citing $6B in annualized run-rate reportedly added in February alone and new products like Claude Code work and a 'computer use' agent. Sacks reiterates his objection to Anthropic's 'regulatory capture' push for a Washington permissioning regime on chips and models, while praising the technical team as 'head and shoulders above anything else.'"
+        },
+        {
+          "title": "OpenAI vs Anthropic is apples-to-oranges",
+          "detail": "Chamath argues the media is manufacturing drama: OpenAI is ~75% consumer subscriptions / 25% API with conservative revenue recognition, while Anthropic is the reverse and recognizes 'gross tonnage.' Normalized, he says OpenAI is still the overwhelming revenue leader with Anthropic catching up. He also notes OpenAI shut down the Sora app, killing a ~$1B Disney investment and licensing deal, and is pivoting toward enterprise."
+        },
+        {
+          "title": "Consumer AI: free vs paid",
+          "detail": "J-Cal predicts consumer queries go free as Apple, Google, Meta and Microsoft compete, eroding ChatGPT's ~50M paying subs (~5% of ~1B users). Freeberg disagrees, comparing to Spotify (290M) and Netflix (325M) subscribers and calling AI potentially the most valuable consumer service ever. Sacks likes B2B better (sticky, >100% net dollar retention) and expects ad-supported models to make a comeback."
+        },
+        {
+          "title": "Super intelligence and market re-rating",
+          "detail": "Chamath frames the core investing question: if super intelligence disrupts every business every 5-6 years, 'what is anything worth?' He shows SaaS names (Snowflake once ~100 years of free cash flow to pay back) getting cut while MAG7 like Apple, Microsoft, Meta, Alphabet are treated as monopolistically durable—yet Nvidia trades cheaply despite $200B in earnings. Chamath bets brands go to zero except luxury; value/abundance wins (Tesla, BYD)."
+        },
+        {
+          "title": "AI killing the app UI",
+          "detail": "Sacks and Chamath argue agents could disrupt the phone OS itself—'strangulation as a service'—where users just tell an agent to book an Uber or pay via Venmo, bypassing the wall of apps. Google is well-positioned since it already holds users' email, calendar and docs, lowering the trust barrier for an agent."
+        },
+        {
+          "title": "Meta loses two jury verdicts",
+          "detail": "A New Mexico jury ordered Meta to pay $375M over child predators accessing minors; an LA jury found Meta and YouTube negligent for addictive design, awarding a plaintiff who started using platforms at age 6. Freeberg attacks the $900B/year tort industry and stresses personal/parental responsibility; Sacks warns trial lawyers want to turn Meta into 'big tobacco'; Chamath notes plaintiffs found a way around Section 230 via product-liability framing, predicting 'death by 1,000 cuts.'"
+        },
+        {
+          "title": "Sacks and Freeberg join PCAST",
+          "detail": "Sacks is now co-chairing Trump's President's Council of Advisors on Science and Technology alongside Michael Kratzios, retaining his AI advisory role; Freeberg was appointed a member. Named members include Andreessen, Sergey Brin, Michael Dell, Larry Ellison, Jensen Huang, Lisa Su and Zuckerberg. Freeberg cites the China race: 10 years ago China published half as many research papers as the US; last year it published 50% more."
+        }
+      ],
+      "quotes": [
+        "It looks like the generational run for Mac mini is just about over.",
+        "If you have infinite abundance and you have all this creativity, won't all companies be disrupted?",
+        "If I had to bet, I'm going to bet that brands go to zero.",
+        "How did I individually choose to eat a hundred f***ing sodas a week? Where the f*** was I as a parent?",
+        "If my child uses it for two or three hours a day for multiple days in a row, they become retarded."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Genuinely useful framing on how super-intelligence expectations are re-rating public markets plus a clear-eyed debunk of the OpenAI-vs-Anthropic narrative, though it's padded with banter and a familiar Meta-liability debate."
+    },
+    "added_at": "2026-08-16T14:26:05.292312+00:00"
+  },
+  {
     "id": "vif8NQcjVf0",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
