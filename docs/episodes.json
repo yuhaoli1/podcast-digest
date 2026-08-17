@@ -2446,6 +2446,54 @@
     "added_at": "2026-08-16T14:26:05.292312+00:00"
   },
   {
+    "id": "46e387c4-d5e7-420d-9c02-d3677d026824",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Bryan Johnson: I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like",
+    "url": "https://allinchamathjason.libsyn.com/are-psychedelics-the-key-to-living-forever-ft-bryan-johnson",
+    "published": "2026-03-26T00:10:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/d/1/d/5/d1d5cdffc4fde188d959afa2a1bf1c87/1_Pod_BJ.png",
+    "summary": {
+      "tldr": "Bryan Johnson describes taking 5-MeO-DMT (which he calls the most powerful psychedelic, 5-10x stronger than DMT) 48 hours prior, framing it and psilocybin not as recreation but as longevity/brain-rejuvenation experiments he's measuring with MRI, EEG, and Kernel brain imaging. The core takeaway: he believes psychedelics may restore a 'youthful' brain state by dissolving the default mode network, and he outlines a broader pipeline of experimental therapies (mitochondrial transplants, gene therapy, organoids) he's pursuing on himself.",
+      "topics": [
+        {
+          "title": "The 5-MeO-DMT experience",
+          "detail": "Johnson took 9mg intramuscular plus 17-18mg vaporized, hitting within 10 seconds. He describes non-visual 'raw consciousness,' a choice to panic or fully surrender ego, then 'unimaginable bliss.' Claims it 'annihilated' his default mode network more than psilocybin, leaving him feeling childlike—including laughing in his sleep and defusing a conflict with his partner Kate without escalation."
+        },
+        {
+          "title": "Default mode network and neuroplasticity",
+          "detail": "He explains the default mode network as the 'engine that constructs self and ego,' stiffening with age into 'ruts.' Uses an airport/flight-traffic analogy: psychedelics reposition connections, driving neuroplasticity. Says Kernel imaging showed his brain's connectivity patterns rewired after psilocybin."
+        },
+        {
+          "title": "Psilocybin as longevity therapy",
+          "detail": "Ran what he calls the most-quantified psilocybin experiment: three 25mg doses (near a hero dose). Claims it reset his blood glucose from top 99.5 to 99.9 percentile, changed his microbiome, and reduced inflammation—a 'first in human' metabolic reset observation building on mouse data."
+        },
+        {
+          "title": "Risks and behavioral fallout",
+          "detail": "Acknowledges psychedelics can trigger psychosis or schizophrenia in predisposed people and cause lasting bad trips, attributing much risk to unquantified doses and poor 'set and setting.' Notes founders who take ayahuasca and abandon companies/families; says one investor writes psychedelic bans into deal docs to avoid 'losing the founder.'"
+        },
+        {
+          "title": "Longevity pipeline beyond psychedelics",
+          "detail": "Plans a mitochondrial transplant (sourcing young mitochondria from a sister's child via maternal line), FOXO3-expressing plasmid/mesenchymal stem-cell gene therapy (reached out to the Chinese author of the paper), and 'Bryan Johnson organoids' grown from his iPSCs to test drugs in-dish. He's an investor in New Limit (Blake Byers/Brian Armstrong) working on reprogramming factors."
+        },
+        {
+          "title": "Abundance, health and society",
+          "detail": "Cites 84% of Americans having metabolic disorder and 40% obese, arguing poor health drives societal malaise and external conflict. Predicts GLP-1s were the 'first big drop,' followed by plasmid/FOXO3 therapies, shifting longevity from sci-fi rich-person pursuit to mainstream abundance."
+        }
+      ],
+      "quotes": [
+        "This is without question the most dynamic experience I've ever experienced as a human.",
+        "This thing just annihilated my default mode network. Turned it off completely.",
+        "One investor told me that he even put it in the deal docs that if we invest, you're not going to do these psychedelics.",
+        "If you go down in the mother's line... if you have a sister who has a kid, they're going to have very young mitochondria... it's a family project.",
+        "A lot of the external conflict only comes from internal unhappiness."
+      ],
+      "verdict": "Skim-worthy",
+      "verdict_reason": "Rich on frontier biotech name-drops and self-experimentation details relevant to health-tech investors, but the psychedelic claims are anecdotal (n=1, no data yet) and the framing is heavily self-promotional rather than analytically rigorous."
+    },
+    "added_at": "2026-08-17T14:27:13.867280+00:00"
+  },
+  {
     "id": "vif8NQcjVf0",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
