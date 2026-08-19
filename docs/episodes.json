@@ -2541,6 +2541,53 @@
     "added_at": "2026-08-17T14:27:13.867280+00:00"
   },
   {
+    "id": "d11608c8-9fb6-4efc-9917-36ead826d1f1",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
+    "url": "https://allinchamathjason.libsyn.com/four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren",
+    "published": "2026-03-23T18:07:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/e/a/2/d/ea2def1e26c2756716c3140a3186d450/1_Pod_BASIC.png",
+    "summary": {
+      "tldr": "Jason Calacanis interviews four AI infrastructure and application CEOs at NVIDIA's GTC conference: CoreWeave's Michael Intrator, Perplexity's Aravind Srinivas, Mistral's Arthur Mensch, and IREN's Daniel Roberts. The through-line is that demand for AI compute massively outstrips supply, GPUs retain value far longer than skeptics claim, and the constraints have shifted from chips to power, memory, and time-to-compute. Each CEO defends their niche—CoreWeave's debt-financing model, Perplexity's model-agnostic orchestration, Mistral's open/verticalized enterprise models, and IREN's renewable-powered data centers.",
+      "topics": [
+        {
+          "title": "CoreWeave's origins and GPU depreciation debate",
+          "detail": "Intrator explains CoreWeave started in 2017 as a crypto miner run out of his natural gas hedge fund, progressing through CGI rendering and medical research before landing inflection and hyperscalers as clients. He calls the GPU depreciation short thesis (16-18 month obsolescence, referencing Michael Burry) 'nonsense,' noting average contracts are five years, CoreWeave uses six-year depreciation, and A100/Ampere prices actually appreciated through the year."
+        },
+        {
+          "title": "CoreWeave's 'box' financing model",
+          "detail": "Intrator details how CoreWeave puts a client contract (e.g. Microsoft), the GPUs, and data center contract into a discrete SPV 'box' governing cash flow via a waterfall. This let the company raise $35 billion in 18 months, pay off principal and interest within 2.5 years of a 5-year deal, and drop its cost of capital by 600 basis points toward hyperscaler levels. He also flags memory as the current supply throttle due to fab under-investment in 2023."
+        },
+        {
+          "title": "Perplexity's orchestration strategy and products",
+          "detail": "Srinivas frames Perplexity as 'Switzerland'—a model-agnostic orchestrator (GPT, Claude, Gemini, Llama, Kimi, Qwen) whose edge is accuracy and a 'harness.' He describes the evolution from ask → Comet browser → Perplexity Computer, plus 'personal computer' syncing to a local Mac Mini for privacy. Claims tens of millions of monthly consumer users, thousands of enterprise customers (faster-growing than consumer), positive gross margins on all revenue but not yet company-wide profitability, and $100M+ saved for enterprise max ($400/month) customers."
+        },
+        {
+          "title": "Mistral's open-source and verticalized enterprise play",
+          "detail": "Mensch announces training next-gen frontier models with NVIDIA and describes Mistral's Forge product for specializing open models per vertical (finance, physics, manufacturing). Notes 25% of business and 25% of researchers are US-based, emphasizes data segregation via portable platform deployed on customer infrastructure, and sending PhD forward-deployment engineers to transfer knowledge with subject-matter experts. He argues synthetic data works for 'warming up' and compressing large models into smaller ones but human signal remains essential."
+        },
+        {
+          "title": "IREN's power-first, renewable data center model",
+          "detail": "Roberts explains IREN (started ~8 years ago in Sydney as a Bitcoin miner) is swapping BTC for AI chips, holding 4.5 gigawatts of power—nearly the Bay Area's annual usage. Signed a $9.7B Microsoft contract that represents only 5% of capacity. Uses 100% renewables (BC hydro, West Texas wind/solar), locating at cheap excess power sources with utilities absorbing variability. Says there are 'no idle GPUs in the world' and the constraint is now 'time to compute' and tradespeople, with data center trades salaries rising."
+        },
+        {
+          "title": "Jevons paradox and induced demand for compute",
+          "detail": "Multiple guests invoke Jevons paradox: cheaper, faster tokens (Sarah Friar cited that a million tokens fell from $32 to 9 cents since GPT-3) will drive more usage, not less. Roberts argues that 10x-ing compute so image generation drops to 5-10 seconds would massively increase image generation, comparing it to induced traffic from adding highway lanes."
+        }
+      ],
+      "quotes": [
+        "My take on the GPU depreciation debate is that it's nonsense... they're buying it for five years. My approach has always been if people are willing to pay me for it, it still has value.",
+        "We take my contract with Microsoft and put it in the box... they pay the box. They don't pay me. Within two and a half years of a five year deal, we have paid for everything.",
+        "We're like Switzerland. We don't have to have one horse in the race. If GPT wins, Gemini wins, Claude wins, Llama wins, it doesn't matter to us.",
+        "There are no idle GPUs in the world sitting in a data center."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Four substantive, insider-level interviews with real numbers and clear defenses of distinct AI infrastructure business models make it valuable for tech/VC readers, though the friendly softball format and heavy product boosterism limit its critical depth."
+    },
+    "added_at": "2026-08-19T14:38:35.983988+00:00"
+  },
+  {
     "id": "vif8NQcjVf0",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
