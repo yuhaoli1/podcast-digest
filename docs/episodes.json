@@ -2638,6 +2638,57 @@
     "added_at": "2026-07-01T20:28:42.621598+00:00"
   },
   {
+    "id": "68a689ad-9d04-4a49-95eb-aaa47a714117",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "How Matt Mahan Thinks He Can Save California",
+    "url": "https://allinchamathjason.libsyn.com/how-matt-mahan-thinks-he-can-save-california",
+    "published": "2026-03-23T01:03:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/6/b/8/8/6b88af06c8af4151d959afa2a1bf1c87/1_Pod_Mahan.png",
+    "summary": {
+      "tldr": "San Jose Mayor Matt Mahan, a pragmatic Democrat running for California governor, makes his case to a tech/VC audience that the state has an incentives problem, not a money problem. He argues California increased spending 75% (about $150B more) over six years with flat or worse outcomes, and pitches deregulation, accountability dashboards, and a moderate 'third way' between right- and left-wing populism.",
+      "topics": [
+        {
+          "title": "Spending up 75%, outcomes flat",
+          "detail": "Mahan claims state spending rose 75% (~$150B) over six years while the population stayed flat and headcount grew ~20%. He cites Gavin Newsom's proposed $349B budget (up from ~$209B pre-COVID and ~$110B a decade ago) with a $35B deficit, and calls for zero-based budgeting. He blames waste and misaligned incentives more than outright fraud, though he cites $30B+ in fraudulent pandemic unemployment claims."
+        },
+        {
+          "title": "Why California can't build",
+          "detail": "Mahan blames CEQA litigation (anyone, even non-residents, can sue), construction-defect liability that kills condo building, and city fees adding ~20% to project costs. On high-speed rail he says 20 years and $14B produced no product, money vacuumed up by consultants, environmental reviews, lawyers, and right-of-way. He claims modular construction can cut per-unit cost 20% and timelines 50%, and regulators could cut per-square-foot cost by a third."
+        },
+        {
+          "title": "Housing as a supply/regulation crisis",
+          "detail": "He calls it fundamentally a supply problem, citing Austin and Seattle as models. Silicon Valley created ~8 jobs per new home over 20 years vs. a sustainable 2:1 ratio; production fell from 150K to ~80K units/year. He wants to get back above 100K units annually."
+        },
+        {
+          "title": "Homelessness and involuntary treatment",
+          "detail": "California has ~40% of the nation's unsheltered homeless with ~12% of the population; ~50,000 died on streets over a decade, roughly half from overdose/suicide. He supported Prop 36 (treatment-vs-incarceration on third public drug offense) as the first Democratic mayor to do so, backs involuntary holds, and touts San Jose's $85K sleeping cabins vs. $1M-per-door apartments, cutting unsheltered homelessness by a third."
+        },
+        {
+          "title": "Energy, gas tax, and insurance",
+          "detail": "California gas is ~$5.50 vs ~$3.50 nationally with a ~$0.70/gallon tax; he'd temporarily suspend the gas tax and criticizes regulating refineries (Chevron leaving for Houston) out of state while still importing dirtier fuel. On insurance he opposes state-set rates, wants risk-based granular pricing, and notes the state spends $8 on fire response for every $1 on prevention."
+        },
+        {
+          "title": "Wealth tax, pensions, and mobility",
+          "detail": "He opposes the billionaire/wealth tax, claiming it would drive capital flight (cites $1T already left) and ultimately hit working families, but supports closing loopholes like step-up in basis and borrowing against appreciated assets. On CalPERS/CalSTRS underfunding, he points to San Jose's pension reform: new-tier defined-benefit changes with 50/50 shared downside and a 20-year glide path clearing debt by the early 2040s. San Jose spends 19% (1 in 5 dollars) of its general fund on unfunded pension liability."
+        },
+        {
+          "title": "Trump, immigration, and Newsom",
+          "detail": "Mahan is critical of Trump but agrees on targeted China tariffs; he opposes the Iran war. On immigration he backs a 'grand bargain': secure the border, deport violent offenders, and a pathway to legal status (possibly without voting rights) for long-settled undocumented residents. He credits Newsom's vetoes but faults him for not confronting Sacramento's entrenched interests."
+        }
+      ],
+      "quotes": [
+        "We don't have a money problem in Sacramento. We have an incentives problem.",
+        "If a startup took 20 years, spent $14 billion and didn't deliver a product, people would have been fired a long time ago.",
+        "When asked what his top three priorities... Eric Swalwell said revenue, revenue, revenue. To me, that is a mindset that doesn't get what has broken down in the state.",
+        "Sacramento is working great for highly organized interests. It is not working great for regular people."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "A substantive, numbers-heavy interview with a candidate offering a contrarian pro-market Democratic diagnosis of California's dysfunction that's directly relevant to anyone with business, real estate, or tax exposure in the state, though much of it is campaign framing rather than proven results."
+    },
+    "added_at": "2026-08-20T14:39:06.442434+00:00"
+  },
+  {
     "id": "H9rF1CSSh-w",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
