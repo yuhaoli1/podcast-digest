@@ -1,5 +1,57 @@
 [
   {
+    "id": "688c4809-9cf4-4d77-b5d7-482ee43e7ccc",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",
+    "url": "https://allinchamathjason.libsyn.com/dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up",
+    "published": "2026-08-21T14:14:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/f/9/8/7/f9872058ce451cf0d959afa2a1bf1c87/signal-2026-08-21-10-19-27-715.png",
+    "summary": {
+      "tldr": "The All-In crew spends most of the episode on Dario Amodei's public defense of Anthropic and its regulatory agenda, with Sacks arguing Anthropic engineered AI fear to pursue regulatory capture. They connect AI 'doomerism' to a growing political backlash against data centers, rising bond yields threatening AI financing, and a broader affordability-driven turn toward socialism. Key takeaway: the panel believes American self-imposed AI regulation and anti-data-center sentiment risk handing the lead to China, while unaffordability is fueling a socialist wave they expect to peak by 2028.",
+      "topics": [
+        {
+          "title": "Dario's rebuttal and the regulatory capture charge",
+          "detail": "Dario Amodei published a two-part essay responding not to Sacks' long-running critiques but to Gavin Baker's claim that some inside Anthropic believe they'll be 'the only private company in the world.' Sacks argues Anthropic ran a 'sophisticated regulatory capture scheme based on fear mongering,' citing Dario's claim that 50% of entry-level knowledge workers could lose jobs within 1-5 years (retweeted by Obama) and the 'blackmail study' the UK AI Safety Institute called highly contrived."
+        },
+        {
+          "title": "Data center backlash and financing risk",
+          "detail": "Chamath flags Governors Abbott (TX) and Shapiro (PA) issuing executive orders limiting data center growth, plus an Axios-reported GOP memo telling AI execs to stop rage-baiting over a tight Ohio Senate race. He ties rising 30-year yields (5.3%, Treasury doubling bond buying) to constrained risk capital, leaving non-investment-grade frontier labs most exposed."
+        },
+        {
+          "title": "SRO vs. FINRA/FDA regulatory models",
+          "detail": "Sacks distinguishes Demis Hassabis's proposed self-regulatory organization from what he calls Dario's 'DMV for AI' — a FINRA/FDA/FAA-style body doing pre-release model testing. He favors an MPAA-style model with no government reporting, warns any codified standard will eventually be used to ban open-source models, and argues China will win via faster regulatory cycles (citing a Chinese steel rocket landing vs. SpaceX awaiting FAA approval)."
+        },
+        {
+          "title": "Open vs. closed models and thinking tokens",
+          "detail": "Chamath argues closed labs like Anthropic and OpenAI obfuscate 'thinking tokens,' making safety claims unverifiable, while open-source models let you see misalignment in real time. He claims open models improve when wrapped in harnesses while closed models decay, and says America wins as long as it doesn't ban open source."
+        },
+        {
+          "title": "Recursive self-improvement as a fool's errand for regulation",
+          "detail": "Friedberg argues RSI (models spinning up agents to build better models) is likely and coming soon, meaning labs won't need a slow one-model-every-six-months approval process. If RSI is real, labs will just set up in Iceland, Kazakhstan, the ocean, or space, so US regulation is a fool's errand — better to attract and retain labs domestically."
+        },
+        {
+          "title": "Affordability, socialism, and the 2026/2028 outlook",
+          "detail": "Chamath predicts an AOC presidency, citing polls that 53% of conservatives under 40 support government-run grocery stores and Republican favorability of capitalism falling from 72% to 61%. He and Friedberg argue government spending in healthcare/housing/education drives inflation; a Cato estimate pegs DSA platform spending at $71T–$212T, far exceeding all corporate profits ($35T) or Forbes 400 wealth ($6.6T)."
+        },
+        {
+          "title": "a16z DOJ probe and quick hits",
+          "detail": "Bloomberg reported Andreessen Horowitz under DOJ investigation under Section 8 of the 1914 Clayton Act over interlocking directorates (Ben Horowitz on Databricks, Martin Casado on Fivetran). The panel dismisses it as likely a jealous competitor's complaint, while noting a16z's recent wins: SpaceX (~$15-17B), Cursor, and OpenRouter (~$600-700M)."
+        }
+      ],
+      "quotes": [
+        "The thing that will work is actually curing cancer, not glitzy marketing.",
+        "He is seeking to capture the machinery of the state on behalf of his political agenda.",
+        "I call it a DMV for AI... all these models are going to get lined up in a queue waiting to get their tests done.",
+        "This is not about mathematical realism, this is about anger towards a class of people that are increasingly odious.",
+        "The data center is the temple where the billionaires and trillionaires pray."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "A substantive, specific debate on AI regulatory capture, open-source risk, and the affordability-to-socialism thread that will interest tech and markets readers, though it's heavy on Sacks' recurring anti-Anthropic monologue and speculation."
+    },
+    "added_at": "2026-08-21T14:38:37.074756+00:00"
+  },
+  {
     "id": "428ae13c-11c4-4412-876b-0559528050e9",
     "show": "All-In",
     "slug": "all-in",
