@@ -2741,6 +2741,54 @@
     "added_at": "2026-08-20T14:39:06.442434+00:00"
   },
   {
+    "id": "b9112fca-9ebf-47e8-a8a1-9bcbcf39cf84",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Jensen Huang LIVE: Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis",
+    "url": "https://allinchamathjason.libsyn.com/jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis",
+    "published": "2026-03-19T20:42:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/5/e/7/0/5e700e85441bf0e216c3140a3186d450/1_Pod_Jensen.png",
+    "summary": {
+      "tldr": "A live All-In interview with Nvidia CEO Jensen Huang covering Nvidia's evolution from a GPU maker to an 'AI factory' company, the explosion of inference and agentic computing, physical AI/robotics, and the industry's PR and regulation problems. The central takeaway: compute demand is scaling toward a 'million x' driven by reasoning and agents, and Nvidia claims it keeps gaining share because customers want full-stack AI infrastructure, not just cheaper chips.",
+      "topics": [
+        {
+          "title": "Disaggregated inference and the Grok/Groq acquisition",
+          "detail": "Huang describes Dynamo, Nvidia's 'AI factory operating system' built on disaggregated inference, and says Nvidia is adding acquired Grok (LPU) processors to roughly 25% of Vera Rubin data center racks. He claims Nvidia went from a one-rack to a five-rack company, expanding its TAM by 33–50%, including storage (Bluefield), CPUs, and networking processors."
+        },
+        {
+          "title": "The inference/compute explosion",
+          "detail": "Huang argues compute went up ~100x from generative to reasoning, another ~100x from reasoning to agentic — a 10,000x jump in two years — and is heading to 'a million x.' He rebuts analysts pricing a $50B Nvidia inference factory against ~$30B ASIC alternatives, saying the $50B factory produces the lowest-cost tokens at 10x throughput, so 'even when the chips are free, it's not cheap enough.'"
+        },
+        {
+          "title": "Agents, tokens, and workforce productivity",
+          "detail": "Huang says a $500K engineer who only spends $5K on tokens would alarm him — he'd expect at least $250K in token consumption. He predicts every engineer will manage ~100 agents, and pushes back on claims enterprise software will die, arguing tools like SQL, Photoshop, and Blender will get '100x more agents banging on them.'"
+        },
+        {
+          "title": "AI PR crisis, doomerism, and Anthropic",
+          "detail": "Huang criticizes fear-based messaging (AI at 17% popularity in the US) and calls doomerism dangerous, warning the US risks losing by being too afraid to adopt AI. On the Anthropic/Department of War controversy, he praises Anthropic's tech but urges more humility and restraint, ranking model usage as OpenAI #1, open source #2, Anthropic 'a very distant third.'"
+        },
+        {
+          "title": "China, Taiwan, and geopolitics",
+          "detail": "Huang notes Nvidia gave up a 95% market share in China (the world's second-largest market) and is now at 0%, but has secured export licenses from Secretary Lutnick and received purchase orders. He warns AI must not become like solar, rare earths, or telecom where the US lost control, and wants the American tech stack to be 90% of the world."
+        },
+        {
+          "title": "Physical AI, robotics, and healthcare",
+          "detail": "Huang says physical AI is a ~$10B/year business growing exponentially, addressing a $50 trillion industry, and predicts humanoid robots 'all over the place' in 3–5 years, with China dominant in the motors/rare-earth supply chain. He calls digital biology near its 'ChatGPT moment' and cites the radiologist example — predicted extinction, but demand actually skyrocketed."
+        }
+      ],
+      "quotes": [
+        "Even when the chips are free, it's not cheap enough.",
+        "If that $500,000 engineer did not consume at least $250,000 with a tokens, I am going to be deeply alarmed.",
+        "We just really evolved from a GPU company to an AI factory company.",
+        "We're the only AI company in the world that works with every AI company in the world. They never show me what they're building and I always show them exactly what I'm building.",
+        "At the current moment as we speak, NVIDIA gave up a 95% market share in the second largest market in the world, and we're at 0%."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Huang lays out concrete claims on inference economics, TAM expansion, and market share that matter for anyone tracking AI infrastructure, though the fawning tone and lack of pushback dilute its analytical value."
+    },
+    "added_at": "2026-08-22T14:22:58.452864+00:00"
+  },
+  {
     "id": "H9rF1CSSh-w",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
