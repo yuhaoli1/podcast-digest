@@ -2836,6 +2836,53 @@
     "added_at": "2026-08-23T14:22:09.253013+00:00"
   },
   {
+    "id": "f622d55b-b318-4f88-acc3-6e4888db8d51",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Travis Kalanick & Michael Dell Live from Austin, Texas",
+    "url": "https://allinchamathjason.libsyn.com/travis-kalanick-michael-dell-live-from-austin-texas",
+    "published": "2026-03-17T04:11:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/0/a/4/e/0a4edf4c234bcad516c3140a3186d450/1_Pod_TKMD-20260317-ys2ryzxzls.png",
+    "summary": {
+      "tldr": "Live from Austin, All-In hosts interview Travis Kalanick, who exits stealth to unveil his company \"Atoms\" (formerly City Storage Systems), applying his \"digitize the physical world\" thesis to food, mining, and robotics. Michael Dell then covers Dell's explosive AI infrastructure growth and, with Brad Gurstner, details the Invest America (\"Trump accounts\") program to which Dell pledged $6.25 billion. Both interviews double as an extended pitch for Texas/Austin over a decaying California.",
+      "topics": [
+        {
+          "title": "Kalanick's new company: Atoms",
+          "detail": "Kalanick renames City Storage Systems to \"Atoms,\" framing an \"atoms-based computer\": manufacturing = CPU, real estate = storage, logistics = network. The company operates cloud kitchens in 30 countries under different local names (Kitchen Valley in Korea, Nama in Middle East) and is expanding into automated mining (acquiring SF-based Pronto, near close) and robot \"wheelbases\" for specialized non-humanoid robots."
+        },
+        {
+          "title": "Self-driving landscape",
+          "detail": "Kalanick says Waymo is clearly ahead as existence proof but hampered by manufacturing, scale, and urgency; Tesla is \"hard mode times a hundred\" on pure vision, with the open question being when the \"ChatGPT moment for vision\" arrives—could be tomorrow or five years. He notes a Waymo uses ~100x more energy to drive than a human."
+        },
+        {
+          "title": "California decline vs. Texas boom",
+          "detail": "Both guests and hosts argue California is \"getting weird\"—citing $400M/mile empty bus lanes on SF's Market Street and progressive DAs (Boudin, Gascón). Kalanick moved to Austin in December. Dell touts Texas's low-tax pro-growth climate: soon 4 of 10 largest US cities, 1 in 10 US births, more NYSE companies than New York."
+        },
+        {
+          "title": "Dell's AI infrastructure growth",
+          "detail": "Dell's AI server business grew from ~$2B to $10B to $25B to roughly $50B this year; infrastructure grew 73% last quarter with ~100% guided next. Dell shipped its first H100 server weeks before ChatGPT launched. He claims 4,000+ enterprises run \"Dell AI factories\" and sees real 20%+ ROIC use cases, aided by 100% accelerated depreciation write-offs over 10 years."
+        },
+        {
+          "title": "AI disruption and enterprise reinvention",
+          "detail": "Dell says only 10-15% of large companies have figured out AI; the barrier is \"culture, leadership and courage,\" not technology. He told his team three years ago they'd face a faster, cheaper AI-native competitor in five years and must become that company. Stripe's Collison brothers report 2025-cohort startups grow ~4x faster than 2018 companies."
+        },
+        {
+          "title": "Invest America / Trump accounts",
+          "detail": "Dell and Susan Dell pledged $6.25 billion—$250 each to 25 million children aged 2-10 in zip codes with median income under $150K. Brad Gurstner explains the program creates an account for every US child born from Jan 1, 2027, with $1,000 seed; ~4.5M kids claimed accounts by July 4, ~100K signing up daily, projected to move $5 trillion into families over 15 years. Sacks floats using it as a Social Security replacement."
+        }
+      ],
+      "quotes": [
+        "\"CPU manipulates a bit... What manipulates atoms? Manufacturing. Storage stores bits. What stores atoms? Real estate. Network moves bits... That's transportation or logistics.\"",
+        "\"They literally took Market Street, and they're like, what would be the optimal way to f*** this up and virtue signal at the same time? And they're like, yeah, buses.\"",
+        "\"We had a new competitor five years from now... they were going to put us out of business. And the only way we were going to prevent that is we're going to become that company.\"",
+        "\"The barrier to technology adoption is not technology. It's culture and leadership and courage.\""
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Kalanick's atoms-computer framing and Dell's concrete AI-infrastructure numbers offer genuine substance, though much of the episode is Texas boosterism and a promotional segment for Invest America."
+    },
+    "added_at": "2026-08-24T14:42:59.031574+00:00"
+  },
+  {
     "id": "H9rF1CSSh-w",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
