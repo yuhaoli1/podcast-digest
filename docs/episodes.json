@@ -1,5 +1,52 @@
 [
   {
+    "id": "64b534f7-b272-4bb8-9238-96055f4fa858",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China",
+    "url": "https://allinchamathjason.libsyn.com/michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china",
+    "published": "2026-08-24T23:19:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/4/1/d/1/41d1959f3cb1ee5416c3140a3186d450/signal-2026-08-24-18-31-43-853.jpg",
+    "summary": {
+      "tldr": "Jason Calacanis interviews Michael Kratsios, head of the White House Office of Science and Technology Policy, about the Trump administration's science agenda laid out in its 'Science in a New Golden Age' report. Kratsios defends the administration against anti-science accusations, argues US science has stagnated despite rising budgets, blames Fauci and DEI mandates for politicizing science, and outlines plans to reallocate funding toward high-risk research, big moonshot projects, and China competition. The core takeaway: the administration wants to shift how (not just how much) the ~$200B in annual federal S&T funding is spent, rewarding individual scientists and bold ideas over institutional business-as-usual.",
+      "topics": [
+        {
+          "title": "Is the administration anti-science?",
+          "detail": "Kratsios cites a Nature poll where 86% of scientists backed Kamala Harris vs 6% for Trump, and argues the scientific community 'lost its way' and became dogmatic, peaking during COVID when disagreeing with 'a certain individual' made you 'anti-science.'"
+        },
+        {
+          "title": "DEI and grant cuts",
+          "detail": "He claims Ted Cruz's committee found ~25% of NSF grants under Biden went to 'DEI-related science'—roughly $2B/year, $8B over four years. The administration froze/terminated $3B in unspent active-grant funds in 2025. He also notes NSF programs supporting gifted STEM high schoolers were stopped."
+        },
+        {
+          "title": "Climate science rollback",
+          "detail": "Kratsios and Calacanis argue the extreme RCP 8.5 scenario was recently pulled by the IPCC as unsupportable, discrediting decades of media coverage. They contend China's emissions dwarf US changes, that aggressive climate policy hurts poor communities most, and that fusion/nuclear/solar tech—not going 'backwards'—is the answer."
+        },
+        {
+          "title": "Scientific stagnation and funding experiments",
+          "detail": "NIH funding tripled from $14B (1998) to $47B (2024) without proportional breakthroughs ('Eroom's law'—efficiency halving every 9 years). Fixes include 'golden tickets' (letting reviewers unilaterally fund bold grants, tested in Denmark), variable grant durations, portable fellowships, and 'meta-science' units at NIH/NSF to experiment on funding methods."
+        },
+        {
+          "title": "Big moonshots and Genesis Mission",
+          "detail": "Targets: American boots on the moon and nuclear reactor in space by 2028, moon base by 2030, scientifically relevant quantum computer by 2028, fusion by 2035. The flagship 'Genesis Mission' aims to double US scientific output by applying AI to hard science problems."
+        },
+        {
+          "title": "China competition and STEM pipeline",
+          "detail": "China's R&D spending grew ~19x since 2000 (to ~$670B in 2021) vs US ~3x, and now publishes ~50% more papers than the US. Kratsios flags that ~70% of US computer science PhDs are now foreign-born (inverted from 30 years ago), the median NIH intramural researcher is 71 years old, and calls for growing homegrown STEM talent plus legal pathways for foreign graduates to stay."
+        }
+      ],
+      "quotes": [
+        "I think he did more disservice to science than anyone in modern history.",
+        "The median age of an intramural researcher at NIH is 71 years old.",
+        "We fundamentally believe that AI is going to be the biggest unlock to scientific discovery in the history of the world.",
+        "We are pro-scientists and we don't care where they are."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "A substantive, one-sided policy interview with concrete numbers and specific reform ideas on US science funding and China competition, valuable for readers tracking science/tech policy though it presents the administration's framing largely unchallenged."
+    },
+    "added_at": "2026-08-25T14:46:13.040015+00:00"
+  },
+  {
     "id": "688c4809-9cf4-4d77-b5d7-482ee43e7ccc",
     "show": "All-In",
     "slug": "all-in",
