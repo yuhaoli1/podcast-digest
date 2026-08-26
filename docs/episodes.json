@@ -2930,6 +2930,57 @@
     "added_at": "2026-08-24T14:42:59.031574+00:00"
   },
   {
+    "id": "f0e6d983-d9d0-47a5-8390-17e55831299b",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Iran War, Oil Shock, Off Ramps, AI's Revenue Explosion and PR Nightmare",
+    "url": "https://allinchamathjason.libsyn.com/iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare",
+    "published": "2026-03-13T17:53:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/0/9/0/4/0904d896e43c983a16c3140a3186d450/1_Pod_E264-20260313-7wen55e4z1.png",
+    "summary": {
+      "tldr": "The All-In crew (with guest Brad Gerstner) covers the Israel-Iran war and its oil-price shock, debating whether Trump will find an off-ramp before escalation damages the economy and midterms. The back half is a substantive debate on AI's explosive revenue growth versus how much of it is 'experimental,' plus AI's growing PR/public-opinion problem and new state wealth taxes. Core takeaway: markets and hosts believe the Iran conflict will be short, and AI revenue is real but the industry is scaring the public and much enterprise usage is still unproven.",
+      "topics": [
+        {
+          "title": "Iran war and oil shock",
+          "detail": "Brent crude whipsawed from $84 to $119 to ~$99 in days; Iran's new Supreme Leader threatened to keep the Strait of Hormuz closed. Polymarket put US boots-on-the-ground at 27% by March and 57% by year-end. Goldman raised its PCE inflation forecast from 2.1% to 2.9% and cut GDP by 30bps."
+        },
+        {
+          "title": "The off-ramp debate",
+          "detail": "Sacks warned escalation could hit Gulf desalination plants (70% of Riyadh's water, ~100M people rely on desal) and provoke Israel toward catastrophic responses, arguing the US should declare victory. Chamath and Brad argued Trump's pragmatic (non-neocon) doctrine means a short conflict; Calacanis warned a long war plus Epstein files, ICE cruelty, and ignoring workers could hand Democrats a midterm sweep (odds cited rising to 45%)."
+        },
+        {
+          "title": "China as the real story",
+          "detail": "Chamath and Brad argued the conflict is ultimately about China, which gets ~20% of oil from Iran/Venezuela and has 25% youth unemployment. Because China needs the oil and a US summit with Xi at month-end, it didn't defend Iran — creating leverage for a 'grand bargain.'"
+        },
+        {
+          "title": "AI revenue explosion",
+          "detail": "Anthropic hit a $14B run rate (12x YoY, $1B to $14B in 14 months), with a reported $6B in February alone — more than Databricks and Snowflake's annual revenue. OpenAI ended at $20B annualized. Brad said models now compete with labor budgets, not IT budgets, and both companies should IPO this year."
+        },
+        {
+          "title": "How real is the revenue?",
+          "detail": "Chamath argued there's no strong example of sustained AI margin expansion inside enterprises — most is experimental 'checkbox' spend, and AI hasn't entered critical regulated workflows (healthcare, finance) where mistakes bring liability. He cited Amazon requiring human review after AI-generated code caused AWS outages. Coding assistants are the clear breakout use case."
+        },
+        {
+          "title": "AI's PR nightmare and data-center cancellations",
+          "detail": "Stanford data cited: ~80% in China see AI as beneficial vs ~30s% in the US. Hosts blamed doomer messaging (Dario's sentience claims), EA-funded think tanks (Future of Life, ~$1B, Vitalik's $600M donation), and Bernie Sanders' data-center moratorium call. Chamath said ~25 data centers (5GW, ~$50B/yr revenue) were canceled in 2025, with ~40 more (~7GW, ~$70B) at risk in 2026; New York is moving to ban AI medical/legal advice."
+        },
+        {
+          "title": "State millionaire taxes and exits",
+          "detail": "Washington passed a 9.9% surtax on incomes over $1M starting 2029 (~30,000 households, ~$4B for the general fund); Howard Schultz decamped to Surfside, Miami. Chamath cited a Hoover Institution Monte Carlo study finding California's proposed billionaire tax yields negative NPV in 71% of runs and a ~$25B hole. Sacks warned the Sanders-Khanna 5%/year federal wealth tax would seize all wealth in ~20 years and become the 2028 Democratic platform."
+        }
+      ],
+      "quotes": [
+        "A $6 billion month out of Anthropic in February — that's more revenue than the annual revenue of Databricks and Snowflake.",
+        "We see a future where intelligence is a utility like electricity or water and people buy it from us on a meter.",
+        "Ice is more popular than AI.",
+        "We might find out how much... until you get fraud out of the system, I don't think you have the moral high ground to raise taxes."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "The AI revenue-vs-experimentation debate and the data-center cancellation numbers offer genuinely substantive, quantified insight, though the Iran geopolitics is speculative and the tax segment is familiar territory."
+    },
+    "added_at": "2026-08-26T14:48:06.875927+00:00"
+  },
+  {
     "id": "H9rF1CSSh-w",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
