@@ -1,5 +1,105 @@
 [
   {
+    "id": "83789c12-210d-431c-9b7e-8796293414a7",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
+    "url": "https://allinchamathjason.libsyn.com/eric-weinstein-the-scientific-precariat-chinas-brain-drain-physics-stagnation-string-theorys-collapse-uaps",
+    "published": "2026-08-26T23:00:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/9/8/0/b/980bb274c7d1a71ed959afa2a1bf1c87/signal-2026-08-26-16-28-33-642.jpg",
+    "summary": {
+      "tldr": "Eric Weinstein argues American science—especially theoretical physics—has stagnated since roughly 1971-1984, killed by peer review, consensus culture, the Mansfield Amendment cutting off military 'blue sky' funding, and a 'scientific precariat' that punishes heterodoxy. He claims physics deliberately drove itself off a cliff with string theory, that immense untapped 'boom, room, and zoom' technology remains locked behind an outdated Einsteinian frame, and that UAPs may point to that suppressed potential. The core takeaway: fund courageous high-variance individuals over low-beta incremental grants, or lose top talent to China.",
+      "topics": [
+        {
+          "title": "Science policy reform and the 'scientific precariat'",
+          "detail": "Weinstein praises OSTP director Michael Kratzios's science reform report as the first major overhaul since Vannevar Bush post-WWII. He argues professors can't afford to defy consensus, wants NIH's Jay Bhattacharya (once called a 'fringe epidemiologist' by Francis Collins) treated as the model of vindicated dissent, and demands scientists be rewarded like rock stars with security and even 'third homes.'"
+        },
+        {
+          "title": "When science broke: 1965-1984",
+          "detail": "He pinpoints decline to 1965-75, especially 1969-71: the MIT physics department's Vietnam walkout made the government distrust physicists, leading to Draper Labs' spinout and the Mansfield Amendment banning military funding of non-applied university research. Peer review, he claims, was 'retconned' in after the 1965 Medicare Act and the 1975 MACOS controversy at NSF."
+        },
+        {
+          "title": "Funding: portfolio theory vs. low-beta grants",
+          "detail": "Weinstein says grants reward predictable, low-variance work—misapplying modern portfolio theory to fund modest outcomes and then lying about their importance. He wants government (not markets, which fail on non-excludable public goods like homotopy theory) to back people over ideas, citing Slack's pivot, and proposes funding people 'established leaders will block but won't short.'"
+        },
+        {
+          "title": "String theory as a deliberate cliff",
+          "detail": "He claims physics 'made sense in 1983' but not 1984, when Susskind, Gross and Witten drove the field into string theory/M-theory—42 years without advancing the physical world. He calls Witten the smartest man alive who drove the field off a cliff, notes two top theorists told him they 'have no interest in the physical world,' and says he's denied official talks in physics departments."
+        },
+        {
+          "title": "Suppressed physics and 'boom, room, zoom'",
+          "detail": "Weinstein argues the standard model was finalized ~53 years ago and locked away untapped weaponry, energy, and propulsion. He speculates the Pati-Salam SU(4) model could enable matter-disintegrating weapons and that DESI's dark energy measurements will show the cosmological constant isn't constant, breaking general relativity—and floats his own 'Geometric Unity' as the successor theory."
+        },
+        {
+          "title": "Renaissance Technologies and secret-science analogies",
+          "detail": "Drawing on the 1940 Reference Committee that quietly rejected chain-reaction papers to protect the Manhattan Project, he speculates a similar covert program could exist today, naming Renaissance Technologies (Medallion fund, closed to outside money, tied to Brookhaven and Stony Brook) as a candidate—comparing himself to journalist Jack Raper who broke Los Alamos in 1944."
+        },
+        {
+          "title": "UAPs, China, and AI reading the 'trash can'",
+          "detail": "Weinstein believes UAPs are real (based on sober firsthand accounts, not videos), tied historically to nuclear tests, and possibly nation-state anti-gravity work or non-human visitors treating humanity like 'North Sentinel Island.' He warns China is luring free-thinking scientists with money and freedom, and predicts AIs trained on the discredited 'trash can corpus' of laughed-at ideas will trigger the next breakthroughs."
+        }
+      ],
+      "quotes": [
+        "We have become a fucking nation when it comes to science.",
+        "The stagnation of physics may have led to the survival of the human species, because the boom is so terrifying.",
+        "Just the way Jeffrey Epstein was never a hedge fund manager... strength theory has not been our leading theory for 42 years.",
+        "I've been too long in Einstein's prison... I believe pinch-to-zoom exists.",
+        "Freedom is a weapon... the American ability to say screw you to a supervisor who tells you what is true."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "A provocative, idea-dense monologue on science funding dysfunction and physics stagnation with concrete institutional history, though the unfalsifiable conspiracy speculation (Renaissance, UAPs, time travel) demands a heavily skeptical ear."
+    },
+    "added_at": "2026-08-27T23:41:05.600602+00:00"
+  },
+  {
+    "id": "NYFGCESmikA",
+    "show": "Lex Fridman",
+    "slug": "lex-fridman",
+    "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
+    "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+    "published": "2026-08-26T21:44:41+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
+    "summary": {
+      "tldr": "DHH (creator of Ruby on Rails) describes his complete reversal on AI-assisted coding, claiming that since roughly November 2025 agentic models like Anthropic's Opus and 'Fable' have made him 100% AI-driven on his Omarchy Linux project—he hasn't hand-written code in two months. The core takeaway: hand-crafting beautiful code is becoming economically obsolete, the bottleneck is now human vision/taste/communication rather than implementation, and Linux is uniquely positioned to dominate because its config-file/CLI nature suits AI agents. The back half wanders into parenting, mortality, immigration politics, and food.",
+      "topics": [
+        {
+          "title": "The agentic phase shift and 100% AI coding",
+          "detail": "DHH pins the turning point to Opus 4.5 on Nov 24, 2025, then describes progression through sub-agents, Opus 5, and 'Fable.' He claims he wrote none of the code shipped in Omarchy Quattro (released Friday, downloaded by tens of thousands) by hand over the last two months, only reviewing 'the shape' and critical model-layer lines. He argues 'decades of progress happened in the last nine months.'"
+        },
+        {
+          "title": "Why big apps aren't accelerating; vibe coding limits",
+          "detail": "DHH argues established products (Photoshop, Basecamp) don't accelerate because human bandwidth, management layers, and lack of vision—not implementation—are the bottleneck. A Feb experiment letting Basecamp designers 'vibe' produced PRs that destroyed the architecture and required manual cleanup. He distinguishes 'vibe coding' (never looking at code) from programming, and claims median human open-source contributors are now outclassed by agents."
+        },
+        {
+          "title": "Model shootout and concrete numbers",
+          "detail": "He ranks Fable best, Opus 5 second, then GPT Sol and Grok 4.6. In a Python-to-Rust translation of the 'Terminal Text Effects' library: Fable finished in ~45 min producing a 10x speedup (later 46x after research loops); per-token it would've cost ~$550. Sol did it for ~$46 in 90 min, Grok 4.6 for ~$55, DeepSeek Pro for $23 in 2h45. GPT Luna and DeepSeek Flash failed. He uses Claude Code (best harness), Codex xHigh as reviewer, and buys multiple Max subscriptions."
+        },
+        {
+          "title": "Linux, Omarchy, and obsessive optimization",
+          "detail": "DHH argues Linux will win the desktop because its 'arcane config files and CLI tools'—former drawbacks—are ideal for agents, and Linus Torvalds welcomes AI (contributions curving parabolically). Omarchy Quattro had 330 plugins in 3 days, 1000+ merged PRs. He obsessed over sub-60-second install (current record: 45 seconds, targeting a 12-second Dell XPS 'turbo image'), invoking McLaren's gram-shaving and 'the pursuit of excellence deserves no explanation.' Gifted Lex a pre-configured Dell XPS 14."
+        },
+        {
+          "title": "Setup, workflow, and burnout",
+          "detail": "He runs ~16 parallel agent threads across 4-5 machines using tmux/Herdr, Tailscale, and GL.iNet Comet KVMs. He types rather than uses voice (Lex advocates 20-minute stream-of-consciousness voice prompts). He says the current pace is 'not sustainable at all' and compares the mental exhaustion to stumbling out of a race car, but expects automation to reduce constant babysitting."
+        },
+        {
+          "title": "Politics, mass immigration, and lifestyle takes",
+          "detail": "DHH defends his controversial 'mass immigration' posts, citing Danish stats (UK/US/French immigrants net +$25k/yr to the Danish state vs Somalis costing ~$28k/yr) and self-determination arguments. He laments political tribalism, praises the Buckley/Black Panther interview as a lost ideal, and reversed a grudge to follow Theo. He rejects Bryan Johnson-style longevity optimization (quoting his wife: it's 'like anorexia in women'), embraces mortality (~90 years, built a 'memento mori' Easter egg into Omarchy)."
+        }
+      ],
+      "quotes": [
+        "There are decades where nothing happens and weeks where decades happen. And we have seen decades of progress happen in the last nine months.",
+        "If you're not recognizing the gravity of the moment, that's the delusion. That's the psychosis.",
+        "I feel like I have the statistical basis to assert that most programmers, they suck... they don't write the code I want to have written.",
+        "If there is one programming language more beautiful than Ruby, it is the English language.",
+        "The Overton window does not open itself. It opens one nudge at a time by people risking a little."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "A genuinely useful, specific field report from a credible practitioner on how agentic coding actually works right now—concrete tools, costs, and model comparisons—though it's long, heavy on unbridled hype, and detours into politics and personal tangents that dilute the signal."
+    },
+    "added_at": "2026-08-27T23:41:36.125429+00:00"
+  },
+  {
     "id": "64b534f7-b272-4bb8-9238-96055f4fa858",
     "show": "All-In",
     "slug": "all-in",
