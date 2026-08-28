@@ -3129,6 +3129,54 @@
     "added_at": "2026-07-01T20:29:09.547982+00:00"
   },
   {
+    "id": "034aae77-e9ee-4def-8716-6ddee6572003",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Rewriting the Rules: The SEC & CFTC on Crypto, IPOs & the Future of American Markets",
+    "url": "https://allinchamathjason.libsyn.com/rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets",
+    "published": "2026-03-11T19:59:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/2/b/1/1/2b11f96acce6acefd959afa2a1bf1c87/1_Pod_SEC_CTFC.png",
+    "summary": {
+      "tldr": "SEC Chair Paul Atkins and CFTC Chair Michael Selig lay out their deregulatory agenda for 2026, aimed at reviving IPOs, harmonizing the two agencies, and building fit-for-purpose rules for crypto, tokenization, and prediction markets. The central takeaway: both regulators want to reduce friction, open private markets to more retail investors, and keep innovation onshore—while insisting fraud and insider-trading enforcement stays intact.",
+      "topics": [
+        {
+          "title": "Making IPOs 'great again'",
+          "detail": "Atkins says the number of public companies has halved over 30 years, with returns now flowing mostly to insiders/PE/VC because companies go public mature. He names three fixes: a 'spring cleaning' of the SEC rulebook focused on materiality, curbing class-action/vexatious litigation (citing Delaware outlawing anti-arbitration and fee-shifting rules), and reducing shareholder-proposal governance burdens."
+        },
+        {
+          "title": "SEC–CFTC harmonization",
+          "detail": "Both describe historically dysfunctional relations—Atkins calls it 'two fortresses with a no man's land in between' littered with dead products like single-stock futures. They're finalizing a memorandum of understanding to share information, avoid duplicative registration, and create 'substitute compliance' regimes with a single primary regulator; Atkins floats a 'super app' vision for coordinated oversight."
+        },
+        {
+          "title": "Crypto and tokenization framework",
+          "detail": "Selig wants the Clarity Act passed (working with David Sachs) to give CFTC spot-market authority. Both stress that tokenized securities remain securities under SEC rules, while digital commodities/tools/collectibles fall to CFTC. They separate capital-raising activity (regulated) from the tokens themselves (often just goods/commodities), and cite T+0 settlement as an exciting benefit of distributed-ledger tech."
+        },
+        {
+          "title": "Prediction markets and insider trading",
+          "detail": "Selig defends prediction markets as 'truth machines' and notes the prior administration tried to ban them before the 2024 election. He cites Kalshi bringing enforcement actions—including an insider-trading case tied to a MrBeast employee trading on video-launch info. Exchanges are the 'first line of defense,' certifying contracts aren't readily susceptible to manipulation; the 'streaker at the Super Bowl' example illustrates manipulation risk."
+        },
+        {
+          "title": "Accreditation and opening private markets",
+          "detail": "Atkins commits to rewriting the accredited-investor definition, noting the 1940 Act statute already includes 'knowledge,' not just wealth—floating a driver's-test-style qualification or recognition of CPA/CFA credentials. Chamath argues ~95% of Americans are locked out of private-market gains; on VC fund formation, Atkins notes many limits are statutory (Investment Company Act exemptions) and that they're working with DOL/Treasury on 401(k) access with guardrails."
+        },
+        {
+          "title": "Reporting cadence, leverage, and gambling concerns",
+          "detail": "On Trump's push for semi-annual reporting, Atkins is 'agnostic,' noting quarterly reporting only started in 1970 and the UK reverted to semi-annual in 2014; the SEC will issue a proposed rule. Jason raises that 45% of men 18-30 report gambling problems and 10% meet addiction criteria; both point to education (citing Robinhood's options wizard) rather than mandates as the fix."
+        }
+      ],
+      "quotes": [
+        "We need a spring cleaning. We need to clean out the attic of the basement and the garage.",
+        "I compare it to two fortresses with a no man's land in between... littered with the bodies of would-be products.",
+        "We do believe that markets are truth machines.",
+        "We can't have another FTX in the United States where funds are lost.",
+        "The French built the Maginot line and that didn't work very well."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "A rare, direct look at the specific deregulatory priorities of the two people who will shape US capital markets—useful for anyone tracking IPOs, crypto, or private-market access—though it's largely aligned messaging with softball questions and few disagreements."
+    },
+    "added_at": "2026-08-28T23:28:39.091837+00:00"
+  },
+  {
     "id": "1SJiTwbSI58",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
