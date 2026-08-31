@@ -3272,6 +3272,53 @@
     "added_at": "2026-08-30T17:58:18.652898+00:00"
   },
   {
+    "id": "f3df379d-e536-460f-83f6-83b06f4cad9e",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Exiled Iranian Prince Reza Pahlavi: Transition Plan and the Fight for Iran's Freedom",
+    "url": "https://allinchamathjason.libsyn.com/exiled-iranian-prince-reza-pahlavi-transition-plan-and-the-fight-for-irans-freedom",
+    "published": "2026-03-07T18:00:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/1/a/5/4/1a544e8045810c6016c3140a3186d450/1_Pod_Reza.png",
+    "summary": {
+      "tldr": "All-In's Jason Calacanis interviews exiled Iranian Crown Prince Reza Pahlavi and All-In friend/investor Shervin Pishevar during active US/Israeli military action against Iran. Pahlavi pitches himself as a neutral transitional leader (not a candidate for power) to guide Iran toward a secular democracy, with a 175-page 'Iran Prosperity Project' plan focused on the first 100 days. The framing is heavily promotional and optimistic, with claims of $1 trillion in US economic upside and mass Iranian support.",
+      "topics": [
+        {
+          "title": "Pahlavi's transition vision",
+          "detail": "Pahlavi says he'll lead a transition to a secular democracy where the people choose the final form (republic or constitutional monarchy) via free elections. He insists his role is 'the process, not the outcome' and that he won't seek personal power, comparing possible models to India, Israel, France, US (republics) and Japan, Sweden, Spain, Canada (monarchies)."
+        },
+        {
+          "title": "Four core principles and the 100-day plan",
+          "detail": "He names four prerequisites: territorial integrity, separation of religion from state, equality under rule of law, and a democratic constitutional process. He created the Iran Prosperity Project (IPP) focused on stabilizing the first 100 days and enabling regime elements to survive the transition."
+        },
+        {
+          "title": "Economic opportunity claims",
+          "detail": "Pahlavi claims Iran is 'the North Korea of the region' but could have been 'the South Korea,' projecting roughly $1 trillion to the US market over 10 years plus billions invested into Iran. Pishevar cites the Iranian diaspora's Silicon Valley success (Uber's Kalanick backers, Google's Omid Kordestani, Databricks' Ali Ghodsi, eBay's Pierre Omidyar)."
+        },
+        {
+          "title": "Regime collapse and defections",
+          "detail": "Pishevar claims the regime massacred over 43,000 peaceful protesters in 48 hours and that over 50,000 military members responded to Pahlavi's secure communication channel. He says Khamenei was 'gone in the first 60 seconds' and the IRGC leadership eradicated in 24 hours, and referenced a leaked report of the 82nd Airborne being activated."
+        },
+        {
+          "title": "Trump, Israel, and the geopolitical framing",
+          "detail": "Pahlavi confirms he communicates with the Trump administration via Steve Witkoff. Both credit Trump with courage other presidents (Obama, Biush, Biden) lacked. Pishevar frames it in 'biblical' terms, invoking Cyrus the Great, the Jewish-Iranian connection, and an Israeli-Iranian Alliance he co-founded with Michael Eisenberg and others."
+        },
+        {
+          "title": "Pishevar's personal escape story",
+          "detail": "Pishevar recounts his father being placed on Khomeini's execution list, hiding for 10 months, escaping via an Air France flight, and the family later fleeing to America with $35 while his father drove a taxi and earned a PhD."
+        }
+      ],
+      "quotes": [
+        "Iran should have been, had it not been for the revolution, today's South Korea of the region. Instead, it has become the North Korea of the region.",
+        "I'm no use to anyone if I'm dead.",
+        "My focus is on the process, not the outcome.",
+        "He spent 47 years threatening the world. He lasted 60 seconds."
+      ],
+      "verdict": "Skip",
+      "verdict_reason": "It's a one-sided, promotional political interview with unverified casualty and economic figures and little actionable substance for a tech, startup, or markets reader."
+    },
+    "added_at": "2026-08-31T19:53:12.656559+00:00"
+  },
+  {
     "id": "1SJiTwbSI58",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
