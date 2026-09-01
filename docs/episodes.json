@@ -3319,6 +3319,53 @@
     "added_at": "2026-08-31T19:53:12.656559+00:00"
   },
   {
+    "id": "8fae5002-2c7b-4fac-9a1e-352fbd7890b1",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Inside the Iran War and the Pentagon's Feud with Anthropic with Under Secretary of War Emil Michael",
+    "url": "https://allinchamathjason.libsyn.com/inside-the-iran-war-and-the-pentagons-feud-with-anthropic-with-under-secretary-of-war-emil-michael",
+    "published": "2026-03-06T09:23:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/4/b/6/b/4b6b88910431c6f016c3140a3186d450/1_Pod_E263.png",
+    "summary": {
+      "tldr": "An emergency episode featuring Emil Michael, US Under Secretary of War, discussing the ongoing US-Israel military operation against Iran ('Operation Epic Fury') and, more substantively for tech readers, the Pentagon's public feud with Anthropic that led to the company being designated a 'supply chain risk.' The core takeaway: relying on a single AI model provider carries enormous risk because a company's shifting political/moral 'constitution' can restrict or alter how you use the technology, making multi-model strategies essential.",
+      "topics": [
+        {
+          "title": "Iran War 'Operation Epic Fury'",
+          "detail": "Michael frames the operation as weeks-not-months, aimed at depleting Iran's drones, ballistic missiles, and nuclear capacity, not regime change. He claims Iran is '90% depleted' of munitions four days in, insists there's no Afghanistan-style boots-on-the-ground scenario, and cites Polymarket odds of 59% for US ground forces by year-end and 51% for regime collapse."
+        },
+        {
+          "title": "China as the real strategic target",
+          "detail": "Chamath and Friedberg argue Iran and Venezuela (Maduro) actions create leverage over China ahead of an April summit. They note ~90% of Iran's oil goes to China; Iran+Venezuela = ~1/5 of China's oil imports, ~40% including Russia. Chamath cites China's new 4.5–5% GDP growth target (lowest in ~30 years) as a destabilizing factor that could push China toward invading Taiwan."
+        },
+        {
+          "title": "Drone warfare and AI autonomy",
+          "detail": "Michael says more drones were deployed this week than in US military history. Lucas one-way attack drones cost $50–80K and travel 500–700 miles. He describes relaxed rules of engagement, AI 'killbox' tactics from Ukraine/Russia, and 'Golden Dome' missile defense needing AI due to 90-second reaction windows. He insists full weapon autonomy ('Skynet') is not close."
+        },
+        {
+          "title": "Pentagon vs. Anthropic feud",
+          "detail": "The Pentagon canceled Anthropic's $200M contract and designated it a 'supply chain risk' (previously only done to Russian/Chinese firms). Disputes centered on Anthropic's terms barring kinetic strike planning and bulk data collection. Trigger point: an Anthropic exec allegedly asked Palantir whether Claude was used in the classified Maduro raid, raising fears the company could shut off or poison models mid-conflict."
+        },
+        {
+          "title": "Model reliability and vendor risk",
+          "detail": "Michael says Grok is cleared for all lawful use, Google is being onboarded, and OpenAI's Sam Altman offered help. Chamath warns that any company dependent on a single model provider faces 'de-platforming times a thousand.' The group debates Anthropic's valuation—Chamath doubts it's worth $350B; Friedberg pegs a ceiling near $1.5T but expects Google to sweep the market once it clones Anthropic's 'co-work' in ~90 days."
+        },
+        {
+          "title": "Defense industrial base and procurement reform",
+          "detail": "Michael runs the Office of Strategic Capital ($200B lending authority, Treasuries+100bps) to domesticate critical minerals, batteries, and ~20 critical supply items outsourced to China. He's pushing requirements reform, fixed-cost contracts, and wants new 'primes' like Anduril and Palantir plus a disruptive second layer. He notes some US nuclear missiles are 50 years old and planes 40 years old."
+        }
+      ],
+      "quotes": [
+        "\"This is not a so-called regime change war, but the regime sure did change and the world is better off for it.\"",
+        "\"If you're not figuring out how to be multi-model and agnostic across these models, you're taking on enormous business risk after Friday.\"",
+        "\"This is de-platforming all over again... this is that times a thousand because this is not about posting on social media.\"",
+        "\"If you don't want yourself to be used for Department of War stuff, you shouldn't be selling to the Department of War. It's in the name.\""
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "The Anthropic supply-chain-risk saga offers genuinely novel insight into AI vendor risk and defense procurement that's directly relevant to tech and startup readers, though the war and geopolitics segments are speculative and one-sided."
+    },
+    "added_at": "2026-09-01T17:41:34.224629+00:00"
+  },
+  {
     "id": "1SJiTwbSI58",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
