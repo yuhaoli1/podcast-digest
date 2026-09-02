@@ -3366,6 +3366,49 @@
     "added_at": "2026-09-01T17:41:34.224629+00:00"
   },
   {
+    "id": "7bea282e-50d5-43ea-97f1-01d1b0d2de03",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Ray Dalio: Our System Is in Jeopardy - Debt, AI & the Cycle That Destroyed Rome",
+    "url": "https://allinchamathjason.libsyn.com/ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome",
+    "published": "2026-03-03T10:00:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/c/7/0/d/c70d5904e24409e816c3140a3186d450/1_Pod_Dalio.png",
+    "summary": {
+      "tldr": "Ray Dalio returns to All-In to argue the US is in \"stage five\" of a long debt-and-empire cycle, facing five intertwined forces: unsustainable debt, internal wealth/values gaps, great-power conflict, technology, and acts of nature. His central takeaway: America's finances are structurally unhealthy (running a ~40% deficit with debt at 6x revenue), reform is politically near-impossible, and gold's surge reflects markets and central banks fleeing to hard money. He warns of an AI bubble and \"irreconcilable differences\" pushing the country toward conflict.",
+      "topics": [
+        {
+          "title": "The US debt trap and failed reform",
+          "detail": "Dalio says the government spends ~$7T, takes in ~$5T (a 40% deficit), carries debt at 600% of revenue, must roll over $9T of maturing debt plus sell ~$2T more, with half the deficit being interest payments. He wanted deficit-to-GDP at 3% but CBO projects ~6% for 2026, and calls DOGE's failure structurally inevitable given elections, criticism, and lost mandates."
+        },
+        {
+          "title": "Gold vs. Bitcoin as safe money",
+          "detail": "Gold rose from ~$2,900 to ~$5,200/oz since their last talk; Dalio frames gold as the second-largest reserve currency and only transferable hard money, recommending 5-15% portfolio allocation. Bitcoin fell ~25% because it lacks privacy (traceable/controllable), central banks won't hold it, it faces quantum-computing risk, and it correlates with tech stocks."
+        },
+        {
+          "title": "Interest rates, the Fed and Kevin Warsh",
+          "detail": "Dalio argues rates must balance creditor and debtor needs and predicts the Fed will likely have to expand its balance sheet again as foreign central banks stop buying treasuries; current strategy is shortening maturities to hold long rates down. He calls Warsh \"a practical man\" facing a very tough job."
+        },
+        {
+          "title": "Tariffs and inflation reframed",
+          "detail": "Dalio contends economists wrongly exclude taxes from inflation—arguing a tax hike is inflation—and defends tariffs as a historically valid revenue source that also rebuilds needed manufacturing independence. But he rejects Trump's State of the Union claim that tariffs could replace income tax, calling tariffs regressive and insufficient in scale."
+        },
+        {
+          "title": "Stage-five conflict and the AI bubble",
+          "detail": "Dalio compares the moment to Julius Caesar's Rome and Plato's warnings, says the system is \"in jeopardy\" from irreconcilable left-right differences, and predicts a fractious post-midterm environment needing a \"strong leader.\" On AI, he warns companies (not the technology) fail in bubbles and that China's free/open-source, non-profit-driven AI model threatens US profit-dependent players—\"AI is eating everything and it might eat itself.\""
+        }
+      ],
+      "quotes": [
+        "Our system is in jeopardy because people will not accept the system or the alternatives. And so they're going to fight.",
+        "Right now, it looks to me like AI basically is eating everything and it might eat itself.",
+        "60% of all Americans have below a sixth-grade reading level.",
+        "If you didn't know what gold was likely to do... one should have between five and 15% of their portfolio in gold."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Dalio delivers a coherent, data-anchored macro framework on debt, gold, rates, and AI that market-focused listeners will find useful, though much echoes his prior appearances and book."
+    },
+    "added_at": "2026-09-02T17:38:39.292361+00:00"
+  },
+  {
     "id": "1SJiTwbSI58",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
