@@ -3457,6 +3457,66 @@
     "added_at": "2026-07-02T16:16:01.632337+00:00"
   },
   {
+    "id": "1b5e8889-47c1-4779-b589-fe23ea5d0e24",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot",
+    "url": "https://allinchamathjason.libsyn.com/software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot",
+    "published": "2026-02-28T00:34:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/8/0/4/2/8042280528f65293d959afa2a1bf1c87/1_Pod_E262-20260228-vg0iehw4vb.png",
+    "summary": {
+      "tldr": "The besties dig into why software/SaaS stocks cratered in late February, driven by Anthropic's expanding 'kill list' of Claude products targeting legal, security, and COBOL modernization, plus a viral (possibly manipulated) Substack post predicting an AI-driven economic death spiral. Core takeaway: the market has shifted from debating *when* SaaS cash flows get disrupted to *if* they'll exist at all, forcing massive multiple compression—though the hosts largely reject the doomer narrative. They also cover Trump's State of the Union, his energy 'ratepayer protection pledge' for data centers, and the Supreme Court striking down his emergency-powers tariffs.",
+      "topics": [
+        {
+          "title": "SaaS Stock Implosion: 'When' vs 'If'",
+          "detail": "Chamath argues the market has moved from debating *when* SaaS cash flows get disrupted to *if* they'll exist at all, forcing PEs from 40 to 20, revenue multiples from 10x to 3x, and weighted average cost of capital from 6% to 12-13%. He splits the selloff between tactical hedge-fund de-grossing and this structural repricing. Sacks notes SaaS was previously modeled like a growth annuity with ~120% net dollar retention."
+        },
+        {
+          "title": "Anthropic's 'Kill List' and IBM's Crash",
+          "detail": "Anthropic went 'three for three' tanking sectors in February: legal (Feb 3, Thomson Reuters/LexisNexis/LegalZoom down 10%+), security (Feb 20, CrowdStrike/Okta), and COBOL modernization (Feb 23). IBM fell 13% on Monday—its worst day since 2000, losing ~$31B in market cap. Ryan Petersen claimed Claude for legal works as well as Harvey."
+        },
+        {
+          "title": "The Viral Doomer Substack (Citrini)",
+          "detail": "A fictional '2028 global intelligence crisis' Substack post got 28M views and helped tank markets Monday, predicting an AI death spiral where companies cut staff, lose customers, and collapse the economy (10% unemployment, agents replacing 3% interchange fees with stablecoins—Amex, Cap One down 8%). Sacks flagged that authorship was later amended to include a $262M hedge fund holding short positions in named companies, and cited a ~12% prediction-market belief it comes true."
+        },
+        {
+          "title": "Jevons Paradox and Job Creation Counterpoint",
+          "detail": "Sacks cited Citadel Securities data showing software engineer job postings up ~10% YoY and rising company formation, plus Anthropic's own $570K engineer listing as evidence it doesn't practice the obsolescence it preaches. Aaron Levie's argument: lowering the cost of supply-constrained software engineering expands demand. Chamath predicts op-ex as % of revenue falls off a cliff while tech's share of that op-ex rises sharply."
+        },
+        {
+          "title": "Jason's Agent Automation Experiment",
+          "detail": "Calacanis described giving 15 of his 20-person firm 'open Claw' agents over a weekend, building an SDR agent that scans top-100 podcast transcripts for advertisers, a clip-maker, thumbnail optimizer, and a management agent with root access to Gmail/Calendar/Notion/Slack. He says the team gets 10-20% more efficient weekly without adding headcount, and running Kimi 2.5 open-source handles 80-85% of jobs, slashing token bills."
+        },
+        {
+          "title": "Data Center Opposition and Trump's Energy Pledge",
+          "detail": "Chamath's analysis: ~100 data center projects face local opposition, ~40% get canceled, translating (at Sarah Fryer's ~$10B revenue per gigawatt for OpenAI) to ~$50B lost revenue in 2025 and ~$70B potential in 2026. Trump's State of the Union 'ratepayer protection pledge' requires hyperscalers to fund their own power. Micron's $100B NY fab took 1,200 days (612 on environmental review) and faces a 6-person lawsuit."
+        },
+        {
+          "title": "State of the Union and Partisanship",
+          "detail": "Trump's 108-minute speech (longest in 60 years) drew praise; two-thirds of CNN viewers and three-quarters of CBS viewers called it effective. Sacks argued Democrats failed easy 80-20 tests by refusing to applaud. Calacanis pushed back that Trump is 'divider in chief,' while noting Elizabeth Warren stood for banning congressional stock trading, prompting Trump's best one-liner."
+        },
+        {
+          "title": "SCOTUS Strikes Down Emergency Tariffs",
+          "detail": "A 6-3 ruling (Roberts, Barrett, Gorsuch joining liberals) struck down Trump's IEEPA tariffs—the biggest rebuke of executive policy since FDR's 1935 New Deal ruling. ~$175B collected, ~50% potentially refundable. Trump immediately invoked Section 122 (15% global tariff, 150 days); Sacks cited Kavanaugh's dissent as a roadmap to Sections 301 and 338. All agreed tariffs aren't going away."
+        },
+        {
+          "title": "Science Corner: Yamanaka Factors in Humans",
+          "detail": "Freeberg detailed David Sinclair's Life Biosciences reaching an FDA agreement for the first human trial of Yamanaka factors—delivered via AAV virus into the eye's vitreous fluid to rejuvenate the retina and restore vision in glaucoma/stroke patients. Production can be switched on/off via the antibiotic doxycycline. Over a dozen startups are pursuing similar epigenetic reprogramming therapies."
+        }
+      ],
+      "quotes": [
+        "The market is very much in an if mode. Are these cash flows durable at all? Could they fall off a cliff in year three?",
+        "The economy is not a pie, it's a garden and technology is rain.",
+        "This got passed around like a joint at a Grateful Dead concert.",
+        "If you zoom out on the map of the world, all the data centers in the world fit under the tip of a pin.",
+        "Build absolutely nothing anywhere near anyone."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "The SaaS repricing framework and firsthand agent-automation details are genuinely useful for a markets-and-startups reader, even if the political and tariff segments are predictable partisan sparring."
+    },
+    "added_at": "2026-09-03T17:37:17.274429+00:00"
+  },
+  {
     "id": "YFjfBk8HI5o",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
