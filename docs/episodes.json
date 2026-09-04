@@ -3517,6 +3517,53 @@
     "added_at": "2026-09-03T17:37:17.274429+00:00"
   },
   {
+    "id": "6745afd7-24a2-450c-8eec-8640cf3c3157",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Epstein Files Special: Prince Andrew Arrested, Global Network, Mythology, Reid Hoffman Files",
+    "url": "https://allinchamathjason.libsyn.com/prince-andrew-arrested-epstein-mythology-reid-hoffman-files-with-saagar-enjeti-michael-tracey",
+    "published": "2026-02-20T21:31:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/b/9/c/2/b9c2f0717aed08bcd959afa2a1bf1c87/1x1_CLASSIC_E.png",
+    "summary": {
+      "tldr": "A solo David Sacks-hosted All-In special (his co-hosts were away) featuring three guests with clashing views on Epstein: Saagar Enjeti (Epstein as money launderer/intel-connected figure who reveals an elite 'Epstein class'), Michael Tracy (Epstein coverage is a moral panic and 'mythology' built on unreliable accusers and financially-incentivized lawsuits), and Kevin Bass (used AI to analyze the files and argues Reid Hoffman brazenly lied about the extent of his Epstein relationship). The clearest actionable takeaway is Bass's specific claim that Hoffman drastically misrepresented ~400 contacts, dozens of meetings, and multiple island visits as just a few MIT-fundraising interactions.",
+      "topics": [
+        {
+          "title": "Prince Andrew and the money-laundering thesis",
+          "detail": "Saagar argues Prince Andrew and former UK ambassador Lord Mandelson violated official duties—Andrew forwarding non-public UK trade info to Epstein, Mandelson tipping Epstein about a bailout. He frames Epstein's real power as deep expertise in money laundering and moving money globally (dating to 1980s Iran-Contra figures like Adnan Khashoggi), not just a compromat operation."
+        },
+        {
+          "title": "The 'Epstein mythology' argument",
+          "detail": "Tracy compares the coverage to the 1980s satanic panic and Salem witch trials, arguing the narrative rests on three 'profoundly mentally ill' accusers—Virginia Giuffre, Maria Farmer, Sarah Ransome. He notes Giuffre recanted claims against Dershowitz, Kosslyn, and Jean-Luc Brunel, and that her 2011 memoir manuscript was admitted by her own lawyers (David Boies) to be fictionalized, including the widely repeated Bill Clinton 'island' claim."
+        },
+        {
+          "title": "The financial-incentive/settlement industry",
+          "detail": "Tracy details settlements he estimates near a billion dollars: ~$121M+ Epstein estate fund (up to $5M tax-free per claimant, non-adversarial), ~$290M from JP Morgan, ~$80-90M from Deutsche Bank, with lawyers getting a court-approved 30% cut. He claims the July 2025 FBI/DOJ '1,000+ victims' figure is bogus because it includes adults and family members."
+        },
+        {
+          "title": "The Reid Hoffman files",
+          "detail": "Bass says his AI analysis (vectorized SQL, MCP agents) of the Jan 30 file drop contradicts Hoffman's claims that his few interactions were MIT-fundraising via Joi Ito. He alleges ~400 initiations by Hoffman to Epstein, ~42 meetings (~20 confirmed), overnight stays, at least two island nights, and that Hoffman was Epstein's gateway into Silicon Valley independent of Ito."
+        },
+        {
+          "title": "Weaponization and Reid Hoffman's motives",
+          "detail": "Sacks argues Hoffman aggressively accused Musk and Trump on X to drive the story into partisan tribes and seek Democratic protection—noting the NYT gave Hoffman one sentence while others got paragraphs. Sacks explicitly says there's no basis to accuse Hoffman of crimes; the issue is the brazen lying about the relationship."
+        },
+        {
+          "title": "What Epstein actually was / how he got rich",
+          "detail": "The panel disputes the origin of Epstein's ~$650M estate. Tracy cites a December NYT investigation and Maxwell's testimony that Epstein restructured Leslie Wexner's business finances (Victoria's Secret, real estate), taking yearly cuts, plus clients like Leon Black and a Johnson & Johnson heiress. Saagar disputes that any sophisticated financial instruments appear in the emails."
+        }
+      ],
+      "quotes": [
+        "I think this is the worst story of my adult lifetime in terms of the media coverage and it implicates the alternative media, the mainstream media and everybody in between.",
+        "In real life, it's not Gregory Peck—it's a guy in a one bedroom apartment in New Jersey... For all the money I'm told I'm surreptitiously receiving from Leslie Wexner and the Mossad.",
+        "The extent of the relationship between Epstein and Reid Hoffman... it almost looks like best friends.",
+        "If he had just kept his mouth shut and not accused other people, I'm not even sure this would be a topic on the show."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "The Reid Hoffman AI-analysis segment and the money-flow/settlement breakdown offer concrete, tech- and finance-relevant substance, though the long unresolved back-and-forth on evidentiary standards drags and demands patience."
+    },
+    "added_at": "2026-09-04T17:31:15.089262+00:00"
+  },
+  {
     "id": "YFjfBk8HI5o",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
