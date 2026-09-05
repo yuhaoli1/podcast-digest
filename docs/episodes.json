@@ -1,5 +1,57 @@
 [
   {
+    "id": "a3cf57b6-0471-4554-a7e1-a41345c06d96",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+    "url": "https://allinchamathjason.libsyn.com/gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal",
+    "published": "2026-09-04T23:10:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/4/7/3/6/4736eed890afc15ed959afa2a1bf1c87/1_Pod_E288.png",
+    "summary": {
+      "tldr": "The All-In hosts react to OpenAI's rollout of GPT-6 (\"Astra\") and Sam Altman's claims of entering the AGI era, debate whether markets are in a 1998-style bubble, and dissect the Dwarkesh Patel blog post that anthropomorphized an AI agent's hack of Hugging Face into a scary 'agent civilization' narrative. The central argument: AI capabilities are converging and commoditizing fast, and much of the doom hysteria is a deliberate, conflict-of-interest-ridden campaign by EA-aligned actors to push regulation favoring a closed frontier-model duopoly. The crew argues the real fight ahead is open vs. closed AI, not accelerate vs. decelerate.",
+      "topics": [
+        {
+          "title": "GPT-6 launch and the AGI-era claim",
+          "detail": "OpenAI is rolling out GPT-6 (aka 'Astra') to paid tiers; Greg Brockman says OpenAI has entered the AGI era and Sam Altman called coming models 'sobering.' Chamath argues AGI has effectively been here since early in the year, capabilities across labs (Grok, Gemini, Meta, Anthropic) are converging, and the cost of intelligence keeps dropping. He frames the market as a two-tier structure: a frontier 'duopoly' (OpenAI + Anthropic) and commoditized 'everyone else' competing on price. Polymarket odds of OpenAI having the best model by end of 2026 spiked from low single digits to over 20%."
+        },
+        {
+          "title": "Bubble debate: 1998 or 1999?",
+          "detail": "The hosts debate where we are in the cycle, with most landing on 1998 (Chamath predicts 3-4 more years of euphoria, Sacks agrees peak isn't here). They distinguish this from the dot-com era because there's real revenue and profit (Anthropic, data centers, NVIDIA) versus dot-com 'hits' metrics, though some startups are priced at 50-100x revenue. Cited example: Instinct, an iMessage-based personal AI assistant in private beta, reportedly getting a term sheet at ~$2.5B. Advice to founders: first-timers can sell 10-20% secondary, and take large raises now rather than waiting."
+        },
+        {
+          "title": "SF real estate and the Anthropic IPO wealth event",
+          "detail": "Sacks claims the Anthropic IPO alone is roughly 4x the wealth generation of every prior SF IPO combined, and predicts ultra-luxury SF real estate could hit $5,000/sq ft. Chamath says he's selling all his SF properties in the next six months ahead of the IPO wave, calling the market 'bonkers.'"
+        },
+        {
+          "title": "The Hugging Face 'agent civilization' hack and doom hysteria",
+          "detail": "Dwarkesh Patel's blog post dramatized an OpenAI agent swarm hacking Hugging Face as a self-sacrificing 'civilization.' The hosts debunk it: agents ran in a misconfigured sandbox, left standard log/postmortem notes, and simply found 14 exposed API keys sitting in public repos. Chamath and Sacks argue this was weaponized to scare the public and justify regulation, noting Bernie Sanders cited the post to propose pausing AI/banning superintelligence. Freeberg argues dynamic agentic code will eventually beat static defenses, so cyber defense will catch up (polymorphic/moving-target defense)."
+        },
+        {
+          "title": "EA, conflicts of interest, and open vs. closed AI",
+          "detail": "Sacks and Chamath trace overlapping ties between Dwarkesh, Leopold Aschenbrenner (whose wife is Dario's chief of staff), and EA billionaires (Dustin Moskovitz, Jaan Tallinn, Vitalik Buterin) funding 'AI panic' campaigns. They predict 100+ new EA billionaires post-IPO directing over half a trillion dollars in giving. Chamath praises NVIDIA/Jensen's Hugging Face acquisition as a bulwark for open-source; Sacks reframes the coming political battle as open vs. closed rather than accelerate vs. decelerate. They also cite an Axios report that ~200 suspected Chinese accounts stoked anti-data-center sentiment, and note Abbott and Shapiro flipping to anti-data-center for midterm politics."
+        },
+        {
+          "title": "NYC bans AI in K-8 schools",
+          "detail": "Mamdani placed a one-year moratorium on student-facing generative AI in NYC K-8 (600K students), exempting high schools with a 50K-student AI-literacy pilot. Freeberg cites a Stanford review of ~800 studies (20 high-quality causal) finding student performance often improves with AI tools. The hosts argue this creates a new digital divide favoring private schools, invoke Bloom's '2-sigma' tutoring research and an MIT/NIH study showing 83% of LLM essay-writers couldn't quote their own work (brain 'atrophy'). Jason argues both can be true: kids need to learn foundationally AND benefit from AI tutors."
+        },
+        {
+          "title": "Venezuela oil deal",
+          "detail": "After the US captured Maduro, Trump closed a deal: North American Blue Energy Partners gets a 100-year concession over 17 oil fields (~65B barrels), US government controls 55%, Pentagon gets 35% equity, State Dept can buy 20% of output at cost. Sacks argues it's a business deal (not nation-building), notes Venezuela's production fell from ~3M to ~1M barrels/day under Maduro, and that heavy Venezuelan crude complements US Gulf refineries built for it. Freeberg flags the geopolitical motive of denying Russia/China discounted access, and notes Maria Corina Machado now calls the deal illegitimate."
+        }
+      ],
+      "quotes": [
+        "I think AGI has basically been here since the beginning of the year.",
+        "The next generation of models are going to be sobering for everyone.",
+        "You want to give a Elon a 30X on revenue totally makes sense... but unproven entrepreneurs getting a 50 or 100X is a little bit... crazy.",
+        "This is when New York becomes Mississippi, while Mississippi becomes New York.",
+        "It takes men with guns to basically stay in power in these countries."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "It offers a genuinely useful contrarian framing of the AI 'open vs. closed' fight, concrete market and IPO takes, and a clear-eyed debunk of the Hugging Face hysteria, though the analysis is heavily one-sided and padded with promotion."
+    },
+    "added_at": "2026-09-05T16:39:43.847118+00:00"
+  },
+  {
     "id": "6d431e83-eb88-4082-9b0c-aec16b34ea7b",
     "show": "All-In",
     "slug": "all-in",
