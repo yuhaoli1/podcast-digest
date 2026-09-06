@@ -3616,6 +3616,54 @@
     "added_at": "2026-09-04T17:31:15.089262+00:00"
   },
   {
+    "id": "d78168ae-af1a-403f-b946-147237b84a71",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Debt Spiral or NEW Golden Age? Super Bowl Insider Trading, Booming Token Budgets, Ferrari's New EV",
+    "url": "https://allinchamathjason.libsyn.com/debt-spiral-or-new-golden-age-super-bowl-insider-trading-booming-token-budgets-ferraris-new-ev",
+    "published": "2026-02-13T21:56:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/e/0/f/7/e0f7b247ad95a656d959afa2a1bf1c87/1_Pod_E261.png",
+    "summary": {
+      "tldr": "The All-In crew covers the accelerating AI adoption wave (especially agentic tools like 'Open Claw'), the emerging tension between using public LLM endpoints and enterprise data security, prediction-market insider trading concerns, and a grim CBO debt forecast that Sacks reframes as the start of a new economic 'golden age.' The single most important takeaway: token/compute costs per AI 'agent' are climbing toward employee-salary levels, forcing companies to rethink budgets and possibly move back on-prem for confidentiality reasons.",
+      "topics": [
+        {
+          "title": "AI intensifies work and agent budgets explode",
+          "detail": "A UC Berkeley/HBR study of a 200-person company found AI users worked faster, took on broader scope, and worked more hours. Jason claims his 4 AI-fluent staff (of 20) have 10-20x leverage, and that agents hit $300/day (~$100k/year) each on cloud APIs, raising the question of when token costs exceed employee salaries. He's investing $125k each in 10 'Open Claw' startups."
+        },
+        {
+          "title": "On-prem as the new cloud / data leakage",
+          "detail": "Chamath argues enterprises may reverse the 2008-onward cloud migration because using public endpoints (ChatGPT, Gemini, Claude) leaks all prompts, responses, and agent traces. He cites a ruling that there's no attorney-client privilege for such tool usage, and notes 8090 is a top-20 Bedrock customer yet finds cloud too expensive due to margin/overhead."
+        },
+        {
+          "title": "Prediction markets and insider trading",
+          "detail": "Over $1.9B was wagered on the Super Bowl across Kalshi (~$1B) and Polymarket (~$700M). Israeli reservists allegedly used classified info to bet on strikes ('Rico Suave 666' account made $150k). Chamath compares this to pre-Reg FD stock markets, noting Buffett's alpha collapsed to market returns after Reg FD (2000) enforced information symmetry, arguing markets thrive on asymmetry and can't be easily regulated."
+        },
+        {
+          "title": "CBO debt forecast: death spiral vs golden age",
+          "detail": "2026 deficit is $1.9T (~6% of GDP); debt projected to grow from $31T to $56T by 2036; Social Security trust runs out in 2032. Friedberg warns rates near 5% add ~$650B/year interest and fears federalization of ~$1T in state pension obligations. Sacks counters the CBO's 2.2% growth assumption is too low given 4-5% recent quarters and $600B hyperscaler CapEx, predicting a late-90s-style boom. Chamath argues debt-to-GDP moves in unison globally and doesn't matter much—but recommends hedging with gold/real assets."
+        },
+        {
+          "title": "Immigration enforcement and minimum wage debate",
+          "detail": "Jason predicts Trump could raise the $7/hr federal minimum wage and argues ICE should surveil construction sites and hotels (the top two illegal-employment sectors, ~2.5M workers) to fine employers rather than conduct chaotic raids. Sacks pushes back on minimum-wage economics (creates unemployment, spurs automation) and characterizes the surveillance idea as a 'police state.'"
+        },
+        {
+          "title": "Ferrari's first EV and car culture's decline",
+          "detail": "Ferrari's first EV launches May 2026: 1,000+ hp, 0-60 under 2.5s, 330-mile range, 5,100 lbs (heaviest ever). Interior designed by Jony Ive and Marc Newson. Sacks likes the interior but hates the exterior ('looks like a Corvette'). Chamath argues FSD/autonomy will make self-driving a niche luxury as insurance costs make owning cars uneconomical for most."
+        }
+      ],
+      "quotes": [
+        "Once you use these tools, it is very difficult for a company to be able to control how their data is used subsequently.",
+        "We call them replicants... Open Claw Ultron, which is one meta-replicant that is managing the other four.",
+        "Markets thrive when there's asymmetry. Billions and billions of dollars will be made in asymmetry.",
+        "I suspect we'll look back on this time period as the beginning of a new golden age.",
+        "Does debt to GDP matter? It depends on many things. But mostly, I would say it doesn't matter."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "The AI segment—especially the concrete data on agent token costs approaching salaries and the on-prem/data-leakage thesis—offers genuinely useful signal for tech and startup operators, though the immigration and Ferrari segments are skippable filler."
+    },
+    "added_at": "2026-09-06T16:48:29.768263+00:00"
+  },
+  {
     "id": "YFjfBk8HI5o",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
