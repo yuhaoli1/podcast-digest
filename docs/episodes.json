@@ -3717,6 +3717,55 @@
     "added_at": "2026-07-02T16:16:32.050396+00:00"
   },
   {
+    "id": "22e2edaf-24f1-4c37-acff-eeb2b8e75ce8",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "CZ's Untold Story: The Rise, Fall, and Redemption of Binance's Founder",
+    "url": "https://allinchamathjason.libsyn.com/czs-untold-story-the-rise-fall-and-redemption-of-binances-founder",
+    "published": "2026-02-10T04:56:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/3/9/1/e/391e389ffa39ed5b16c3140a3186d450/1_Pod_CZ.png",
+    "summary": {
+      "tldr": "A long-form biographical interview with Binance founder Changpeng Zhao (CZ) tracing his path from immigrant kid in Vancouver to McGill dropout, Wall Street/Bloomberg developer, Shanghai IT founder, and eventually Binance's creator. The most notable content is his detailed, first-person account of the DOJ prosecution, his guilty plea, four months in a US low-security prison, and his subsequent Trump pardon. It's more origin-story and personal-philosophy than market analysis.",
+      "topics": [
+        {
+          "title": "Immigrant origins and a non-obvious founder path",
+          "detail": "CZ's family emigrated from China to Vancouver shortly after 1989; his mother, a former teacher, worked in a sewing factory for 7-10 years. He worked at McDonald's at 14 (for $4.50/hr, below BC's $6 minimum wage), dropped out of McGill, got a degree from an online school to qualify for a Japan work visa, and coded order-execution systems in Tokyo and at Bloomberg (where he led a team of 60-80). He stresses that entrepreneurship is a grind, not lightning-in-a-bottle."
+        },
+        {
+          "title": "How Binance actually got started",
+          "detail": "CZ discovered Bitcoin via a poker buddy (Ron Cao of Lightspeed) in 2013, sold his Shanghai apartment (~$900K) and bought BTC averaging ~$600. He cycled through Blockchain.info, OKCoin (10% equity), then built an exchange-software licensing business (~30 clients, multi-million dollar SaaS). After China shut down clients in 2017, he pivoted and raised ~$15M via a BNB ICO in July 2017 from ~20,000 mostly-Chinese buyers. Binance became the #1 exchange within ~5 months."
+        },
+        {
+          "title": "The FTX/SBF relationship",
+          "detail": "Binance invested for ~20% of FTX in Nov 2020 (BNB-for-FTT token swap) and exited in July 2021—a year and a half before FTX collapsed. CZ says he was a passive investor who never requested financials, and flatly denies that Binance's exit caused FTX's problems. He describes SBF badmouthing Binance in Washington and poaching a VIP account manager to steal client data."
+        },
+        {
+          "title": "DOJ prosecution, guilty plea, and prison",
+          "detail": "CZ pleaded to a single Bank Secrecy Act violation (failure to register). He distinguishes layers of charges: non-registration, weak KYC/AML, versus personally facilitating bad transactions (the 'enhancements' the court rejected). The Biden DOJ sought 36 months—double the guideline; he got 4 months. He served at a low-security prison (2,200 inmates), describing race-based inmate 'cars,' safety concerns as a high-profile target, and no whole fruit for months."
+        },
+        {
+          "title": "Trump pardon and crypto policy",
+          "detail": "CZ calls the Biden administration openly 'hostile' to crypto out of 'fear of the new' and bank lobbying. He argues Trump—having faced the same DOJ—was sympathetic, and that a pardon was practically necessary for Binance (of which he's the UBO) to properly enter the US. He claims there's no formal pardon process and that he 'didn't do much' to get it."
+        },
+        {
+          "title": "AI agents, payments, and privacy",
+          "detail": "CZ predicts AI agents will soon transact millions of times more than humans, at volumes traditional banks and KYC/AML can't support—making crypto the natural rails. He also argues Bitcoin's lack of fungibility and privacy will hold it back at scale, citing physical-security risks of traceable addresses. He describes Giggle Academy, his free digitized education app targeting ~1.2 billion unschooled people, and explains he deliberately refuses to issue a token to avoid speculators masquerading as students."
+        }
+      ],
+      "quotes": [
+        "No matter when you get into Bitcoin, you always feel late.",
+        "It requires an enormous amount of intellectual skill to write it very short... anybody else trying to rewrite that thing would be 90 pages.",
+        "This is my layman understanding, could be wrong.",
+        "My lawyer says he's been doing this 40 years and never seen an appeal on a bail condition.",
+        "A bunch of the big media wrote that I'm going to be the richest person to ever go to US prison.",
+        "Once you have enough money on this graph, more doesn't make you happy."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "CZ's candid, granular first-person account of the DOJ prosecution, plea distinctions, and prison experience is genuinely rare and revealing, though the softball framing and heavy legal hedging mean you get his narrative with little pushback."
+    },
+    "added_at": "2026-09-07T18:47:52.046114+00:00"
+  },
+  {
     "id": "EV7WhVT270Q",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
