@@ -3766,6 +3766,53 @@
     "added_at": "2026-09-07T18:47:52.046114+00:00"
   },
   {
+    "id": "8f1702cb-4b5b-45d4-bc19-df3f75f00a1b",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Epstein Files, Is SaaS Dead?, Moltbook Panic, SpaceX xAI Merger, Trump's Fed Pick",
+    "url": "https://allinchamathjason.libsyn.com/epstein-files-is-saas-dead-moltbook-panic-spacex-xai-merger-trumps-fed-pick-0",
+    "published": "2026-02-07T04:35:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/8/4/b/9/84b98376fbde2c18d959afa2a1bf1c87/1_Pod_E260-20260207-cu0v3vcuor.png",
+    "summary": {
+      "tldr": "The All-In crew (with Chamath out, Brad Gerstner subbing in) covers the Epstein file dump, a brutal SaaS stock selloff driven by AI agent fears, the 'Moltbook' AI-agent social network panic, the SpaceX/xAI merger, and Trump's nomination of Kevin Warsh as Fed chair. The dominant thread is that AI agents (open-source 'open claw' tools) are rapidly consolidating knowledge work and reshaping how software value is captured. It closes with a plug for Gerstner's newly-launched 'Trump accounts.'",
+      "topics": [
+        {
+          "title": "Epstein files and media coverage bias",
+          "detail": "Calacanis explains his minor connections (met Epstein ~45 min total in the late 90s, made a Bitcoin intro in 2011, knew Ghislaine Maxwell socially). Sacks argues the NYT deliberately spotlights 'right-coded' figures like Musk and Thiel while giving Reid Hoffman—mentioned 2,600 times with a multi-year relationship—only a single-sentence mention. They question why ~30 named people were never prosecuted and call Epstein's death suspicious."
+        },
+        {
+          "title": "SaaS selloff ('Claude Crash')",
+          "detail": "$300B wiped from S&P software/data stocks in two days; Figma down 80% from highs, Salesforce halved, plus Thomson Reuters -20%, LexisNexis/LegalZoom -15%. Software trades at all-time-low 3.9x forward revenue. Gerstner frames it as a shrinking profit pool and collapsing terminal value (Salesforce's FCF multiple went 30x to 15x), not falling revenue. Sacks argues SaaS won't be replaced but value migrates to a new 'agentic layer'; Databricks, Snowflake, Clickhouse are re-accelerating (60%+ growth) as AI data beneficiaries."
+        },
+        {
+          "title": "Agents and the reboot of knowledge work",
+          "detail": "Calacanis describes building 'Ultron'—an internal system pulling all Slack, Notion and Gmail data via APIs to consolidate his 20 employees' skills into one super-employee. Job functions (PM, designer, developer, middle manager) are collapsing into single roles. Freiberg predicts software shifts to value-based/services pricing and total software market cap could be 4-10x higher in five years, unevenly distributed."
+        },
+        {
+          "title": "Moltbook / AI agent emergent behavior",
+          "detail": "A Reddit-style message board for AI agents produced viral posts about 'overthrowing humanity' and inventing private languages. Sacks cautions many posts may be human-prompted pranks (agents just need a 'skill' file), and warns the tools have poor security—Moltbook allegedly exposed API keys including Karpathy's. He introduces 'prompt attenuation': agents riffing off each other's outputs without specific human prompts, enabling emergent swarm behavior."
+        },
+        {
+          "title": "Kevin Warsh nominated as Fed Chair",
+          "detail": "Warsh, 55, ex-Fed governor at 35, inflation hawk who worked with Druckenmiller. Markets read him as hawkish (gold/silver fell on the news) but Gerstner argues he'll actually cut rates since inflation is anchored, citing that the Fed balance sheet already rolled from $9T to $6.5T. Multiple hosts call for the Fed to modernize its laggy survey-based data (e.g., use Zillow/real landlord data instead of surveying 8,000 households)."
+        },
+        {
+          "title": "SpaceX/xAI merger and Trump accounts",
+          "detail": "Elon merges SpaceX with xAI (which owns X) at a $1.25T combined valuation, with plans to IPO and build solar-powered data centers in space within 30 months. Freiberg counters that most players will respond via efficiency—predicting 70-100x compute efficiency gains via chip and model architecture changes. Gerstner touts 'Trump accounts': every US-born child gets $1,000 in S&P 500 index, ~1.5M families claimed in 5 days, projected $4T wealth transfer over 15-20 years."
+        }
+      ],
+      "quotes": [
+        "He's not an important player in the grand scheme of things... he'd want a blackmail loser.",
+        "Whatever you think you know, you need to have maximum mental flexibility and humility right now about the future.",
+        "Maybe we're all moltbook. I don't know.",
+        "You can't have a trillionaire and 70% of people feeling out that they're left out and left behind... Every child born in the United States forevermore will start life off with an investment account seeded with $1,000 in the S&P 500."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "The SaaS-selloff analysis and hands-on agent-tooling discussion offer genuinely useful, concrete signal for tech and markets readers, though the Epstein and Elon-hype segments are more filler than insight."
+    },
+    "added_at": "2026-09-08T17:50:51.075301+00:00"
+  },
+  {
     "id": "EV7WhVT270Q",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
