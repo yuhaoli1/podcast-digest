@@ -3861,6 +3861,54 @@
     "added_at": "2026-07-02T16:16:59.495566+00:00"
   },
   {
+    "id": "93c7df0e-7863-4421-9919-9fa428279f5b",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "ICE Chaos in Minneapolis, Clawdbot Takeover, Why the Dollar is Dropping",
+    "url": "https://allinchamathjason.libsyn.com/ice-chaos-in-minneapolis-clawdbot-takeover-why-the-dollar-is-dropping",
+    "published": "2026-01-30T23:25:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/7/f/b/3/7fb3e0d2ebe6d56416c3140a3186d450/1_Pod_259.png",
+    "summary": {
+      "tldr": "The All-In hosts cover three main threads: the deadly ICE enforcement clashes in Minneapolis (two civilians killed), the viral open-source 'Clawdbot'/Moldbot AI personal-assistant phenomenon plus the significance of the Kimi K2.5 open-source model, and dollar de-valuation driving inflation of asset prices and populism. The biggest takeaway is arguably the AI thread: agentic personal assistants running on open-source models locally could collapse AI costs ~90% and upend closed-source valuations and existing regulatory assumptions.",
+      "topics": [
+        {
+          "title": "ICE deaths in Minneapolis",
+          "detail": "DHS's 'Metro Surge' sent ~3,000 agents to Minnesota; Renee Good (37) was shot after her SUV hit an agent and Alex Pretti (37), a VA nurse, was killed by border patrol. Trump put Tom Homan in charge and Greg Bovino was removed. Sacks blamed Walz/Frey 'massive resistance' and sanctuary non-cooperation; Jason blamed Stephen Miller and Kristi Noem, calling for them to be fired; Freeberg and Chamath called both deaths avoidable tragedies."
+        },
+        {
+          "title": "Immigration politics and the census argument",
+          "detail": "Sacks claimed 55%+ of Americans support deporting all illegal immigrants and cited that illegal aliens counting in the census would have given Trump ~9 additional electoral votes; California would lose ~4 House seats with accurate counting. Debate over voter ID, with Jason noting Heritage's database found ~3,000 fraud cases over 40 years and Trump losing ~50 election lawsuits."
+        },
+        {
+          "title": "Clawdbot/Moldbot AI assistant",
+          "detail": "Austrian dev Peter Steinberger's open-source personal assistant (renamed Moldbot after Anthropic objected) went viral. Jason built a 'virtual podcast producer' that does guest research, emails guests, builds its own CRM via vibe-coding, and self-schedules; he estimated it does ~40 of 50 producer hours and 95% of SDR work, with API bills approaching ~$1,000/day. Sacks predicted Google wins because it already holds users' email/calendar data."
+        },
+        {
+          "title": "Kimi K2.5 and open-source AI",
+          "detail": "Chamath framed Kimi K2.5, a trillion-parameter mixture-of-experts model with public 'agent swarm' tech, as a shot across the bow of closed-source AI. Combined with local hardware (stacked Mac Studios) it could cut AI costs ~90%, though hosts flagged supply-chain risks like prompt/code injection in Chinese-origin models and the need for third-party red-teaming."
+        },
+        {
+          "title": "Dollar devaluation and populism",
+          "detail": "Dollar index down ~10% in a year to a four-year low; Freeberg noted M2 money printing near $2.5T/year, ~$39T federal debt, and 30-year yields near 4.9% vs 3.3% average borrowing cost—rolling debt could add ~$700B/year in interest (~3% of GDP). He argued asset holders get richer while most Americans (asset-negative) feel left behind, fueling populism. Chamath floated a wealth tax as possibly inevitable to avoid civil war; Sacks argued redistribution becomes theft captured by special interests."
+        },
+        {
+          "title": "California governor race",
+          "detail": "San Jose mayor Matt Mahan entered late as a moderate. In California's jungle primary, Republicans Chad Bianco and Steve Hilton polled ~15% each; Sacks argued Mahan wins any two-way runoff. Freeberg detailed California's ~$1T pension cliff, noting court precedent that pension benefits can't be reduced, leaving only a constitutional amendment or bankruptcy as fixes."
+        }
+      ],
+      "quotes": [
+        "He just anchors things at an impossible insane level and then he falls back to whatever he really wanted.",
+        "I've been coming here for 30 years and you guys have completely failed—you've wrecked your economies.",
+        "If you disagree with the law you've got to change the law.",
+        "You're one terms of service update away from everything breaking.",
+        "When there's this massive movement of capital through a centralized system like the government... a large percentage goes into theft back into the hands of a few."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "The Clawdbot/Kimi K2.5 open-source AI discussion and the dollar/debt analysis offer concrete, forward-looking signal for tech and markets readers, even if the lengthy immigration segment is more partisan than informative."
+    },
+    "added_at": "2026-09-09T17:38:51.338889+00:00"
+  },
+  {
     "id": "Z-FRe5AKmCU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
