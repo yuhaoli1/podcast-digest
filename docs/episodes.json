@@ -3909,6 +3909,53 @@
     "added_at": "2026-09-09T17:38:51.338889+00:00"
   },
   {
+    "id": "026fff2a-f8c9-4fad-bf1d-8bdf5a4d6ea3",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "The Future of Everything: What CEOs of Circle, CrowdStrike & More See Coming in 2026",
+    "url": "https://allinchamathjason.libsyn.com/the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026",
+    "published": "2026-01-25T19:52:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/9/6/b/2/96b2ada7362760d716c3140a3186d450/1_Pod_JA_Davos.png",
+    "summary": {
+      "tldr": "A series of Davos interviews by Jason Calacanis with CEOs of Circle, CrowdStrike, Archer Aviation, and Crusoe Cloud about their 2026 outlooks. The through-line: stablecoins are going mainstream post-Genius Act, AI is transforming both cyberattacks and energy infrastructure, and the Trump administration's business-friendly posture is unblocking regulated crypto, eVTOL aircraft, and data-center buildouts. Most substantive segments are the Circle stablecoin economics and the Crusoe energy/data-center discussion.",
+      "topics": [
+        {
+          "title": "Circle, stablecoins and the Genius Act economics",
+          "detail": "Jeremy Allaire says USDC is the largest regulated stablecoin (second overall behind Tether, which he claims runs 3-5x larger). The Genius Act bars issuers from paying interest directly but allows rewards/loyalty programs; Allaire says banks are re-litigating this. He notes an inverse correlation between interest rates and USDC circulation—USDC grew 1,000% YoY when rates were low and declined when rates rose, so he publicly wants rates lower. Circle earns 'billions' in reserve income as a public company."
+        },
+        {
+          "title": "Stablecoin TAM and network effects",
+          "detail": "Allaire pegs total legal electronic money at ~$120T, of which ~$60T is physical cash and non-interest-bearing deposits that stablecoins can capture. He argues the marginal value of a new dollar stablecoin is 'essentially zero' due to USDC's network and liquidity effects, dismissing the idea that every company (Amazon, PayPal) needs its own coin. Circle only issues USD and EUR coins and licenses tech to foreign issuers."
+        },
+        {
+          "title": "CrowdStrike on AI-powered cyberattacks",
+          "detail": "George Kurtz describes 'prompt-only autonomous malware' that interacts with an LLM to generate a unique fingerprint each run and never phones home, defeating signature detection. CrowdStrike found 40 North Korean fake-employee infiltrations initially, now hundreds in the US—often seeking trade secrets and access rather than salary. He says each employee will control ~90 AI agents, creating a massive 'AI detection and response' TAM; recounts two agents routing around guardrails via a Slack channel."
+        },
+        {
+          "title": "Archer Aviation eVTOL rollout",
+          "detail": "Adam Goldstein says DOT/FAA will announce five US cities in Q1 2026 with flying beginning in summer, driven by a Trump executive order fast-tracking certification. Archer bought Hawthorne Airport near LAX for ~$170M and won the exclusive for the LA 2028 Olympics. Aircraft has 12 (really 24 redundant) motors, ~10 miles of glide, 11,000ft ceiling. Also building 'attritable' autonomous Project Nix military drones with Anduril at ~90% lower cost than an Apache."
+        },
+        {
+          "title": "Crusoe Cloud energy-first data centers",
+          "detail": "Chase Lockmiller built in Abilene, TX on stranded/negative-priced renewable power plus a 350MW on-site gas plant; 8,000 workers on site daily, ~2,000 permanent. Placed a $1.2B gas-turbine order with Boom Supersonic's re-engineered engines. Planning a 10GW Wyoming campus with carbon sequestration (45Q credits), and 45GW total pipeline (~8-10 NYCs of power). Targets first SMR-powered AI factory in 2027 with Aalo Energy at Idaho National Lab."
+        },
+        {
+          "title": "Rack density and financing the AI buildout",
+          "detail": "Lockmiller says rack power is jumping from ~15kW (5 yrs ago) to 130kW (Blackwell), 250kW (Vera Rubin), 600kW (Rubin Ultra), heading to 1MW racks (~1,000 homes each). On financing $500B Stargate-scale spend: Crusoe relies on long-term offtake leases (e.g., a 15-year Oracle agreement in Abilene) to unlock construction debt from JP Morgan, BofA, Apollo, SMBC. Argues even if OpenAI failed, whoever displaced them would absorb the compute."
+        }
+      ],
+      "quotes": [
+        "Chaos is a ladder.",
+        "Why break in when you can just log in?",
+        "Normally the weakness is between the keyboard and the chair.",
+        "One megawatt to give a perspective is roughly the amount of power of a thousand homes... a rack will be a town."
+      ],
+      "verdict": "Skim-worthy",
+      "verdict_reason": "Several genuinely substantive nuggets on stablecoin economics, AI malware, and data-center power, but it's an interviewer-friendly, softball format with heavy Trump-administration boosterism and little real disagreement."
+    },
+    "added_at": "2026-09-10T17:41:54.958215+00:00"
+  },
+  {
     "id": "Z-FRe5AKmCU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
