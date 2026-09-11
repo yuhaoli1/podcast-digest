@@ -3956,6 +3956,54 @@
     "added_at": "2026-09-10T17:41:54.958215+00:00"
   },
   {
+    "id": "0f92c86f-8175-42a1-86fd-37472affb1ec",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Dr. Mehmet Oz on Fixing American Healthcare + Fraud | Live from Davos",
+    "url": "https://allinchamathjason.libsyn.com/healthcare-needs-builders-not-bureaucrats-dr-mehmet-oz-live-from-davos",
+    "published": "2026-01-24T06:19:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/f/9/a/f/f9afb2c64cb8476ed959afa2a1bf1c87/1_Pod_DrOz.png",
+    "summary": {
+      "tldr": "Live from Davos, David Sacks and Chamath interview Dr. Mehmet Oz, now CMS administrator, about overhauling American healthcare. The core arguments: use AI to democratize care and decode locked medical records, slash drug prices via 'most favored nation' pricing (including launching a $150-200 GLP-1 pill via 'TrumpRx'), and aggressively attack Medicaid/Medicare fraud that Oz claims runs into hundreds of billions. Oz frames healthcare as an investment—getting an average American to work one extra year is claimed to be worth $3 trillion to the economy.",
+      "topics": [
+        {
+          "title": "Drug pricing and 'most favored nation'",
+          "detail": "Oz says the US pays multiples more for identical drugs than Europe; the UK has agreed to a deal and others are negotiating. US spends 0.8% of GDP on drugs (roughly 6% of the 17% healthcare spend); some European countries spend 0.3%. Trade-off: Europeans pay less but get drugs years later and have lower cancer survival rates."
+        },
+        {
+          "title": "AI in healthcare",
+          "detail": "Oz concedes LLMs beat doctors on board exams and bedside manner (cites a Harvard/MIT study) but warns of hallucination intolerance. Pitches AI to make GPs 5-10x more efficient given a shortage of primary care doctors (US needs 2-3x more per capita than Europe). John Doerr brought entrepreneurs into CMS; 600 companies signed an interoperability/data-transparency pledge."
+        },
+        {
+          "title": "The GLP-1 'TrumpRx' launch",
+          "detail": "Sacks recounts his own use of Ozempic (dropped from 213 lbs). Oz says pills from Novo Nordisk and Eli Lilly will launch the following week starting around $150-200 (down from ~$1,200 cash), $50 copay for Medicare, free for Medicaid. Claims obesity drives over half of chronic-illness spending and the program pays for itself within two years."
+        },
+        {
+          "title": "Medicaid/Medicare fraud",
+          "detail": "Oz alleges South Florida has 20x more durable-medical-equipment providers than McDonald's, California has 7x more hospices (many with 100% survival rates), and often foreign-national/organized-crime operators. Cites a $15B bust, a Minnesota daycare fraud scheme, and $3.5B suspected in LA hospice/home-health alone. Solution: fraud war room, service moratoriums, halting payments, requiring attestations with ID and in-person verification."
+        },
+        {
+          "title": "California, illegal immigration, and audits",
+          "detail": "Oz says CMS audited California and found over $1.5 billion wrongly charged to the feds for illegal immigrants, which the state is now repaying. Argues Newsom vetoes audits like a 'ban on voter ID.' Estimates family health coverage worth ~$30K is an incentive to stay illegally; claims $5.4 trillion in projected Medicaid losses were at stake."
+        },
+        {
+          "title": "Homelessness and drug policy",
+          "detail": "Framed as addiction, not housing—Sacks and Oz argue free housing/food/money in San Francisco (plus cheap fentanyl and no enforcement) enables drug use and draws addicts from other states. Cite Miami's Mayor Suarez cutting homelessness ~90% via arrest-to-rehab, and describe 'trank' in Kensington, Philadelphia. Sacks recounts Elon Musk canceling all of Twitter's software subscription cards to expose waste."
+        }
+      ],
+      "quotes": [
+        "We were becoming one massive health care system with a small country attached.",
+        "Don't think about health care like an expense. Think of it as an investment... if I can get the average American to work one year longer... that is worth three trillion dollars.",
+        "Only the morons get caught in health care fraud because it's so easy to do.",
+        "There are twice as many durable medical equipment providers... 20 times more in south florida than mcdonald's.",
+        "Show me an incentive I'll show you the outcome."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Substantive, specific claims on drug pricing, GLP-1 economics, AI in healthcare, and fraud that matter to healthtech investors—though it's heavily one-sided political messaging with unverified numbers and no pushback."
+    },
+    "added_at": "2026-09-11T17:33:23.537989+00:00"
+  },
+  {
     "id": "Z-FRe5AKmCU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
