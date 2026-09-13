@@ -4052,6 +4052,61 @@
     "added_at": "2026-09-11T17:33:23.537989+00:00"
   },
   {
+    "id": "73ca60cb-9e3e-421c-ad0a-cf99b16183a1",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Coinbase CEO's Top 3 Crypto Trends for 2026 + More from Davos!",
+    "url": "https://allinchamathjason.libsyn.com/coinbase-ceo-brian-armstrong-breaks-down-the-three-biggest-trends-in-crypto-more-from-davos",
+    "published": "2026-01-23T18:37:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/8/d/2/5/8d25cfe18fcfe1f7d959afa2a1bf1c87/1_Pod_BA_Davosi.png",
+    "summary": {
+      "tldr": "A set of interviews recorded at Davos 2026, anchored by Coinbase CEO Brian Armstrong plus Cerebras CEO Andrew Feldman and Gecko Robotics CEO Jake Loosararian. The through-line is that crypto, AI compute, and robotics are all shifting from regulatory/hype battles to concrete commercial deployment, with the Trump administration credited for a more business-friendly stance. Armstrong's headline claims: three big crypto trends (everything exchange, prediction markets, stablecoin payments), tension with banks trying to unwind the Genius Act, and the coming tokenization of private markets.",
+      "topics": [
+        {
+          "title": "Coinbase's bank partnerships and crypto going mainstream",
+          "detail": "Armstrong claims 5 of the top 20 global G-SIBs (including JP Morgan and PNC, others undisclosed) now use Coinbase for crypto infrastructure, and BlackRock wants to tokenize every one of its funds. He says ~500 million people globally and ~52 million Americans have used crypto."
+        },
+        {
+          "title": "Genius Act, stablecoins, and the fight with banks",
+          "detail": "US-regulated stablecoins must hold 100% reserves in short-term (max ~30-day) Treasuries. Armstrong says bank trade groups are trying to unwind the Genius Act four months after passage, calling that a 'red line.' Coinbase passes ~100% of stablecoin economics to users via a 'rewards program' (legally distinct from interest because it can't be based solely on balance held)."
+        },
+        {
+          "title": "Tether and stablecoin competition",
+          "detail": "Circle's USDC is the largest regulated stablecoin (compliant under Genius and MiCA). Armstrong predicts two Tethers—a compliant US version and a 'Wild West' offshore one. Coinbase supports Tether and PayPal's stablecoin but has no exclusive with Circle."
+        },
+        {
+          "title": "Three big crypto trends and tokenization of private markets",
+          "detail": "Armstrong's three trends: the 'everything exchange' (equities/prediction markets on-chain, partnering with Kalshi non-exclusively), prediction markets growing fast, and stablecoin payments (B2B cross-border is the biggest growth area). He predicts on-chain capital formation, tokenized VC funds/REITs, and eventually fully on-chain IPOs; cites 4 billion 'unbrokered' adults."
+        },
+        {
+          "title": "California, socialism, and AI job displacement",
+          "detail": "Armstrong estimates ~20% of California billionaires have already left, creating a ~$10B tax hole, and says California risks insolvency. On AI, he's an optimist citing the shift from 80% agricultural employment to 3%; uses an internal AI model ('Oracle of Coinbase') for 'reverse prompting' to surface team disagreements and how he actually spends his time."
+        },
+        {
+          "title": "Cerebras: wafer-scale chips and the inference speed race",
+          "detail": "Feldman's WSE is ~56x larger than a normal chip with 4 trillion transistors; first one cost ~$500M to make, systems now ~$1–1.5M or rentable at $0.50–several dollars per million tokens. Announced a 750MW OpenAI deal; argues fast inference needs fast memory access, which GPUs lack (why OpenAI spent ~$20B buying Groq). Notes an 18-month memory shortage driven by over-ordering and HBM demand."
+        },
+        {
+          "title": "Energy, geopolitics, and space data centers",
+          "detail": "Feldman ranks power sources: hydro cheapest, then natural gas (Texas, Wyoming, Guyana flare gas). US grid is 'decrepit' vs China. On chips: US leads chipmaking (6 of world's 10 top teams near Santa Clara), China leads open-source models. He's skeptical of selling H100s to China and pegs space-based data centers at 8–10 years out, not 3–5."
+        },
+        {
+          "title": "Gecko Robotics: robots as AI's data infrastructure",
+          "detail": "Loosararian's robots inspect ships, bridges, refineries and nuclear plants; ~30% of business is defense. Claims Admiral Houston cited up to 90% manufacturing speed improvements. Thesis: robots collect real-world data that doesn't exist on the internet, forming the foundation for AI models—positioning robotics as the 'nervous system' and betting they'll be big buyers of humanoid robots for high-ROI industrial tasks."
+        }
+      ],
+      "quotes": [
+        "The Biden administration really tried to unlawfully kill this industry in America... and Donald J. Trump, you got to give him credit.",
+        "You're basically trusting the United States government is not going to fail in 30 days, which I think is a pretty safe bet.",
+        "When the internet got fast, Netflix didn't get better at delivering DVDs. Netflix became a movie studio.",
+        "The first demo that me and you saw was folding laundry... there's so many other really important applications to use this technology for."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Three substantive CEO interviews with concrete numbers and forward-looking claims on crypto regulation, AI compute economics, and industrial robotics, though the format is promotional and light on pushback or host disagreement."
+    },
+    "added_at": "2026-09-13T17:23:00.082405+00:00"
+  },
+  {
     "id": "Z-FRe5AKmCU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
