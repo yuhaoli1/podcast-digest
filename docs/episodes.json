@@ -4107,6 +4107,53 @@
     "added_at": "2026-09-13T17:23:00.082405+00:00"
   },
   {
+    "id": "a4778d50-0d8a-42fe-828c-6b53e0380f59",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Inside America's AI Strategy: Infrastructure, Regulation, and Global Competition",
+    "url": "https://allinchamathjason.libsyn.com/inside-americas-ai-strategy-infrastructure-regulation-and-global-competition",
+    "published": "2026-01-23T04:38:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/7/7/b/0/77b0388c53abcef016c3140a3186d450/1_Pod_Kratsios_Davos.png",
+    "summary": {
+      "tldr": "White House AI advisors David Sacks and Michael Kratzios lay out the Trump administration's AI strategy across three pillars: out-innovating competitors, building infrastructure/energy, and exporting the American AI stack globally. The central argument is that America is winning the AI race across chips, models, and manufacturing, but risks losing through over-regulation—especially a patchwork of 1,200+ state bills—and that the goal is measured by global market share versus China's Huawei and DeepSeek.",
+      "topics": [
+        {
+          "title": "State regulation patchwork vs. federal preemption",
+          "detail": "Sacks says over 1,200 AI bills are moving through state legislatures, which most hurts early-stage startups building on frontier models while favoring big incumbents. The administration wants a single lightweight federal standard, but concedes Congress needs 60 Senate votes and faces pushback against 'preemption without a federal standard'—child safety and data center permitting would remain with states."
+        },
+        {
+          "title": "Data centers, energy, and consumer rates",
+          "detail": "Bernie Sanders sent a letter urging a halt to all data center development. Sacks argues there's 'no such thing as a dark GPU' (unlike late-90s dark fiber) and that letting AI companies generate their own 'behind the meter' power—unlocked by Secretary Wright and FERC reversing Biden-era rules—will actually lower rates via economies of scale. Microsoft pledged its data centers won't raise residential rates."
+        },
+        {
+          "title": "China competition and the export race",
+          "detail": "Sacks estimates US leads China by ~6 months on models, ~2 years on chips, ~5 years on chip-making equipment. China reportedly bars NVIDIA chips to indigenize Huawei. Stanford polling shows 83% AI optimism in China vs. 39% in the US. Kratzios invokes the Huawei telecom playbook—'good enough' plus subsidies captured global market share—as the cautionary tale driving the American AI Export Program."
+        },
+        {
+          "title": "AI for science (Genesis Mission)",
+          "detail": "Kratzios describes a shift from internet-trained chatbots to code models to scientific discovery, hampered by fragmented data. The DOE 'Genesis Mission' aims to leverage national lab data to potentially double US R&D output over 10 years, with fusion simulations, material science, and therapeutics as target breakthroughs."
+        },
+        {
+          "title": "Knowledge-worker productivity and digital assistants",
+          "detail": "Sacks cites Anthropic's Opus 4.5 and Claude Code's new 'Co-Work' tab as a breakthrough letting non-coders generate spreadsheets, PowerPoints, and websites in their own style. He predicts personal digital assistants (a la the movie 'Her') could arrive in 2026."
+        },
+        {
+          "title": "Risks: Orwellian AI and jobs",
+          "detail": "Sacks frames the main risk as government misuse for surveillance/censorship/political bias ('Woke AI'), citing Gemini's 'Black George Washington' and the rescinded Biden order's 20 pages of DEI language. On jobs, he disagrees with Elon Musk's 'no one will work' prediction, saying AI brings abundance and rising wages, not mass unemployment—at least not within five years."
+        }
+      ],
+      "quotes": [
+        "There's no such thing as a dark GPU right now.",
+        "If in five years we look around the world and it's Huawei chips and deep-seek models, then that would be very bad... that means that we lost.",
+        "When the EU talks about AI leadership, they're talking about the regulators... It's a bad case of main character syndrome.",
+        "I tend to think that those scenarios were described by George Orwell, not by James Cameron and the Terminator."
+      ],
+      "verdict": "Skim-worthy",
+      "verdict_reason": "It's a clear articulation of the administration's official AI policy with some useful specifics (state bill counts, model/chip lead estimates, export program), but it's a one-sided, on-message pitch with no adversarial questioning or genuine debate."
+    },
+    "added_at": "2026-09-14T19:05:07.483073+00:00"
+  },
+  {
     "id": "Z-FRe5AKmCU",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
