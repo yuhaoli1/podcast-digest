@@ -1,5 +1,52 @@
 [
   {
+    "id": "b72632fc-68fc-41b3-a88c-fdca9e1cf2db",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI",
+    "url": "https://allinchamathjason.libsyn.com/satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai",
+    "published": "2026-09-15T17:10:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/c/3/a/0/c3a06929ba0eba3027a2322813b393ee/1_Pod_Satya-20260915-59icvb9qde.png",
+    "summary": {
+      "tldr": "Microsoft CEO Satya Nadella joins All-In to lay out his framework for AI safety, competition, and Microsoft's strategy amid the recent AI 'doomer' slowdown debate. His core argument: broad diffusion and competition (open vs. closed models) matter most, safety needs boring engineering rather than mysticism, and Microsoft's edge is being a heterogeneous toolmaker rather than betting everything on one frontier model.",
+      "topics": [
+        {
+          "title": "Reframing AI safety as engineering, not mysticism",
+          "detail": "Nadella distinguishes the Hugging Face incident's mundane failures (misconfigured containers, exposed API keys, no monitoring) from genuinely novel behavior like reward hacking in persistent agent swarms. He argues for a 'new insider risk' framing\\u2014e.g. an agent told to 'optimize working capital' might 'fake my books'\\u2014and pushes for third-party testers, auditable behavioral monitoring, and transparent chains-of-thought in readable language."
+        },
+        {
+          "title": "Token compression and business models",
+          "detail": "The hosts note ~99% cost reduction (OpenAI ~$50 vs DeepSeek as low as $0.15\\u20130.60 per million output tokens). Nadella frames this as healthy open-source-vs-closed competition, comparing it to Windows vs. Linux and SQL Server vs. Postgres/MySQL, and argues cheap models make the app tier economically viable rather than all value accruing to the model layer."
+        },
+        {
+          "title": "Microsoft's strategy and lack of a frontier model",
+          "detail": "Challenged on missing mobile and not having a frontier model, Nadella cites ~30M+ Copilot subscribers out of ~250\\u2013300M enterprise knowledge workers, MAI models being built 'from the bottom' without distillation, and access to OpenAI's IP. He advises enterprises to be 'independent of all' models\\u2014run your own evals, pull out any model and see if you retain performance."
+        },
+        {
+          "title": "Capital allocation and CapEx discipline",
+          "detail": "Microsoft is spending ~$175B in CapEx buildout but stayed disciplined vs. Meta, Google ($350B), and frontier labs ($500B). Nadella splits assets into long-duration (land, power, shells) vs. short-term 'kit' (racks/chips, ~60% of cost), and follows a build/lease/rent approach. He insists on serving a long tail of customers, not just 'two or three' model companies, and runs heterogeneous silicon (Nvidia, AMD, OpenAI's chip, Microsoft's own)."
+        },
+        {
+          "title": "Proving AI's economic and social payoff",
+          "detail": "Nadella argues real broad-based GDP growth of 7\\u20138% is needed to justify the buildout, citing DAX Copilot in healthcare (doctors spending more time with patients). On data centers, he cites Quincy, Washington: 20 years of buildout, tax revenues up 12x, ~1,200 sustained construction jobs, plus a new school, hospital, and aquatic center; the facility is heading to 400+ megawatts."
+        },
+        {
+          "title": "China and international safety norms",
+          "detail": "On alignment, Nadella argues safety concerns aren't 'idiosyncratic' to Americans\\u2014China should care equally since hacking and citizen benefit apply everywhere\\u2014and calls for US-led international norms that enable broad diffusion while setting safety standards that work for China too."
+        }
+      ],
+      "quotes": [
+        "We create technology so that others can create more technology. That's who we are. We're a tool maker.",
+        "If you see a show-stopper, stop the show.",
+        "This is the first time you're going to have a technology where your use of it and the exhaust and the data could not be yours.",
+        "My advice is more, like, use all, but be independent of all."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "Nadella offers a clear-eyed, contrarian take on AI safety-as-engineering plus concrete detail on Microsoft's model, CapEx, and interoperability strategy that rewards tech and markets readers, even if the softball framing lets some questions slide."
+    },
+    "added_at": "2026-09-15T17:58:00.726148+00:00"
+  },
+  {
     "id": "a089255b-32f1-4957-af7d-4c5b3ab018f4",
     "show": "All-In",
     "slug": "all-in",
