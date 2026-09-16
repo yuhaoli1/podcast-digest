@@ -1,5 +1,52 @@
 [
   {
+    "id": "cea835d1-fb37-4f07-a91e-356e7e5c8fca",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
+    "url": "https://allinchamathjason.libsyn.com/jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms",
+    "published": "2026-09-15T20:46:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/3/b/2/1/3b21d4c1c8af4c7027a2322813b393ee/1_Pod_JDVance.png",
+    "summary": {
+      "tldr": "VP JD Vance sits with the All-In hosts for a friendly, campaign-flavored interview ahead of the midterms, touting the administration's record on immigration, manufacturing, and anti-fraud efforts while fielding softball-to-mild pushback on the Iran strike, inflation, the deficit, H-1B abuse, AI regulation, and Israel. The core message is a re-election pitch: 'a lot of good done, more work to do — don't hand power back to the people who caused the problems.'",
+      "topics": [
+        {
+          "title": "Immigration and manufacturing as signature wins",
+          "detail": "Vance claims illegal immigration flows are down ~3 million and calls Trump the first president in his lifetime to reverse (not just slow) the flow. He argues Trump will be remembered most for ending the globalization consensus and reversing a 40-year decline in US manufacturing via 'trillions of dollars' of new investment."
+        },
+        {
+          "title": "Iran war and inflation defense",
+          "detail": "Pressed that Trump broke a promise not to start a Middle East war, Vance says destroying Iran's nuclear program and conventional military was justified and that protecting shipping prevents a 'worldwide energy crisis.' On inflation, he concedes 3.5% is 'still too high' but frames it against Biden-era 9.5% (highest in ~48 years)."
+        },
+        {
+          "title": "Deficit and fraud",
+          "detail": "Vance says anti-fraud efforts saved ~$250B; cites Bessent's plan to grow toward a ~3% of GDP deficit rather than cut $2T from a $7T budget overnight. On total fraud, he references Musk's 20% ($1.4T) Doge estimate, blaming blue states (CA Medicare/Medicaid, SNAP billing) for refusing eligibility verification."
+        },
+        {
+          "title": "AI, power, and the 'Frankenstein' critique",
+          "detail": "Vance argues data-center backlash stems from power bills doubling ($290 to $580/month) and decades of underbuilding — noting China now generates 3x US electricity after crossing the line in 2005. He criticizes AI leaders (naming Dario Amodei) for seeking regulation/one-world governance while denying companies defensive tools against Anthropic's cyber-hacking model."
+        },
+        {
+          "title": "H-1B reform",
+          "detail": "Vance defends the $100,000 H-1B fee, says the administration is targeting fraud administratively since Congress won't act, and wants to block companies that lay off American workers from hiring foreign replacements. He jokes it's 'the Venn diagram overlap of Jason Calacanis and Stephen Miller.'"
+        },
+        {
+          "title": "Israel and midterm pitch",
+          "detail": "Vance says Trump is more willing than any president in 40 years to part ways with Netanyahu when US interests differ, extending the same 'America's interests first' logic to NATO. His closing midterm message: even voters who disagree shouldn't empower a Democratic party 'consumed by craziness.'"
+        }
+      ],
+      "quotes": [
+        "If you're building Frankenstein, number one, you should stop. And number two, when the companies come to you and say we need the tools to fight back against Frankenstein, give them those tools.",
+        "This is the Venn diagram overlap of Jason Calcanis and Stephen Miller. It's a very small area.",
+        "The PRC now generates three times as much electricity as the United States of America does... we have to have this vision of electricity that is too cheap to meter.",
+        "When I heard somebody running for Congress in New York say that July 4th was about the liberation of Puerto Rico and Palestine, I thought this person needs to be checked into a mental hospital, not given a seat in Congress."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "It's a mostly friendly campaign interview, but Vance offers concrete administration positions on AI regulation, H-1B fees, energy/data centers, and the deficit that matter to tech and markets readers."
+    },
+    "added_at": "2026-09-16T17:58:49.249834+00:00"
+  },
+  {
     "id": "b72632fc-68fc-41b3-a88c-fdca9e1cf2db",
     "show": "All-In",
     "slug": "all-in",
