@@ -1,5 +1,52 @@
 [
   {
+    "id": "665f827a-937f-42e3-a4a5-6f2d6c7e50fd",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Jared Isaacman: A New Era for NASA and American Space Exploration",
+    "url": "https://allinchamathjason.libsyn.com/jared-isaacman-a-new-era-for-nasa-and-american-space-exploration",
+    "published": "2026-09-18T15:59:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/0/6/d/8/06d80148b6dff5d6e5bbc093207a2619/1_Pod_Jared_1.png",
+    "summary": {
+      "tldr": "NASA Administrator Jared Isaacman delivers a keynote and Q&A at All-In laying out an aggressive, competition-driven vision for American space exploration. The central argument: NASA lost years to bureaucracy, capital misallocation, and 'making everyone happy,' and is now in a second space race against China (targeting a crewed Moon landing by 2030) that America barely needs to be losing. Key pivot is toward nuclear power/propulsion and letting industry handle launch, observation, and communications.",
+      "topics": [
+        {
+          "title": "The second space race with China",
+          "detail": "Isaacman warns China intends to land astronauts on the Moon by 2030 with a 'very achievable two-launch architecture,' is targeting the Shackleton crater near the lunar south pole next year, and is building a nuclear-powered Moon base with Russia. He frames the risk vividly: the world seeing a non-American flag being planted first, with 'no footnote explaining that we spent more.'"
+        },
+        {
+          "title": "NASA's self-inflicted failures",
+          "detail": "He criticizes spreading resources across every congressional district, over-partnering ('25 different flags'), the canceled Mars sample return mission that ballooned to cost 'more than an aircraft carrier,' and SLS/Orion being less efficient than Saturn V and Apollo despite $100B+ invested. He calls NASA 'bad capital allocators' with a $25B budget that isn't a top-line problem."
+        },
+        {
+          "title": "Artemis timeline and Moon base",
+          "detail": "Artemis 3 launches summer 2027 on SLS, rendezvousing with Blue Origin and SpaceX landers in low Earth orbit; Artemis 4 in 2028 returns astronauts to the surface 'to stay.' Plans a near-monthly cadence Moon base at the south pole focused on water ice, in-situ resource utilization, and robotics-first surface work."
+        },
+        {
+          "title": "The nuclear NASA pivot",
+          "detail": "SR-1 'Freedom,' a 100-kilowatt fission reactor, launches in 2028, transiting Mars and releasing 'Skyfall' carrying three ingenuity-class helicopters with ground-penetrating radar. Isaacman explains nuclear-electric propulsion (scaling Starlink-style Krypton/Xenon ion thrusters) as the path to outer moons like Enceladus, Europa, and Titan where solar power fails."
+        },
+        {
+          "title": "Division of labor with industry",
+          "detail": "NASA should hand off proven markets (launch, observation, communication) to SpaceX, Blue Origin, Rocket Lab, etc., and invest only in 'near-impossible' missions with no business case. He explicitly declines to be a VC ('take those conversations up with the Department of Commerce') and says this is also how NASA retains top talent, who won't stay working on 50-year-old shuttle hardware."
+        },
+        {
+          "title": "Aeronautics, telescopes, and a Space Academy",
+          "detail": "Cites the X-59 quiet supersonic program, NASA's past contributions (fly-by-wire, thrust vectoring, autonomous ground collision avoidance), refusal to subsidize 3% efficiency gains on 40-year-old engines, the Nancy Grace Roman telescope (~300 megapixel), Europa Clipper (2030), Dragonfly to Titan, and a proposed NASA-led 'Space Academy' to train the next generation."
+        }
+      ],
+      "quotes": [
+        "I am certainly not here for the money to favor companies for the title... I'm not here to be your VC to entertain your dream or invent new markets.",
+        "The world will just see who got there.",
+        "We are bad capital allocators and have been for a long time.",
+        "I'm thankful every day that I don't lead the IRS or social media... You imagine IRS putting out a video like this?"
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "A concrete, numbers-heavy vision from the sitting NASA Administrator on the US-China space race, budget priorities, and NASA's shifting relationship with private industry—valuable for anyone tracking space, defense, or the commercial space economy, though it's largely a one-sided pitch with light pushback."
+    },
+    "added_at": "2026-09-18T17:30:48.919340+00:00"
+  },
+  {
     "id": "3ee9866a-23a5-447b-a584-b1c167a23b58",
     "show": "All-In",
     "slug": "all-in",
