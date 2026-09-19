@@ -1,5 +1,52 @@
 [
   {
+    "id": "703e0913-cd78-4eb9-96d1-546c89a6aa07",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Bill Gurley: Searching for Feynman",
+    "url": "https://allinchamathjason.libsyn.com/bill-gurley-the-covid-cover-up-the-search-for-the-truth",
+    "published": "2026-09-19T00:20:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/7/d/2/6/7d26105dffe94aa0e5bbc093207a2619/1_Pod_Gurley.png",
+    "summary": {
+      "tldr": "Legendary VC Bill Gurley delivers a talk at an All-In event arguing that COVID-19's origins were never properly investigated, unlike other major catastrophes. He builds a framework of 'searchers vs. blockers' using case studies (Surfside collapse, 737 Max, Katrina, Fukushima, Challenger) to show how disasters normally get rigorous root-cause investigations, then contrasts that with the near-total absence of comparable inquiry into COVID. His core message: society must resume searching for COVID's root cause to prevent the next pandemic, without partisanship or attacking people.",
+      "topics": [
+        {
+          "title": "The 'searchers vs. blockers' framework",
+          "detail": "Gurley walks through five catastrophes—Surfside condo collapse (98 deaths), Boeing 737 Max crashes (2018/2019), Hurricane Katrina (1,800 deaths, $125B), Fukushima (2,200 deaths, $200B cleanup), and Challenger (1986)—showing how investigative journalists, government commissions, and independent scientists ('searchers') uncovered root causes while institutions like Boeing, the FAA, the Army Corps of Engineers, and TEPCO acted as 'blockers.'"
+        },
+        {
+          "title": "The CAPA process and why root cause matters",
+          "detail": "He cites the scientific failure-analysis method CAPA (detect, investigate, confirm root cause, correct, prevent), noting it's legally required by the FDA and aerospace regulators. His key claim: you cannot prevent recurrence without identifying root cause, and six years after COVID the root cause remains officially undetermined."
+        },
+        {
+          "title": "COVID's scale vs. the lack of investigation",
+          "detail": "Gurley claims COVID caused 15 million deaths and $45 trillion in cost—roughly 3,000x the combined toll of his five case studies. Yet there was no 30-person investigative newsroom, no bipartisan congressional commission, no NSF/NIST-funded probe, and no major victims' lawsuit—unlike every smaller disaster."
+        },
+        {
+          "title": "The five 'experts' as blockers",
+          "detail": "He names Francis Collins, Anthony Fauci, Peter Daszak (EcoHealth Alliance), Jeremy Farrar (Wellcome Trust/WHO), and Ralph Baric (UNC) as blockers, not experts—arguing they were virology insiders, prior gain-of-function advocates (Fauci wrote a 2011 WaPo op-ed saying 'pros outweigh the cons'), ran a misinformation campaign via the 'Proximal Origins' paper and Lancet letter, and never searched for the truth."
+        },
+        {
+          "title": "The 'DEFUSE' proposal",
+          "detail": "Gurley highlights a document uncovered by the DRASTIC group three years post-COVID: an EcoHealth Alliance proposal to insert a furin cleavage site at the S1/S2 junction of a bat coronavirus, linking US virologists with Wuhan's Shi Zhengli. He says a survey found 78% of scientists had never heard of it, and argues its early disclosure would have changed the entire 2020 conversation."
+        },
+        {
+          "title": "Heroes and the path forward",
+          "detail": "He praises five women—Alina Chan, Katherine Eban, Emily Kopp (US Right to Know), Zeynep Tufekci, and Alison Young—as searchers who were attacked. He calls on newsrooms to investigate, urges an independent Fukushima-style commission, opposes Rand Paul's prosecution approach, and notes China tested 80,000 animals without finding a crossover host."
+        }
+      ],
+      "quotes": [
+        "My P second COVID is way higher than my PDoom. And if their models are so smart, tell me what happened here.",
+        "So forgive me if I'm unafraid of what some AI guy's chatbot is going to do to humanity when you can't tell me what this thing already did.",
+        "If you have to get through niceties and seek truth when seven people died, how are you supposed to behave when 15 million people die?",
+        "I can easily forgive a child who is afraid of the dark. The real tragedy in life is when men are afraid of the light."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "It's a well-researched, provocative argument on COVID-origins accountability with a memorable framework, though it's a one-sided advocacy talk rather than a balanced investigation and offers little on tech, startups, or markets."
+    },
+    "added_at": "2026-09-19T17:03:25.634640+00:00"
+  },
+  {
     "id": "665f827a-937f-42e3-a4a5-6f2d6c7e50fd",
     "show": "All-In",
     "slug": "all-in",
