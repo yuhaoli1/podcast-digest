@@ -1,5 +1,48 @@
 [
   {
+    "id": "a2a542d5-2feb-441a-a523-910e16c2d193",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Adam Foroughi, Applovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 & the $50B Game Ad Market",
+    "url": "https://allinchamathjason.libsyn.com/adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-10-the-50b-game-ad-market",
+    "published": "2026-09-20T20:49:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/7/6/e/5/76e538ca850ee80de5bbc093207a2619/Podcast_Thumbnail_-_AIS_26-20260920-4hsy5e44i2.png",
+    "summary": {
+      "tldr": "AppLovin CEO Adam Foroughi explains how his mobile-gaming ad company built a ~$50B market, survived a 92% stock collapse from a $40B peak to $3.8B in 2022, and rebounded to a ~$250B market cap by aggressively buying back stock and upgrading from regression models to deep learning. The core takeaway: ad recommendation systems are 'ML 1.0,' and AppLovin's edge is creating demand/discovery (like Meta) rather than closing bottom-of-funnel search transactions (like Google), positioning it against AI chatbot ad threats.",
+      "topics": [
+        {
+          "title": "The mobile gaming ad market",
+          "detail": "Over a billion adults play mobile casual games daily. AppLovin disclosed $11B/year of ad spend on its platform two years ago, growing ~60% YoY to roughly $20B today; the total mobile gaming ad ecosystem is ~$50B, comparable to what social was not long ago."
+        },
+        {
+          "title": "Surviving the 92% drawdown",
+          "detail": "AppLovin IPO'd April 2021 at ~$28B (peaked $40B) on $600M EBITDA, then collapsed to ~$3.8B market cap in 2022 despite $1B EBITDA. Foroughi stopped talking to investors, bought back ~$6B of stock (retiring 20-25% of shares), and rode the recovery from $9 to $750/share and a ~$250B cap."
+        },
+        {
+          "title": "Ads as ML 1.0 and the AI threat",
+          "detail": "Advertising was the first profitable implementation of the deep-learning tech now powering AI; recommendation systems and LLMs share research. Foroughi argues chatbot ads only compete with Google's bottom-funnel search (transactions that would happen anyway), while AppLovin and Meta create genuine discovery and economic expansion."
+        },
+        {
+          "title": "Debunking the 'phone is listening' myth",
+          "detail": "Foroughi flatly denies ad companies track precise location or listen via microphone, calling it technically unrealistic; the 'creepy' targeting comes from trackable actions like searches and browsing, plus social-graph relationships."
+        },
+        {
+          "title": "Moat, margins and the China team",
+          "detail": "AppLovin runs 84-85% EBITDA margins, which Foroughi attributes to complex, differentiated-data models that competitors haven't undercut. Engineering is in Palo Alto, Beijing, and Singapore; he previously bought and later sold game studios purely to seed training data for its first deep-learning model."
+        }
+      ],
+      "quotes": [
+        "Advertising is like ML 1.0 — really the first implementation of all these technologies that now are driving AI today.",
+        "We went to a $3.8 billion market cap... I turned internal and said I'm not going to talk to investors anymore. They're not buying our stock. Let's become our best investor.",
+        "I don't think advertising companies can track locations, so we don't track location at all... the mic on to then parse the content — not realistic.",
+        "We never think we've won. We wake up and think we're probably going to get screwed right now and we better work hard."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "A rare, candid founder walkthrough of surviving a brutal drawdown and a clear framing of ad tech vs. AI, valuable for anyone following markets and ad-driven businesses, though light on hard skepticism from the hosts."
+    },
+    "added_at": "2026-09-21T19:05:20.591587+00:00"
+  },
+  {
     "id": "703e0913-cd78-4eb9-96d1-546c89a6aa07",
     "show": "All-In",
     "slug": "all-in",
