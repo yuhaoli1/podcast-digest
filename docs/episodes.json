@@ -1,5 +1,48 @@
 [
   {
+    "id": "ebe0e737-5995-476f-8d20-673400e3ec13",
+    "show": "All-In",
+    "slug": "all-in",
+    "title": "Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine",
+    "url": "https://allinchamathjason.libsyn.com/blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine",
+    "published": "2026-09-22T09:00:00+00:00",
+    "thumbnail": "https://static.libsyn.com/p/assets/7/6/e/f/76ef196ad6a901ad88c4a68c3ddbc4f2/signal-2026-09-21-15-08-09-760_002-1.jpg",
+    "summary": {
+      "tldr": "Boom Supersonic CEO Blake Scholl gives an All-In stage talk on reviving supersonic passenger flight. The key pivot: after breaking up publicly with Rolls Royce, Boom built its own jet engine from scratch—and is now repurposing that engine core to sell power for data centers, which Scholl claims is a massive money-printing business that funds the airplane. He targets ~2030 for supersonic commercial flight at a ~$3,500 break-even transatlantic fare.",
+      "topics": [
+        {
+          "title": "Boomless supersonic flight and legalization",
+          "detail": "Boom's XB1 became the first privately developed jet to break the sound barrier in 2025 using 'boomless cruise' (Mach cutoff), which redirects the sonic boom upward so it never hits the ground—effective up to ~Mach 1.3. Trump's executive order ended the 1973 supersonic overland ban on June 6; a Supersonic Legalization Act passed the House unanimously and cleared Senate Commerce unanimously."
+        },
+        {
+          "title": "The engine pivot into data center power",
+          "detail": "After the failed Rolls Royce outsourcing, Boom built a vertically integrated engine (down to turbine blades). By removing the fan and adding a generator, the Mach 1.7 hot-running core becomes a water-free, behind-the-meter power unit delivering 42 megawatts in a couple of trailers. First core hits a test stand next month; Scholl aims to add 10+ gigawatts to the grid over five years."
+        },
+        {
+          "title": "Timeline, pricing, and demand claims",
+          "detail": "Transatlantic round trip at Mach 1.7 in 3.5 hours with a ~$3,500 each-way break-even fare; goal is commercial service by ~2030. Scholl claims 'tens of gigawatts of demand' for the power product in his inbox and 130 airplane orders, and hints Elon (Colossus) may be interested."
+        },
+        {
+          "title": "David vs. Goliath vs. Boeing",
+          "detail": "Scholl notes Boeing hasn't launched a new airplane since 2004 and its latest is a 'carbon fiber copy' of the 707. He built the XB1 with ~50 people, after Bezos passed on Boom's seed round and wrote in Amazon's 2015 shareholder letter that you can't build an all-composite airliner in a garage startup."
+        },
+        {
+          "title": "Regulatory speed under the current administration",
+          "detail": "Scholl praises the administration's pace: he broke the sound barrier Monday, got a West Wing invite by Tuesday, and had a Boom model in the Oval Office (still there) by Thursday. The executive order took 115 days, which he framed as slow-feeling but faster than alternatives; he stresses supersonic flight is nonpartisan."
+        }
+      ],
+      "quotes": [
+        "The one dumbest things I ever did was try to outsource our engine development to a big old company... So we broke up with Rolls Royce very publicly, and people said we were doomed.",
+        "The thing everyone said would kill us... actually turns out to be the thing that makes a supersonic startup financially viable.",
+        "We don't need any water. And I think we all know that water thing is kind of a bullshit injection.",
+        "It's like, boom, and you're there."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "A concrete, numbers-heavy pitch on a genuinely novel pivot (supersonic engine core to data-center power) with real regulatory and technical milestones, though it's a founder's promotional talk with little pushback."
+    },
+    "added_at": "2026-09-22T17:56:15.885095+00:00"
+  },
+  {
     "id": "a2a542d5-2feb-441a-a523-910e16c2d193",
     "show": "All-In",
     "slug": "all-in",
