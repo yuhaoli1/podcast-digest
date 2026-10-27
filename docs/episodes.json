@@ -1,5 +1,52 @@
 [
   {
+    "id": "ZAzWPE9CItg",
+    "show": "Lex Fridman",
+    "slug": "lex-fridman",
+    "title": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503",
+    "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
+    "published": "2026-10-26T22:51:51+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/ZAzWPE9CItg/hqdefault.jpg",
+    "summary": {
+      "tldr": "An emergency roundtable with three mathematicians (number theorist Alex Kontorovich, theoretical computer scientist Ankur Moitra, and fluid-dynamics engineer Steven Brunton) reacting to OpenAI's and Anthropic's late-2024/2025 release of ~700 claimed AI-generated proofs, including the quasi-Riemann hypothesis, the Unique Games Conjecture, a Navier-Stokes blowup counterexample, and a 13-million-line Lean formalization of Fermat's Last Theorem. The central takeaway: AI has collapsed the long-standing correlation between 'can solve hard theorems' and 'what humans value about math,' forcing the field to rethink prizes, training, and what mathematicians are actually for. The panel is shaken but mostly argues this is a disruptive opportunity rather than the death of math.",
+      "topics": [
+        {
+          "title": "The AI proof drop and emotional whiplash",
+          "detail": "OpenAI dropped ~700 problems (only ~10% positive success rate shown), including quasi-RH and the Unique Games Conjecture. Terence Tao is quoted as 'horrified' by graduate/postdoc research being 'casually disrupted or destroyed.' Kontorovich describes seeing quasi-RH drop while holding a whiskey at a MoMath gala and being unable to compute what he was seeing; Moitra notes rumors preceded several results, including a colleague adding a footnote rushing out his approach."
+        },
+        {
+          "title": "The 'solved axiom' and whether AI destroys math",
+          "detail": "Kontorovich proposes a 'solved axiom': any problem a human+AI can solve, AI alone could have solved. He argues even if true it doesn't destroy pure math, invoking the death of 'centaur chess.' Moitra counters with the 'doorman fallacy'—reducing a job to its most visible task (proving theorems) ignores the real value (building theories, making connections). None of the three actually believe the solved axiom holds yet."
+        },
+        {
+          "title": "Quasi-Riemann Hypothesis and Fermat formalization",
+          "detail": "The quasi-RH result established a zero-free vertical strip (no zeros with real part between 7/8 and 1), versus the full RH requiring 1/2; Kontorovich says the method fundamentally can't reach 1/2, so a new idea is still needed. Anthropic produced a 13-million-line Lean/Mathlib proof of Fermat's Last Theorem with only ~2-3 humans whose main input was essentially 'keep going'—Kontorovich says everything he claimed in a colloquium two days earlier was proven wrong within 48 hours, declaring autoformalization basically solved."
+        },
+        {
+          "title": "Navier-Stokes blowup and the engineering gap",
+          "detail": "Brunton explains the AI constructed a smooth-forced finite-time blowup counterexample via a vortex thinning like a figure skater pulling in arms (only possible in 3D). He stresses the result is physically non-physical—by the time it blows up it's no longer a fluid—so day-to-day engineering is 'almost completely unchanged.' His line: 'We solved the million-dollar math problem. There's a trillion-dollar engineering problem' (fast turbulence prediction and inverse design)."
+        },
+        {
+          "title": "Complexity theory, worst-case analysis, and why deep learning works",
+          "detail": "Moitra explains the Unique Games Conjecture (a strengthening of the PCP theorem for hardness of approximation) was proven true despite his earlier skepticism. He argues the frontier is 'beyond worst-case analysis'—natural data and evolved problems (protein folding, SAT in register allocation) are secretly easy, and 'nature abhors computationally hard problems.' He describes low-rank language models and 'subliminal learning' (an owl-loving LLM transmitting its preference via random numbers), framing alignment as a modeling problem."
+        },
+        {
+          "title": "Advice, prizes, and the new playbook",
+          "detail": "The panel warns the PhD 'blueprint' (improve a known problem, get noticed) is obsolete, and worries about secrecy replacing mathematical openness and people 'scraping the web for open problems to flood arXiv.' They question whether another Fields Medal will even be awarded. Advice: be more curious than smart, pretend you already have tenure, learn fundamentals anyway (times tables/calculus despite calculators), and prioritize intrinsic purpose and human community over intelligence-as-status."
+        }
+      ],
+      "quotes": [
+        "Everything I said in that colloquium was wrong... On Friday, there was a drop of thirteen million lines of code from the axioms, Fermat's Last Theorem is proved.",
+        "Math is not the fact, it's the why. It's always been the why... if you just tell me a fact is true, but I don't understand why it's true, that has contributed zero to my knowledge.",
+        "We solved the million-dollar math problem. There's a trillion-dollar engineering problem, which is how do you predict these things in a fast, efficient way.",
+        "The easiest way to get tenure is just to pretend you already have it and do what you would have wanted to do all along."
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "A timely, substantive look at a genuine inflection point in AI capability—with concrete results, numbers, and institutional implications—though it's long, philosophical, and more relevant to the AI/research-watcher than to markets-focused readers."
+    },
+    "added_at": "2026-10-27T19:11:30.033881+00:00"
+  },
+  {
     "id": "ebe0e737-5995-476f-8d20-673400e3ec13",
     "show": "All-In",
     "slug": "all-in",
