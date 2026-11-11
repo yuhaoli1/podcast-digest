@@ -1,5 +1,52 @@
 [
   {
+    "id": "2hJkprFnzhY",
+    "show": "Lex Fridman",
+    "slug": "lex-fridman",
+    "title": "Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare | Lex Fridman Podcast #504",
+    "url": "https://www.youtube.com/watch?v=2hJkprFnzhY",
+    "published": "2026-11-10T23:52:20+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/2hJkprFnzhY/hqdefault.jpg",
+    "summary": {
+      "tldr": "Military analysts Michael Kofman and Preston Stewart give a detailed, ground-level assessment of the Russia-Ukraine war in its fifth year (early 2026). Their core argument: Ukraine is having its best year of combat performance since 2023 and holds battlefield initiative in places, while Russia's grinding offensive has hit diminishing returns, yet neither side can force a collapse and Russia's political demands remain disconnected from its military means, making near-term peace unlikely. They go deep on how drone-dominated warfare actually works and why it's far more manpower-intensive and less autonomous than popularly believed.",
+      "topics": [
+        {
+          "title": "State of the war in 2026",
+          "detail": "Kofman says 2026 is Russia's worst combat year since winter 2023, with a tactical inflection point around summer/fall 2025. Ukraine holds the initiative on parts of the front, running localized offensives (Third Corps' Vihod operation near Lyman, air assault brigades in Zaporizhzhia) that have gained more terrain than the much-larger failed summer 2023 offensive. Russia has pivoted to strategic bombardment, which historically has a poor track record of achieving maximalist political aims."
+        },
+        {
+          "title": "How drone warfare actually works",
+          "detail": "Roughly 8,000–10,000 FPV drones are used per day by one side; drones inflict ~80% of losses but work in combination with minefields and artillery. It takes multiple drones per kill — about 5 drones per person, 15–20 per infantry fighting vehicle, 30–40 for a tank (one extreme case needed 79). Videos mislead because they only show hits, never misses. The war is still human-centric: a drone team needs 2–3 people, and autonomy/AI is over-hyped as a small fraction of the fight."
+        },
+        {
+          "title": "Fiber-optic drones and the EW arms race",
+          "detail": "Russia first deployed fiber-optic cable drones during Ukraine's Kursk offensive; these can't be jammed and now reach up to 50 km. Both sides iterate on a roughly 3–4 month technology/tactics cycle. Ukraine tends to innovate faster bottom-up (units operate like defense startups), while Russia is slower but better at scaling a proven solution across the force."
+        },
+        {
+          "title": "Infiltration tactics and the 'gray zone'",
+          "detail": "There are no cohesive front lines — Ukraine defends with sparse 3-man picket positions and drones in a ~15km 'kill zone.' Russia advances via costly infiltration (individual infantry, motorcycles, ATVs), losing an estimated 90–95% of soldiers but daisy-chaining survivors through gaps to harass supply lines and displace Ukrainian drone units. An American volunteer called it a great tactic 'if you don't care about losing soldiers.'"
+        },
+        {
+          "title": "Bakhmut, Wagner, and Prigozhin's mutiny",
+          "detail": "Kofman argues the loss of Bakhmut was not strategically critical (it took Russia a year just to reach the next town), coining 'Bakhmut syndrome' for defending cities past the point of military sense. Prigozhin's June 2023 mutiny was likely a trapped petition rather than a real regime-change bid; he had no elite backing and was killed in a midair plane explosion two months later. After Wagner's dismantling, the Russian military 'Wagnerized' — adopting convict-staffed assault groups across the force."
+        },
+        {
+          "title": "Mismatch of means and goals; prospects for peace",
+          "detail": "Russia spends ~44% of its budget and ~9–10% of GDP on the war and can fight into 2027, but Kofman says Putin's maximalist aims (all of Donbas plus parts of Zaporizhzhia, Dnipropetrovsk, Kherson, plus limits on Ukraine's military and NATO path) are untethered from battlefield reality. Both hosts are pessimistic on near-term peace, warning a bare ceasefire could just become a rearmament period leading to a third war, echoing the two failed Minsk agreements. Both are critical of the Trump administration's fitful, leverage-squandering approach that repositioned the US as a 'neutral' arbiter."
+        }
+      ],
+      "quotes": [
+        "\"As Gibson used to say, 'The future's already here. It's not evenly distributed.'\"",
+        "\"It's an incredible tactic if you don't care about losing soldiers... You're just gonna lose 90, 95% of your guys along the way.\"",
+        "\"As long as it takes is a slogan, not a plan.\"",
+        "\"Ceasefires can often just become rearmament periods to renew hostilities... a piece of paper with the word ceasefire on it that won't be worth the paper it's on.\""
+      ],
+      "verdict": "Worth listening",
+      "verdict_reason": "An unusually substantive, numbers-rich primer on modern drone warfare and the strategic logic of the war from two credible analysts, valuable for anyone tracking defense tech and geopolitics, though its length and military detail make it a time investment for the general tech/VC reader."
+    },
+    "added_at": "2026-11-11T21:02:23.210539+00:00"
+  },
+  {
     "id": "ZAzWPE9CItg",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
