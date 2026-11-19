@@ -1,5 +1,52 @@
 [
   {
+    "id": "v1X9Fqs5a14",
+    "show": "Lex Fridman",
+    "slug": "lex-fridman",
+    "title": "GTA 6, Crime, Jewel Heists, Mafia, Gangs, Prison, Corrupt Cops & Money | Lex Fridman Podcast #505",
+    "url": "https://www.youtube.com/watch?v=v1X9Fqs5a14",
+    "published": "2026-11-19T03:15:09+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/v1X9Fqs5a14/hqdefault.jpg",
+    "summary": {
+      "tldr": "Former jewelry thief Larry Lawton, once associated with the Gambino crime family and later imprisoned for over a decade, discusses his heist career, 1980s-90s Miami crime, prison life, and criminal justice reform. The core takeaway: successful robbery is about reading people and patient casing, not beating technology, and the US prison system is deeply broken but fixable. Framed around GTA 6's Miami setting, the episode blends war stories with a critique of incarceration.",
+      "topics": [
+        {
+          "title": "The craft of jewelry heists",
+          "detail": "Lawton claims 25+ robberies, casing over 1,000 stores (sometimes 2-6 weeks each), stealing whole wholesaler diamond boxes worth up to a quarter million. He worked backward from the escape route, exploited sun glare on store windows, used pillowcases and flex cuffs, and fenced jewels within 24 hours—melting gold and breaking up signature pieces. He insists robbery is about people's habits, not defeating cameras."
+        },
+        {
+          "title": "Miami, the mob, and the economy of crime",
+          "detail": "He describes 1980s-90s Miami as 'built on drug money,' keeping $50,000 in his trunk to pay off cops, and being associated with the Gambinos as a bookie and loan shark. He ran a protection-money lottery claimed to pay 600-to-1 vs the state's 500, and argues the mob was 'more so than the state' honest and effective at enforcement."
+        },
+        {
+          "title": "GTA 6 critique and his own AI trailer",
+          "detail": "Lawton picks apart the GTA 6 trailer: the hideout looks like a 'trap house,' a lax security guard, and too many people present—no real operation would expose itself that way. Lex shows a Higgsfield-generated AI game trailer starring Lawton, who spots details like a New York cop insignia."
+        },
+        {
+          "title": "Prison, the hole, and solitary confinement",
+          "detail": "Lawton says he was four-pointed, beaten, and abused for 11 months, came close to suicide with a sheet around his neck, and read a book a day in the hole. He claims the US holds ~1.9 million inmates vs China's 1.69 million, argues only ~7% of crimes are truly violent, and believes Epstein was killed—walking through exactly how a bribed guard could arrange it."
+        },
+        {
+          "title": "Refusing to snitch and the FBI who caught him",
+          "detail": "He was offered two years and to keep his $6.1 million if he cooperated, but refused on principle ('the only thing you have is your word'). FBI agent Matt Mullen caught him via thorough police work—flooding areas with agents after MO-matching robberies and pulling convenience store camera footage. He's the only person imprisoned alone under the RICO Act (his partner was his brother)."
+        },
+        {
+          "title": "Prison reform proposals",
+          "detail": "Lawton pitches a surprise-inspection team (ex-con, guard, warden, medical, admin) with authority to enter any prison unannounced—anyone blocking them gets fired. He touts his court-sentenced youth 'Reality Check' program with claimed 90% success keeping kids out of jail, validated by Eastern Florida State College, and pushes community-first policing over an 'us against them' mentality."
+        }
+      ],
+      "quotes": [
+        "You're not robbing technology, you're robbing people. And when people make mistakes.",
+        "The only thing you have in this world, son, is your word.",
+        "The high I got out of robbing a jewelry store when I left was better than every high I still ever had.",
+        "I'll tell you stories about the government and how dark they are... they have a way of doing it better than the government."
+      ],
+      "verdict": "Skim-worthy",
+      "verdict_reason": "A vivid, well-told criminal memoir with sharp detail on the economics of crime and prison, but little direct relevance to tech, startups, or markets beyond a loose GTA 6 hook."
+    },
+    "added_at": "2026-11-19T21:57:56.614755+00:00"
+  },
+  {
     "id": "2hJkprFnzhY",
     "show": "Lex Fridman",
     "slug": "lex-fridman",
